@@ -1,2 +1,1 @@
-
-    #Weather Analytics
+# Weather Analytics
