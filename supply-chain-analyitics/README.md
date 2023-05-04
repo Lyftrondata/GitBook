@@ -1,1 +1,1 @@
-# Supply Chain Analyitics
+# Supply Chain Analytics
