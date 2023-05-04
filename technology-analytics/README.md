@@ -1,2 +1,1 @@
-
-    #Technology Analytics
+# Technology Analytics
