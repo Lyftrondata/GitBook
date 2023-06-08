@@ -1,5 +1,7 @@
 ---
-description: This section contain information about zoho-recruit connector tables information
+description: >-
+  This section contains information about Zoho Recruit connector tables
+  information
 ---
 
 # Tables
@@ -14,9 +16,8 @@ Lyftrondata Zoho Recruit Data Dictionary
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-

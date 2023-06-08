@@ -6,26 +6,24 @@ description: This section explains how to connect Lyftrondata to Zoho Recruit.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Zoho Recruit](https://www.lyftrondata.com/integration/zoho-recruit/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers an oAuth method connecting to [Zoho Recruit](https://www.lyftrondata.com/integration/zoho-recruit/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
-This option has been deprecated by Microsoft.
+| Key           | Value                             | Field    |
+| ------------- | --------------------------------- | -------- |
+| Access Key    | Your Zoho Recruiter Access Key    | Required |
+| Access Secret | Your Zoho Recruiter Client Access | Required |
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+Follow the steps below to establish an OAuth connection
 
-Follow the steps below to establish a basic connection
-
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
-Basic Connection
+{% embed url="https://www.loom.com/share/a3aaa88027e747f5b9a8db8f3598bdcb" %}
+Zoho Recruit API
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
