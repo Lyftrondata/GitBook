@@ -10,16 +10,13 @@ description: This section explains how to connect Lyftrondata to Zoho Recruit.
 
 ### OAuth
 
-| Key           | Value                             | Field    |
-| ------------- | --------------------------------- | -------- |
-| Access Key    | Your Zoho Recruiter Access Key    | Required |
-| Access Secret | Your Zoho Recruiter Client Access | Required |
+<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Access Key</td><td>Your Zoho Recruiter Access Key</td><td>Required</td></tr><tr><td>Access Secret</td><td>Your Zoho Recruiter Client Access</td><td>Required</td></tr><tr><td>Data Center</td><td>Your Zoho Recruiter Data Center (in, com, eu)</td><td>Required</td></tr></tbody></table>
+
+
 
 Follow the steps below to establish an OAuth connection
 
-{% embed url="https://www.loom.com/share/a3aaa88027e747f5b9a8db8f3598bdcb" %}
-Zoho Recruit API
-{% endembed %}
+{% embed url="https://www.loom.com/share/f1a61a93521d4df9ae5a00f967a609f1" %}
 
 ### Quickstart Steps
 
