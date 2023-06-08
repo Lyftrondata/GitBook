@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zoho Recruit
-    supports.
+  This section contains information about the destinations that Zoho Recruit
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Recruit](https:/
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
-zoho-recruit to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/2818ea28c6814600936c44fc50e632c4" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
