@@ -10,7 +10,7 @@ description: This section explains how to connect Lyftrondata to Zoho Recruit.
 
 ### OAuth
 
-<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Access Key</td><td>Your Zoho Recruiter Access Key</td><td>Required</td></tr><tr><td>Access Secret</td><td>Your Zoho Recruiter Client Access</td><td>Required</td></tr><tr><td>Data Center</td><td>Your Zoho Recruiter Data Center (in, com, eu)</td><td>Required</td></tr></tbody></table>
+<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Access Key</td><td>Your Zoho Recruiter Access Key</td><td>Required</td></tr><tr><td>Access Secret</td><td>Your Zoho Recruiter Access Secret</td><td>Required</td></tr><tr><td>Data Center</td><td>Your Zoho Recruiter Data Center (in, com, eu)</td><td>Required</td></tr></tbody></table>
 
 Zoho Recruit is hosted at multiple data centres. Therefore, the API domain URL varies for each data centre. This makes integration simpler and avoids conflicts between browser extensions and the user's current session.
 
