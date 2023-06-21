@@ -1,6 +1,7 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the Sql Server source connector.
+  This page contains the setup guide and reference information for the Sql
+  Server source connector.
 ---
 
 # Sql Server
@@ -12,25 +13,23 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sql Server](htt
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Sql Server is available in real-time.&#x20;
+* Data from SQL Server is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Sql Server relational schema model.
+* Ready to query SQL Server relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Sql Server](https://www.lyftrondata.com/integration/sql-server/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Sql Server](https://www.lyftrondata.com/integration/sql-server/) setup guide.
 
-* [ ] [Prerequisite](../../technology-analytics/sql-server/prerequisite.md)
-* [ ] [Connection Steps](../../technology-analytics/sql-server/connection-steps.md)
-* [ ] [Data Model](../../technology-analytics/sql-server/data-model/)
-* [ ] [Driver Framework](../../technology-analytics/sql-server/driver-framework/)
-* [ ] [Release Notes](../../technology-analytics/sql-server/release-notes.md)
+* [ ] [Connection Steps](connection-steps.md)
+* [ ] [Data Model](data-model/)
+* [ ] [Driver Framework](driver-framework/)
+* [ ] [Release Notes](release-notes.md)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-

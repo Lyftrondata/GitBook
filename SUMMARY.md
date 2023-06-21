@@ -1170,7 +1170,6 @@
       * [System Methods](technology-analytics/spreadsheets/driver-framework/system-methods.md)
       * [System Tables](technology-analytics/spreadsheets/driver-framework/system-tables.md)
   * [Sql Server](technology-analytics/sql-server/README.md)
-    * [Prerequisite](technology-analytics/sql-server/prerequisite.md)
     * [Connection Steps](technology-analytics/sql-server/connection-steps.md)
     * [Destinations](technology-analytics/sql-server/destination.md)
     * [Data Model](technology-analytics/sql-server/data-model/README.md)
