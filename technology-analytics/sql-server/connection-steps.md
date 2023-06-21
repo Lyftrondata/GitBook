@@ -17,7 +17,7 @@ This option has been deprecated by Microsoft.
 | Host     | Your Personal Token.    | Required |
 | Port     | Your Sql server port.   | Required |
 | Database | Your database name.     | Required |
-| User     | Your Username.          | Required |
+| User     | Your database User.     | Required |
 | Password | Your database Password. | Required |
 
 Follow the steps below to establish a basic connection
