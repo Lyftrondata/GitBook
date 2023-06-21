@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Sql Server
-    supports.
+  This section contains information about the destinations that Sql Server
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,13 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Sql Server](https://w
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
-sql-server to Snowflake
+{% embed url="https://www.loom.com/share/75d07790a36648219e359be195a00fdd" %}
+Sql-Server to Snowflake
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

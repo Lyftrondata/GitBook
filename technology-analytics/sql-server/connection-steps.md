@@ -12,20 +12,23 @@ description: This section explains how to connect Lyftrondata to Sql Server.
 
 This option has been deprecated by Microsoft.
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key      | Value                   | Field    |
+| -------- | ----------------------- | -------- |
+| Host     | Your Personal Token.    | Required |
+| Port     | Your Sql server port.   | Required |
+| Database | Your database name.     | Required |
+| User     | Your Username.          | Required |
+| Password | Your database Password. | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
-Basic Connection
+{% embed url="https://www.loom.com/share/ab009177685649dba49e4ea8684d6653" %}
+Connect with Sql-Server
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
