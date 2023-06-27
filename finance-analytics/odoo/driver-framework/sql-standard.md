@@ -9,7 +9,7 @@ description: >-
 
 ### Select Statements
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.lyftrondata.com/integration/odoo/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
 
 * SELECT
 * INTO

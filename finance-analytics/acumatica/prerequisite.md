@@ -11,11 +11,12 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Acumatica](https://www.lyftrondata.com/integration/acumatica/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/7fa9c4cf212c4e8b98944d3eeb162c74 :Old
+https://www.loom.com/share/0031638ee23c4ca9940725a62df7202f :New" %}
 Lyftrondata Acumatica App Steps
 {% endembed %}
 

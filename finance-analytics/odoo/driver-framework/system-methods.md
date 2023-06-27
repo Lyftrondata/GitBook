@@ -8,7 +8,7 @@ description: >-
 
 ### Methods Detail
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.lyftrondata.com/integration/odoo/) provides information about the description and usage of the method in the code.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo//) provides information about the description and usage of the method in the code.
 
 Methods Return Type: <mark style="color:blue;">**tuple(bool, token:str)**</mark>
 

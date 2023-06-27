@@ -6,7 +6,7 @@ description: This section describes the details of Acumatica ERD, Tables, and Vi
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Acumatica](https://www.lyftrondata.com/integration/acumatica/)[ ](https://www.lyftrondata.com/integration/acumatica/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../finance-analytics/acumatica/data-model/erd.md)
 * [ ] [Tables](../../../finance-analytics/acumatica/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Acumatica](https://
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../finance-analytics/acumatica/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

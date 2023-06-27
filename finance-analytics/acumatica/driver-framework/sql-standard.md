@@ -9,7 +9,7 @@ description: >-
 
 ### Select Statements
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Acumatica](https://www.lyftrondata.com/integration/acumatica/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
 
 * SELECT
 * INTO

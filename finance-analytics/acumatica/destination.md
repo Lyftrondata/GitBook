@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Acumatica](https://www.lyftrondata.com/integration/acumatica/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/de628bb5a04640219babbdb7168ae5b3" %}
 acumatica to Snowflake
 {% endembed %}
 

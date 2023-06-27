@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Acumatica](https://www.lyftrondata.com/integration/acumatica/)[ ](https://www.lyftrondata.com/integration/acumatica/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/)[ ](https://www.lyftrondata.com/integration/acumatica/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

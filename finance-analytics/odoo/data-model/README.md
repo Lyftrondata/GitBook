@@ -6,7 +6,7 @@ description: This section describes the details of Odoo ERD, Tables, and Views.
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.lyftrondata.com/integration/odoo/)[ ](https://www.lyftrondata.com/integration/odoo/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../finance-analytics/odoo/data-model/erd.md)
 * [ ] [Tables](../../../finance-analytics/odoo/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Odoo](https://www.l
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../finance-analytics/odoo/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Odoo](https://www.lyftrondata.com/integration/odoo/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/e223ae03a9e74deebd065fe660ca97b5" %}
 odoo to Snowflake
 {% endembed %}
 

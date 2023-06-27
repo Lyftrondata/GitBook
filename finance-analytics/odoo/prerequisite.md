@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Odoo](https://www.lyftrondata.com/integration/odoo/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/20385e60ac8446369862a5977cd48c7a" %}
 Lyftrondata Odoo App Steps
 {% endembed %}
 

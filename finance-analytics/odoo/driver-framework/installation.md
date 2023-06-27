@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Odoo](https://www.lyftrondata.com/integration/odoo/)[ ](https://www.lyftrondata.com/integration/odoo/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>
