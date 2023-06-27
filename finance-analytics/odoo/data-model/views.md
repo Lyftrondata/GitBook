@@ -14,10 +14,12 @@ Lyftrondata Odoo Data Dictionary
 
 ### Quickstart Steps
 
+<<<<<<< HEAD
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\finance-analytics/odoo/quickstart-steps.md).
+=======
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
+>>>>>>> 07ebdf775056215efad126d844f09dd8501866b5
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
-

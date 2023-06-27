@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Dynamics 365 Business Central
-    supports.
+  This section contains information about the destinations that Dynamics 365
+  Business Central supports.
 ---
 
 # Destinations
@@ -12,13 +12,25 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Dynamics 365 Business
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
-dynamics-365-business-central to Snowflake
+{% embed url="https://www.loom.com/share/fd4a4ddcf7054a8883c1bf8e3233eb7c" %}
+Dynamics 365 Business Central to Snowflake
+{% endembed %}
+
+### SQL Server Load:
+
+{% embed url="https://www.loom.com/share/c3033103d5064fbb83acdcfd32b4d132?sid=c6be12c7-2b17-4ada-bbed-c9e6bb0e56e1" %}
+Dynamics 365 Business Central to SQL Server
+{% endembed %}
+
+### Redshift Load:
+
+{% embed url="https://www.loom.com/share/c9472e5b272543149e9edb72117db91b?sid=3e6c9cda-1b0e-4745-80a7-d8b586c7a0a7" %}
+Dynamics 365 Business Central to Redshift
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

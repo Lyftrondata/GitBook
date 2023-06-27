@@ -1,5 +1,7 @@
 ---
-description: This section contain information about dynamics-365-business-central connector tables information
+description: >-
+  This section contain information about dynamics-365-business-central connector
+  tables information
 ---
 
 # Tables
@@ -14,9 +16,8 @@ Lyftrondata Dynamics 365 Business Central Data Dictionary
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../)
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
