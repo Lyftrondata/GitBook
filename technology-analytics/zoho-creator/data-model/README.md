@@ -6,7 +6,7 @@ description: This section describes the details of Zoho Creator ERD, Tables, and
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/zoho-creator/)[ ](https://www.lyftrondata.com/integration/zoho-creator/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../technology-analytics/zoho-creator/data-model/erd.md)
 * [ ] [Tables](../../../technology-analytics/zoho-creator/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../technology-analytics/zoho-creator/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

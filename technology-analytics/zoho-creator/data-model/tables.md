@@ -6,15 +6,15 @@ description: This section contain information about zoho-creator connector table
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/zoho-creator/)[ ](https://www.lyftrondata.com/integration/zoho-creator/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator//)[ ](https://www.lyftrondata.com/integration/zoho-creator/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1a7PyHRYbH-hhS9fWW9GY1ZUT7YiWtemWH9HeNGhVjqk/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1FxtK0jW_f-gA47stGyPOtg4nfq3mhYjiNUo2Desk4so/edit?usp=sharing" %}
 Lyftrondata Zoho Creator Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\technology-analytics/zoho-creator/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

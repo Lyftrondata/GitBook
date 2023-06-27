@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Creator](https://www.lyftrondata.com/integration/zoho-creator/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/b6bb3fb772e7424bbc07ce3c3ae0355b" %}
 zoho-creator to Snowflake
 {% endembed %}
 

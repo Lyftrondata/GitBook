@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Creator](https://www.lyftrondata.com/integration/zoho-creator/)[ ](https://www.lyftrondata.com/integration/zoho-creator/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator//)[ ] provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Creator](h
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Zoho Creator](https://www.lyftrondata.com/integration/zoho-creator/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) setup guide.
 
 * [ ] [Prerequisite](../../technology-analytics/zoho-creator/prerequisite.md)
 * [ ] [Connection Steps](../../technology-analytics/zoho-creator/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../technology-analytics/zoho-creator/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
