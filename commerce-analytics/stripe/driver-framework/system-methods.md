@@ -8,7 +8,7 @@ description: >-
 
 ### Methods Detail
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/stripe/) provides information about the description and usage of the method in the code.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe//) provides information about the description and usage of the method in the code.
 
 Methods Return Type: <mark style="color:blue;">**tuple(bool, token:str)**</mark>
 

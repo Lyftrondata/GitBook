@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Shopify](https://www.lyftrondata.com/integration/shopify/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/072a633fd1b04d198b2f6f61072c9ae1" %}
 shopify to Snowflake
 {% endembed %}
 

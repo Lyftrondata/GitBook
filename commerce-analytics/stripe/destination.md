@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Stripe](https://www.lyftrondata.com/integration/stripe/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/86677f001ce7419cb7534f9e60af8874" %}
 stripe to Snowflake
 {% endembed %}
 

@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Shopify](https://www.lyftrondata.com/integration/shopify/)[ ](https://www.lyftrondata.com/integration/shopify/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

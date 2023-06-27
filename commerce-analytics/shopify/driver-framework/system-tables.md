@@ -9,7 +9,7 @@ description: >-
 
 ### System Tables Information
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Shopify](https://www.lyftrondata.com/integration/shopify/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify//) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
 
 | Table Name       | Column Type | Query                           | Purpose                                       |
 | ---------------- | ----------- | ------------------------------- | --------------------------------------------- |

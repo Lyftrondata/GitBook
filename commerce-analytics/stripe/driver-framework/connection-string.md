@@ -8,7 +8,8 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/stripe/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/) provides the connection string steps documented below. For more detailed information about driver connectivity, 
+visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con

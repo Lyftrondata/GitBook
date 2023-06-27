@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Stripe.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Stripe](https://www.lyftrondata.com/integration/stripe/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/2c9efc09602e4a19bf651b3b1b01a75b" %}
 Basic Connection
 {% endembed %}
 

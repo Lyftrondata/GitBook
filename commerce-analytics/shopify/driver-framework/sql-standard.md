@@ -9,7 +9,7 @@ description: >-
 
 ### Select Statements
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Shopify](https://www.lyftrondata.com/integration/shopify/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
 
 * SELECT
 * INTO

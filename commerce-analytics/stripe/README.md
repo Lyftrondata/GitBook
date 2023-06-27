@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https://www.lyftrondata.com/integration/stripe/)[ ](https://www.lyftrondata.com/integration/stripe/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe//)[ ] provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https:/
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Stripe](https://www.lyftrondata.com/integration/stripe/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/) setup guide.
 
 * [ ] [Prerequisite](../../commerce-analytics/stripe/prerequisite.md)
 * [ ] [Connection Steps](../../commerce-analytics/stripe/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../commerce-analytics/stripe/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

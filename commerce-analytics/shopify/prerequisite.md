@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Shopify](https://www.lyftrondata.com/integration/shopify/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/12cf3a837ff34ba6a6f2c15ff52fb376" %}
 Lyftrondata Shopify App Steps
 {% endembed %}
 

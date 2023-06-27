@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https://www.lyftrondata.com/integration/stripe/)[ ](https://www.lyftrondata.com/integration/stripe/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/)[ ](https://www.lyftrondata.com/integration/stripe/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

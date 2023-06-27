@@ -9,7 +9,7 @@ description: >-
 
 ### System Tables Information
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/stripe/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe//) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
 
 | Table Name       | Column Type | Query                           | Purpose                                       |
 | ---------------- | ----------- | ------------------------------- | --------------------------------------------- |
