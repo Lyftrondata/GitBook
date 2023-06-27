@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paymo](https://www.lyftrondata.com/integration/paymo/)[ ](https://www.lyftrondata.com/integration/paymo/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paymo](https://www.lyftrondata.com/integration/sales-analytics/paymo//)[ ] provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paymo](https://
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Paymo](https://www.lyftrondata.com/integration/paymo/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Paymo](https://www.lyftrondata.com/integration/sales-analytics/paymo/) setup guide.
 
 * [ ] [Prerequisite](../../sales-analytics/paymo/prerequisite.md)
 * [ ] [Connection Steps](../../sales-analytics/paymo/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/paymo/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

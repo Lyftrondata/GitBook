@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Capsule Crm](https://www.lyftrondata.com/integration/capsule-crm/)[ ](https://www.lyftrondata.com/integration/capsule-crm/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Capsule Crm](https://www.lyftrondata.com/integration/sales-analytics/capsule/)[ ](https://www.lyftrondata.com/integration/capsule-crm/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

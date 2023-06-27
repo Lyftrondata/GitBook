@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Eventbrite](https://www.lyftrondata.com/integration/eventbrite/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Eventbrite](https://www.lyftrondata.com/integration/sales-analytics/eventbrite/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://loom.com/share/e4cb5b132e4b4c548228946f5d7b67a4" %}
 eventbrite to Snowflake
 {% endembed %}
 

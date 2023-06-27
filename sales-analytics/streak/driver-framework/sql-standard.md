@@ -9,7 +9,7 @@ description: >-
 
 ### Select Statements
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Streak](https://www.lyftrondata.com/integration/streak/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
 
 * SELECT
 * INTO

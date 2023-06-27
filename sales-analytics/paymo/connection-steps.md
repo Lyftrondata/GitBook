@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Paymo.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Paymo](https://www.lyftrondata.com/integration/paymo/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Paymo](https://www.lyftrondata.com/integration/sales-analytics/paymo/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/0bba8cd670744e58a2c56fa843a65e77" %}
 Basic Connection
 {% endembed %}
 

@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Gorgias](https://www.lyftrondata.com/integration/gorgias/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/aa9e293a5acf4f878f98a89371a0e7f0" %}
 Lyftrondata Gorgias App Steps
 {% endembed %}
 

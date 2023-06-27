@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Freshsales](https://www.lyftrondata.com/integration/freshsales/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Freshsales](https://www.lyftrondata.com/integration/sales-analytics/freshsales/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/ba892075ce6145468f14104cac79929c" %}
 freshsales to Snowflake
 {% endembed %}
 

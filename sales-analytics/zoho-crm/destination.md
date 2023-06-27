@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Crm](https://www.lyftrondata.com/integration/zoho-crm/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Crm](https://www.lyftrondata.com/integration/sales-analytics/zohocrm/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/9226872d505d426f952c6e2d88ebf342" %}
 zoho-crm to Snowflake
 {% endembed %}
 

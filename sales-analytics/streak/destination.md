@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Streak](https://www.lyftrondata.com/integration/streak/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/7164bd38d7234e878cc9829294a11e77?sid=ffc3bd45-6cc0-4d72-84d8-052d708d9b90" %}
 streak to Snowflake
 {% endembed %}
 

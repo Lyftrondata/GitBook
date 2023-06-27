@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Crm](https://www.lyftrondata.com/integration/zoho-crm/)[ ](https://www.lyftrondata.com/integration/zoho-crm/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Crm](https://www.lyftrondata.com/integration/sales-analytics/zohocrm/)[ ](https://www.lyftrondata.com/integration/zoho-crm/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

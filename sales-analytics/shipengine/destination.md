@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Shipengine](https://www.lyftrondata.com/integration/shipengine/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Shipengine](https://www.lyftrondata.com/integration/sales-analytics/ship-engine/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/dcdd56c47e324b2aa7c1477b579f015e" %}
 shipengine to Snowflake
 {% endembed %}
 

@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Launchdarkly](https://www.lyftrondata.com/integration/launchdarkly/)[ ](https://www.lyftrondata.com/integration/launchdarkly/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Launchdarkly](https://www.lyftrondata.com/integration/sales-analytics/launch-darkly/)[ ](https://www.lyftrondata.com/integration/launchdarkly/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Shipengine.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Shipengine](https://www.lyftrondata.com/integration/shipengine/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Shipengine](https://www.lyftrondata.com/integration/sales-analytics/ship-engine/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/50fd4bb6d65b49b692852483439d2a02" %}
 Basic Connection
 {% endembed %}
 

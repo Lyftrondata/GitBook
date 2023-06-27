@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Shipengine](https://www.lyftrondata.com/integration/shipengine/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Shipengine](https://www.lyftrondata.com/integration/sales-analytics/ship-engine/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/e87d0880327a438e997d497d327ac054" %}
 Lyftrondata Shipengine App Steps
 {% endembed %}
 

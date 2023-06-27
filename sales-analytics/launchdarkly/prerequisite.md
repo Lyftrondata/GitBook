@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Launchdarkly](https://www.lyftrondata.com/integration/launchdarkly/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Launchdarkly](https://www.lyftrondata.com/integration/sales-analytics/launch-darkly/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/2c44cd8236184cf88508d4fea17cdf30?sid=8fd989ce-0d47-4fc9-bfec-62af5268ad13" %}
 Lyftrondata Launchdarkly App Steps
 {% endembed %}
 

@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paymo](https://www.lyftrondata.com/integration/paymo/)[ ](https://www.lyftrondata.com/integration/paymo/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paymo](https://www.lyftrondata.com/integration/sales-analytics/paymo/)[ ](https://www.lyftrondata.com/integration/paymo/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

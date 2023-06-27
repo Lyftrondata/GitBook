@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Gorgias](https://www.lyftrondata.com/integration/gorgias/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/d0af761ab9c24b5fa1dc60c799792912" %}
 gorgias to Snowflake
 {% endembed %}
 

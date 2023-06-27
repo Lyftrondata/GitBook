@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Gorgias](https://www.lyftrondata.com/integration/gorgias/)[ ](https://www.lyftrondata.com/integration/gorgias/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias/)[ ](https://www.lyftrondata.com/integration/gorgias/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

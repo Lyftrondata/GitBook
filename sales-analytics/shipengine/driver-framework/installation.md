@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Shipengine](https://www.lyftrondata.com/integration/shipengine/)[ ](https://www.lyftrondata.com/integration/shipengine/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Shipengine](https://www.lyftrondata.com/integration/sales-analytics/ship-engine/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

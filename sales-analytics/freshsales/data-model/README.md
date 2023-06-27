@@ -6,7 +6,7 @@ description: This section describes the details of Freshsales ERD, Tables, and V
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Freshsales](https://www.lyftrondata.com/integration/freshsales/)[ ](https://www.lyftrondata.com/integration/freshsales/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Freshsales](https://www.lyftrondata.com/integration/sales-analytics/freshsales/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../sales-analytics/freshsales/data-model/erd.md)
 * [ ] [Tables](../../../sales-analytics/freshsales/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Freshsales](https:/
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/freshsales/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

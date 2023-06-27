@@ -6,15 +6,15 @@ description: This section contain information about insightly connector tables i
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Insightly](https://www.lyftrondata.com/integration/insightly/)[ ](https://www.lyftrondata.com/integration/insightly/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Insightly](https://www.lyftrondata.com/integration/sales-analytics/insightly//)[ ](https://www.lyftrondata.com/integration/insightly/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1a7PyHRYbH-hhS9fWW9GY1ZUT7YiWtemWH9HeNGhVjqk/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1icTmwpuh9TG2oaEWPa2TI6XhdTaA9uICFK-bKd4kUug/edit?usp=drive_link" %}
 Lyftrondata Insightly Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\sales-analytics/insightly/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

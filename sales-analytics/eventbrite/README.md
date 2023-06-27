@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Eventbrite](https://www.lyftrondata.com/integration/eventbrite/)[ ](https://www.lyftrondata.com/integration/eventbrite/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Eventbrite](https://www.lyftrondata.com/integration/sales-analytics/eventbrite//)[ ] provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Eventbrite](htt
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Eventbrite](https://www.lyftrondata.com/integration/eventbrite/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Eventbrite](https://www.lyftrondata.com/integration/sales-analytics/eventbrite/) setup guide.
 
 * [ ] [Prerequisite](../../sales-analytics/eventbrite/prerequisite.md)
 * [ ] [Connection Steps](../../sales-analytics/eventbrite/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/eventbrite/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

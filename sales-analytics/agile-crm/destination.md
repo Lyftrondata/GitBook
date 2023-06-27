@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Agile Crm](https://www.lyftrondata.com/integration/agile-crm/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Agile Crm](https://www.lyftrondata.com/integration/sales-analytics/agile-crm/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/e0105370563545629ef38e107416163f" %}
 agile-crm to Snowflake
 {% endembed %}
 

@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Freshsales](https://www.lyftrondata.com/integration/freshsales/)[ ](https://www.lyftrondata.com/integration/freshsales/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Freshsales](https://www.lyftrondata.com/integration/sales-analytics/freshsales/)[ ](https://www.lyftrondata.com/integration/freshsales/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

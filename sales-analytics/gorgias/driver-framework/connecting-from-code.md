@@ -8,7 +8,7 @@ description: >-
 
 ### Working with the connector
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gorgias](https://www.lyftrondata.com/integration/gorgias/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
 
 Once the needed input data is present, one can execute <mark style="color:blue;">SELECT</mark> queries by running the query maker function of Lyftrondata_Connector.
 

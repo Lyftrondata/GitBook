@@ -8,7 +8,8 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Paymo](https://www.lyftrondata.com/integration/paymo/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Paymo](https://www.lyftrondata.com/integration/sales-analytics/paymo/) provides the connection string steps documented below. For more detailed information about driver connectivity, 
+visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con

@@ -6,15 +6,15 @@ description: This section contain information about paymo connector tables infor
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Paymo](https://www.lyftrondata.com/integration/paymo/)[ ](https://www.lyftrondata.com/integration/paymo/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Paymo](https://www.lyftrondata.com/integration/sales-analytics/paymo//)[ ](https://www.lyftrondata.com/integration/paymo/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1a7PyHRYbH-hhS9fWW9GY1ZUT7YiWtemWH9HeNGhVjqk/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1XHH-oOsCwNXKORwm-zFf5zZnu4e7EpMmTtF2V6wqhRM/edit?usp=sharing" %}
 Lyftrondata Paymo Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\sales-analytics/paymo/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

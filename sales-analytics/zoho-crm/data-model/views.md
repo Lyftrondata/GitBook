@@ -6,15 +6,15 @@ description: This section contain information about zoho-crm connector views inf
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Crm](https://www.lyftrondata.com/integration/Zoho Crm/)[ ](https://www.lyftrondata.com/integration/zoho-crm/)provides a detailed data dictionary of the views with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Crm](https://www.lyftrondata.com/integration/sales-analytics/zohocrm//)[ ](https://www.lyftrondata.com/integration/zoho-crm/)provides a detailed data dictionary of the views with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1EoQp9Z4ngUXAAPO7n5ei-t-Xl0iagGniVo3z44BWSYM/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1pb8NOwcYqp1roEu5S_c6SevTfcE1NUOWmRaGxr1isck/edit?usp=sharing" %}
 Lyftrondata Zoho Crm Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\sales-analytics/zoho-crm/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

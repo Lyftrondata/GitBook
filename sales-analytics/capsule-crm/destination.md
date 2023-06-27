@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Capsule Crm](https://www.lyftrondata.com/integration/capsule-crm/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Capsule Crm](https://www.lyftrondata.com/integration/sales-analytics/capsule/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/5c8bd3e624b849239b06874d3d4c6861" %}
 capsule-crm to Snowflake
 {% endembed %}
 

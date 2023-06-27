@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Capsule Crm](https://www.lyftrondata.com/integration/capsule-crm/)[ ](https://www.lyftrondata.com/integration/capsule-crm/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Capsule Crm](https://www.lyftrondata.com/integration/sales-analytics/capsule//)[ ] provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Capsule Crm](ht
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Capsule Crm](https://www.lyftrondata.com/integration/capsule-crm/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Capsule Crm](https://www.lyftrondata.com/integration/sales-analytics/capsule/) setup guide.
 
 * [ ] [Prerequisite](../../sales-analytics/capsule-crm/prerequisite.md)
 * [ ] [Connection Steps](../../sales-analytics/capsule-crm/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/capsule-crm/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

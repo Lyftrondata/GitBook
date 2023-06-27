@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Insightly](https://www.lyftrondata.com/integration/insightly/)[ ](https://www.lyftrondata.com/integration/insightly/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Insightly](https://www.lyftrondata.com/integration/sales-analytics/insightly/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

@@ -6,7 +6,7 @@ description: This section describes the details of Shipengine ERD, Tables, and V
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Shipengine](https://www.lyftrondata.com/integration/shipengine/)[ ](https://www.lyftrondata.com/integration/shipengine/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Shipengine](https://www.lyftrondata.com/integration/sales-analytics/ship-engine/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../sales-analytics/shipengine/data-model/erd.md)
 * [ ] [Tables](../../../sales-analytics/shipengine/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Shipengine](https:/
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/shipengine/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

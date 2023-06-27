@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Freshsales](https://www.lyftrondata.com/integration/freshsales/)[ ](https://www.lyftrondata.com/integration/freshsales/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Freshsales](https://www.lyftrondata.com/integration/sales-analytics/freshsales/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

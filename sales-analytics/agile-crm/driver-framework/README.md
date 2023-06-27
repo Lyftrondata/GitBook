@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Agile Crm](https://www.lyftrondata.com/integration/agile-crm/)[ ](https://www.lyftrondata.com/integration/agile-crm/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Agile Crm](https://www.lyftrondata.com/integration/sales-analytics/agile-crm/)[ ](https://www.lyftrondata.com/integration/agile-crm/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

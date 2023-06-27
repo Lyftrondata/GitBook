@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Capsule Crm](https://www.lyftrondata.com/integration/capsule-crm/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Capsule Crm](https://www.lyftrondata.com/integration/sales-analytics/capsule/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/67af0f8779554c2c9e6f8e6d3a773ec2?sid=d8e57a81-2700-44f7-a0b7-b0bfa2022006" %}
 Lyftrondata Capsule Crm App Steps
 {% endembed %}
 

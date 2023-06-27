@@ -11,11 +11,11 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Eventbrite](https://www.lyftrondata.com/integration/eventbrite/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Eventbrite](https://www.lyftrondata.com/integration/sales-analytics/eventbrite/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/02b84eb931564da79d8a2eb4004cf8e8" %}
+{% embed url="https://www.loom.com/share/7097609582a4434889729d2fb23d25eb?sid=d6492d48-1b99-4859-801e-0c1f9e0a678a" %}
 Lyftrondata Eventbrite App Steps
 {% endembed %}
 

@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Shipengine](https://www.lyftrondata.com/integration/shipengine/)[ ](https://www.lyftrondata.com/integration/shipengine/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Shipengine](https://www.lyftrondata.com/integration/sales-analytics/ship-engine/)[ ](https://www.lyftrondata.com/integration/shipengine/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Launchdarkly](https://www.lyftrondata.com/integration/launchdarkly/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Launchdarkly](https://www.lyftrondata.com/integration/sales-analytics/launch-darkly/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/658a245c2baf43ed9f39c063a8670963?sid=2789ca73-6f5a-496f-81fe-e4301086c32d" %}
 launchdarkly to Snowflake
 {% endembed %}
 

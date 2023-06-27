@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Insightly](https://www.lyftrondata.com/integration/insightly/)[ ](https://www.lyftrondata.com/integration/insightly/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Insightly](https://www.lyftrondata.com/integration/sales-analytics/insightly/)[ ](https://www.lyftrondata.com/integration/insightly/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
