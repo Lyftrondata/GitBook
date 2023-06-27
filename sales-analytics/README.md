@@ -1,2 +1,1 @@
-
-    # Sales Analytics
+# Sales Analytics
