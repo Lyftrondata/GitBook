@@ -1,0 +1,73 @@
+<<<<<<< HEAD:marketing-analytics/active-campaign/driver-framework/connecting-from-code.md
+---
+description: >-
+  This section provides information on how to connect the connector from the
+  code.
+---
+
+# Connecting from Code
+
+### Working with the connector
+
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Active Campaign](https://www.lyftrondata.com/integration/marketing-analytics/active-campaign/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
+
+Once the needed input data is present, one can execute <mark style="color:blue;">SELECT</mark> queries by running the query maker function of Lyftrondata_Connector.
+
+### Connecting from code
+
+See wheel [installation](../../../Marketing Analytics/active-campaign/driver-framework/installation.md) for the prerequisite information you need to deploy the source connector.
+
+```python
+import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
+lyft = con.Connect("My Lyftrondata license key")
+init = lyft.initialise(username="my username",password="my password")
+```
+
+
+### Quickstart Steps
+
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+
+### Questions? <a href="#questions" id="questions"></a>
+
+We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
+
+<mark style="color:blue;"></mark>
+
+=======
+---
+description: >-
+  This section provides information on how to connect the connector from the
+  code.
+---
+
+# Connecting from Code
+
+### Working with the connector
+
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Yotpo](https://www.lyftrondata.com/integration/marketing-analytics/yotpo/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
+
+Once the needed input data is present, one can execute <mark style="color:blue;">SELECT</mark> queries by running the query maker function of Lyftrondata_Connector.
+
+### Connecting from code
+
+See wheel [installation](../../../Marketing Analytics/yotpo/driver-framework/installation.md) for the prerequisite information you need to deploy the source connector.
+
+```python
+import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
+lyft = con.Connect("My Lyftrondata license key")
+init = lyft.initialise(username="my username",password="my password")
+```
+
+
+### Quickstart Steps
+
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+
+### Questions? <a href="#questions" id="questions"></a>
+
+We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
+
+<mark style="color:blue;"></mark>
+
+>>>>>>> b16e3f0a3edf03146cc48577adbc0ee91cb4dc3d:yotpo/driver-framework/connecting-from-code.md

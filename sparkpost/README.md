@@ -1,0 +1,75 @@
+<<<<<<< HEAD:marketing-analytics/sparkpost/README.md
+---
+description: >-
+  This page contains the setup guide and reference information for the Sparkpost source connector.
+---
+
+#Sparkpost
+
+### Overview
+
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sparkpost](https://www.lyftrondata.com/integration/marketing-analytics/sparkpost//)[ ] provides the most natural way to access data while requiring no engineering.
+
+### Key Features
+
+* Comprehensive incremental load mechanism.
+* Data from Sparkpost is available in real-time.&#x20;
+* ANSI SQL is fully supported to query data with ease.
+* Ready to query Sparkpost relational schema model.
+
+### Setup Guide
+
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Sparkpost](https://www.lyftrondata.com/integration/marketing-analytics/sparkpost/) setup guide.
+
+* [ ] [Prerequisite](../../marketing-analytics/sparkpost/prerequisite.md)
+* [ ] [Connection Steps](../../marketing-analytics/sparkpost/connection-steps.md)
+* [ ] [Data Model](../../marketing-analytics/sparkpost/data-model/)
+* [ ] [Driver Framework](../../marketing-analytics/sparkpost/driver-framework/)
+* [ ] [Release Notes](../../marketing-analytics/sparkpost/release-notes.md)
+
+### Quickstart Steps
+
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../marketing-analytics/sparkpost/quickstart-steps.md).
+
+### Questions? <a href="#questions" id="questions"></a>
+
+We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
+
+=======
+---
+description: >-
+  This page contains the setup guide and reference information for the Sparkpost source connector.
+---
+
+#Sparkpost
+
+### Overview
+
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sparkpost](https://www.lyftrondata.com/integration/marketing-analytics/sparkpost//)[ ] provides the most natural way to access data while requiring no engineering.
+
+### Key Features
+
+* Comprehensive incremental load mechanism.
+* Data from Sparkpost is available in real-time.&#x20;
+* ANSI SQL is fully supported to query data with ease.
+* Ready to query Sparkpost relational schema model.
+
+### Setup Guide
+
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Sparkpost](https://www.lyftrondata.com/integration/marketing-analytics/sparkpost/) setup guide.
+
+* [ ] [Prerequisite](../../marketing-analytics/sparkpost/prerequisite.md)
+* [ ] [Connection Steps](../../marketing-analytics/sparkpost/connection-steps.md)
+* [ ] [Data Model](../../marketing-analytics/sparkpost/data-model/)
+* [ ] [Driver Framework](../../marketing-analytics/sparkpost/driver-framework/)
+* [ ] [Release Notes](../../marketing-analytics/sparkpost/release-notes.md)
+
+### Quickstart Steps
+
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../marketing-analytics/sparkpost/quickstart-steps.md).
+
+### Questions? <a href="#questions" id="questions"></a>
+
+We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
+
+>>>>>>> b16e3f0a3edf03146cc48577adbc0ee91cb4dc3d:sparkpost/README.md
