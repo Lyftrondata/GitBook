@@ -1,2 +1,1 @@
-
-    # Finance Analytics
+# Finance Analytics
