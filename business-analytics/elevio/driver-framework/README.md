@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Elevio](https://www.lyftrondata.com/integration/elevio/)[ ](https://www.lyftrondata.com/integration/elevio/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Elevio](https://www.lyftrondata.com/integration/business-analytics/elevio/)[ ](https://www.lyftrondata.com/integration/elevio/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

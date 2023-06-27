@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Clockify](https://www.lyftrondata.com/integration/clockify/)[ ](https://www.lyftrondata.com/integration/clockify/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Clockify](https://www.lyftrondata.com/integration/business-analytics/clockify/)[ ](https://www.lyftrondata.com/integration/clockify/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

@@ -6,7 +6,7 @@ description: This section describes the details of Elevio ERD, Tables, and Views
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Elevio](https://www.lyftrondata.com/integration/elevio/)[ ](https://www.lyftrondata.com/integration/elevio/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Elevio](https://www.lyftrondata.com/integration/business-analytics/elevio/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../business-analytics/elevio/data-model/erd.md)
 * [ ] [Tables](../../../business-analytics/elevio/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Elevio](https://www
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../business-analytics/elevio/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

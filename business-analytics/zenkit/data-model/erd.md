@@ -8,9 +8,9 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](https://www.lyftrondata.com/integration/zenkit/) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](None/) provides detailed information about the entity relationships of data objects.
 
-{% embed url="https://drive.google.com/file/d/1GPA6XqXiQI5m4o1xrcUnqJASIT8QNG00/view?usp=share_link" %}
+{% embed url="https://drive.google.com/file/d/14jmuYkr_yiNJ6-2ikPjs07tL54_26PyI/view?usp=sharing" %}
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).

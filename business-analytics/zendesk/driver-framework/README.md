@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zendesk](https://www.lyftrondata.com/integration/zendesk/)[ ](https://www.lyftrondata.com/integration/zendesk/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zendesk](https://www.lyftrondata.com/integration/business-analytics/zendesk/)[ ](https://www.lyftrondata.com/integration/zendesk/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

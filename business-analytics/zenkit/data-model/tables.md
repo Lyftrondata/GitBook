@@ -6,15 +6,15 @@ description: This section contain information about zenkit connector tables info
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](https://www.lyftrondata.com/integration/zenkit/)[ ](https://www.lyftrondata.com/integration/zenkit/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](None/)[ ](https://www.lyftrondata.com/integration/zenkit/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1a7PyHRYbH-hhS9fWW9GY1ZUT7YiWtemWH9HeNGhVjqk/edit?usp=sharing" %}
+{% embed url="None" %}
 Lyftrondata Zenkit Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\business-analytics/zenkit/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -6,7 +6,7 @@ description: This section describes the details of Zoho Sprint ERD, Tables, and 
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Sprint](https://www.lyftrondata.com/integration/zoho-sprint/)[ ](https://www.lyftrondata.com/integration/zoho-sprint/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Sprint](https://www.lyftrondata.com/integration/business-analytics/zoho-sprint/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../business-analytics/zoho-sprint/data-model/erd.md)
 * [ ] [Tables](../../../business-analytics/zoho-sprint/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Sprint](https:
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../business-analytics/zoho-sprint/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

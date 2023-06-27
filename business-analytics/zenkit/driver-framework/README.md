@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zenkit](https://www.lyftrondata.com/integration/zenkit/)[ ](https://www.lyftrondata.com/integration/zenkit/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zenkit](None)[ ](https://www.lyftrondata.com/integration/zenkit/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Commerce](https://www.lyftrondata.com/integration/zoho-commerce/)[ ](https://www.lyftrondata.com/integration/zoho-commerce/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Commerce](None)[ ](https://www.lyftrondata.com/integration/zoho-commerce/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

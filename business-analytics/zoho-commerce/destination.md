@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Commerce](https://www.lyftrondata.com/integration/zoho-commerce/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Commerce](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/0f0464964f88455bb408ea63278a7be5?sid=5132521b-066f-400b-81e7-222402e90dee" %}
 zoho-commerce to Snowflake
 {% endembed %}
 

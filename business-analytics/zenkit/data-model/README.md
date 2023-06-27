@@ -6,7 +6,7 @@ description: This section describes the details of Zenkit ERD, Tables, and Views
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](https://www.lyftrondata.com/integration/zenkit/)[ ](https://www.lyftrondata.com/integration/zenkit/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](None)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../business-analytics/zenkit/data-model/erd.md)
 * [ ] [Tables](../../../business-analytics/zenkit/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zenkit](https://www
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../business-analytics/zenkit/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Lens](https://www.lyftrondata.com/integration/zoho-lens/)[ ](https://www.lyftrondata.com/integration/zoho-lens/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Lens](None)[ ](https://www.lyftrondata.com/integration/zoho-lens/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

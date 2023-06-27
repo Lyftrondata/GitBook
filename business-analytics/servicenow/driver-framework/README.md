@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Servicenow](https://www.lyftrondata.com/integration/servicenow/)[ ](https://www.lyftrondata.com/integration/servicenow/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Servicenow](https://www.lyftrondata.com/integration/business-analytics/service-now/)[ ](https://www.lyftrondata.com/integration/servicenow/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

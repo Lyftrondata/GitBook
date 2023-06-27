@@ -6,15 +6,15 @@ description: This section contain information about gmail connector tables infor
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gmail](https://www.lyftrondata.com/integration/gmail/)[ ](https://www.lyftrondata.com/integration/gmail/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gmail](https://www.lyftrondata.com/integration/business-analytics/gmail//)[ ](https://www.lyftrondata.com/integration/gmail/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1a7PyHRYbH-hhS9fWW9GY1ZUT7YiWtemWH9HeNGhVjqk/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/12qKXhCCFBrgzJY29gi21d5GJacYi7vqBVbpZnsfqODE/edit?usp=drive_link" %}
 Lyftrondata Gmail Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\business-analytics/gmail/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

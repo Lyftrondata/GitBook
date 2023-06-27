@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Figshare.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Figshare](https://www.lyftrondata.com/integration/figshare/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Figshare](https://www.lyftrondata.com/integration/business-analytics/figshare/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/34b2ffdb5f114c31b3a2530bb379b8d6" %}
 Basic Connection
 {% endembed %}
 

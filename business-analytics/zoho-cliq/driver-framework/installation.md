@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Zoho Cliq](https://www.lyftrondata.com/integration/zoho-cliq/)[ ](https://www.lyftrondata.com/integration/zoho-cliq/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Zoho Cliq](https://www.lyftrondata.com/integration/business-analytics/zoho-cliq/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

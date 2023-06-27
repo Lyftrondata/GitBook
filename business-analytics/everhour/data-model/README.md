@@ -6,7 +6,7 @@ description: This section describes the details of Everhour ERD, Tables, and Vie
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Everhour](https://www.lyftrondata.com/integration/everhour/)[ ](https://www.lyftrondata.com/integration/everhour/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Everhour](https://www.lyftrondata.com/integration/business-analytics/everhour/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../business-analytics/everhour/data-model/erd.md)
 * [ ] [Tables](../../../business-analytics/everhour/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Everhour](https://w
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../business-analytics/everhour/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

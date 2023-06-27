@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Sprint](https://www.lyftrondata.com/integration/zoho-sprint/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Sprint](https://www.lyftrondata.com/integration/business-analytics/zoho-sprint/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/8e5d2de564494b7899eee33cf9a80089" %}
 zoho-sprint to Snowflake
 {% endembed %}
 

@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Servicenow.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Servicenow](https://www.lyftrondata.com/integration/servicenow/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Servicenow](https://www.lyftrondata.com/integration/business-analytics/service-now/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/e8e3fc654dd7446b951b7926c635c50f" %}
 Basic Connection
 {% endembed %}
 

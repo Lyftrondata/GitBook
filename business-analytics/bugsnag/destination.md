@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Bugsnag](https://www.lyftrondata.com/integration/bugsnag/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Bugsnag](https://www.lyftrondata.com/integration/business-analytics/bugsnag/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/47d8a2e6f8cc4ad39b3004afe02e72bf" %}
 bugsnag to Snowflake
 {% endembed %}
 

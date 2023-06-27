@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Everhour](https://www.lyftrondata.com/integration/everhour/)[ ](https://www.lyftrondata.com/integration/everhour/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Everhour](https://www.lyftrondata.com/integration/business-analytics/everhour//)[ ] provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Everhour](https
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Everhour](https://www.lyftrondata.com/integration/everhour/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Everhour](https://www.lyftrondata.com/integration/business-analytics/everhour/) setup guide.
 
 * [ ] [Prerequisite](../../business-analytics/everhour/prerequisite.md)
 * [ ] [Connection Steps](../../business-analytics/everhour/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../business-analytics/everhour/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

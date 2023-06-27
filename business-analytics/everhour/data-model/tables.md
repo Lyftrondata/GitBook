@@ -6,15 +6,15 @@ description: This section contain information about everhour connector tables in
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Everhour](https://www.lyftrondata.com/integration/everhour/)[ ](https://www.lyftrondata.com/integration/everhour/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Everhour](https://www.lyftrondata.com/integration/business-analytics/everhour//)[ ](https://www.lyftrondata.com/integration/everhour/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1a7PyHRYbH-hhS9fWW9GY1ZUT7YiWtemWH9HeNGhVjqk/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1R4eOj9dGN-2eW7UZ3yTQXZgP-T_-2XUZN4wWjv4uxKg/edit?usp=sharing" %}
 Lyftrondata Everhour Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\business-analytics/everhour/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

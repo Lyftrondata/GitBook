@@ -8,9 +8,9 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zendesk](https://www.lyftrondata.com/integration/zendesk/) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zendesk](https://www.lyftrondata.com/integration/business-analytics/zendesk//) provides detailed information about the entity relationships of data objects.
 
-{% embed url="https://drive.google.com/file/d/1GPA6XqXiQI5m4o1xrcUnqJASIT8QNG00/view?usp=share_link" %}
+{% embed url="https://drive.google.com/file/d/108UcRnnrCkdWyZ1-HwOjRnX59-vVW_cM/view" %}
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).

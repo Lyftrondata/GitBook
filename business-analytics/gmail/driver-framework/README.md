@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Gmail](https://www.lyftrondata.com/integration/gmail/)[ ](https://www.lyftrondata.com/integration/gmail/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Gmail](https://www.lyftrondata.com/integration/business-analytics/gmail/)[ ](https://www.lyftrondata.com/integration/gmail/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

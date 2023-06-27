@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Billsby.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Billsby](https://www.lyftrondata.com/integration/billsby/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Billsby](https://www.lyftrondata.com/integration/business-analytics/billsby/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/5139895b5cd84fefae73f02543f854b2" %}
 Basic Connection
 {% endembed %}
 

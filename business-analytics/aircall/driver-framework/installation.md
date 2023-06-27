@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Aircall](https://www.lyftrondata.com/integration/aircall/)[ ](https://www.lyftrondata.com/integration/aircall/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Aircall](https://www.lyftrondata.com/integration/business-analytics/linkedin-plugin/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

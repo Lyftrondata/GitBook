@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Zoho Lens](https://www.lyftrondata.com/integration/zoho-lens/)[ ](https://www.lyftrondata.com/integration/zoho-lens/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Zoho Lens](None)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

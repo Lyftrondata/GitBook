@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Zendesk](https://www.lyftrondata.com/integration/zendesk/)[ ](https://www.lyftrondata.com/integration/zendesk/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Zendesk](https://www.lyftrondata.com/integration/business-analytics/zendesk/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

@@ -8,9 +8,9 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Marketing Automation](https://www.lyftrondata.com/integration/zoho-marketing-automation/) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Marketing Automation](None/) provides detailed information about the entity relationships of data objects.
 
-{% embed url="https://drive.google.com/file/d/1GPA6XqXiQI5m4o1xrcUnqJASIT8QNG00/view?usp=share_link" %}
+{% embed url="None" %}
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).

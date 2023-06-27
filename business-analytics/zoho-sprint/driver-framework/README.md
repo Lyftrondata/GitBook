@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Sprint](https://www.lyftrondata.com/integration/zoho-sprint/)[ ](https://www.lyftrondata.com/integration/zoho-sprint/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Sprint](https://www.lyftrondata.com/integration/business-analytics/zoho-sprint/)[ ](https://www.lyftrondata.com/integration/zoho-sprint/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

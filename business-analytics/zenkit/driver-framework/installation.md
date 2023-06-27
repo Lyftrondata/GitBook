@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Zenkit](https://www.lyftrondata.com/integration/zenkit/)[ ](https://www.lyftrondata.com/integration/zenkit/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Zenkit](None)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

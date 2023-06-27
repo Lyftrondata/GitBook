@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Marketing Automation](https://www.lyftrondata.com/integration/zoho-marketing-automation/)[ ](https://www.lyftrondata.com/integration/zoho-marketing-automation/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Marketing Automation](None)[ ](https://www.lyftrondata.com/integration/zoho-marketing-automation/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

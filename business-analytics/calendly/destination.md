@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Calendly](https://www.lyftrondata.com/integration/calendly/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Calendly](https://www.lyftrondata.com/integration/business-analytics/calendly/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/29bc3ebba3994ab39f6d6109fe30266c?sid=7210a861-6553-4aca-9b4a-45c55f20960c" %}
 calendly to Snowflake
 {% endembed %}
 

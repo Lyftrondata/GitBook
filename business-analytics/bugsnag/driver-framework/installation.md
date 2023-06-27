@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Bugsnag](https://www.lyftrondata.com/integration/bugsnag/)[ ](https://www.lyftrondata.com/integration/bugsnag/)requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Bugsnag](https://www.lyftrondata.com/integration/business-analytics/bugsnag/)) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>

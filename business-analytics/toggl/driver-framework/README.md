@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Toggl](https://www.lyftrondata.com/integration/toggl/)[ ](https://www.lyftrondata.com/integration/toggl/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Toggl](https://www.lyftrondata.com/integration/business-analytics/toggl/)[ ](https://www.lyftrondata.com/integration/toggl/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

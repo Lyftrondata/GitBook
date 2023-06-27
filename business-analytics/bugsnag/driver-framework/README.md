@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Bugsnag](https://www.lyftrondata.com/integration/bugsnag/)[ ](https://www.lyftrondata.com/integration/bugsnag/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Bugsnag](https://www.lyftrondata.com/integration/business-analytics/bugsnag/)[ ](https://www.lyftrondata.com/integration/bugsnag/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

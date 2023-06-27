@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Aircall](https://www.lyftrondata.com/integration/aircall/)[ ](https://www.lyftrondata.com/integration/aircall/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Aircall](https://www.lyftrondata.com/integration/business-analytics/linkedin-plugin/)[ ](https://www.lyftrondata.com/integration/aircall/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

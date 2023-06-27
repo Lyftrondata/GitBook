@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Zoho Lens.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Zoho Lens](https://www.lyftrondata.com/integration/zoho-lens/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Zoho Lens](None). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d42e92cf14cb40e9b802630566a10f4c" %}
+{% embed url="https://www.loom.com/share/8b4e7afcefa14f1aba007ffe50c8c916" %}
 Basic Connection
 {% endembed %}
 

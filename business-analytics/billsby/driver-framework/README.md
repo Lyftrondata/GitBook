@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Billsby](https://www.lyftrondata.com/integration/billsby/)[ ](https://www.lyftrondata.com/integration/billsby/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Billsby](https://www.lyftrondata.com/integration/business-analytics/billsby/)[ ](https://www.lyftrondata.com/integration/billsby/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

@@ -6,7 +6,7 @@ description: This section describes the details of Timely ERD, Tables, and Views
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Timely](https://www.lyftrondata.com/integration/timely/)[ ](https://www.lyftrondata.com/integration/timely/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Timely](https://www.lyftrondata.com/integration/business-analytics/timely/)provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../../business-analytics/timely/data-model/erd.md)
 * [ ] [Tables](../../../business-analytics/timely/data-model/tables.md)
@@ -14,7 +14,7 @@ The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Timely](https://www
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../business-analytics/timely/quickstart-steps.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

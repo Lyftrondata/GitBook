@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Fusedesk](https://www.lyftrondata.com/integration/fusedesk/)[ ](https://www.lyftrondata.com/integration/fusedesk/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Fusedesk](None)[ ](https://www.lyftrondata.com/integration/fusedesk/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

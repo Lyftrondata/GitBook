@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Cliq](https://www.lyftrondata.com/integration/zoho-cliq/)[ ](https://www.lyftrondata.com/integration/zoho-cliq/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Cliq](https://www.lyftrondata.com/integration/business-analytics/zoho-cliq/)[ ](https://www.lyftrondata.com/integration/zoho-cliq/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

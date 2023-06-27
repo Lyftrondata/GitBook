@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Cliq](https://www.lyftrondata.com/integration/zoho-cliq/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Cliq](https://www.lyftrondata.com/integration/business-analytics/zoho-cliq/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/c30ef7cf294b4e9d9d67d0a977724f4c" %}
 zoho-cliq to Snowflake
 {% endembed %}
 

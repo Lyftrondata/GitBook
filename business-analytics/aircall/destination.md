@@ -8,11 +8,11 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Aircall](https://www.lyftrondata.com/integration/aircall/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Aircall](https://www.lyftrondata.com/integration/business-analytics/linkedin-plugin/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/11d305dcacee4ca9887158c167f5fa8d" %}
+{% embed url="https://www.loom.com/share/140590b68813474bb65d290d0eb8fbd3" %}
 aircall to Snowflake
 {% endembed %}
 
