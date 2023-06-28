@@ -6,16 +6,14 @@ description: This section explains how to connect Lyftrondata to Twilio Chat.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Twilio Chat](https://www.lyftrondata.com/integration/business-analytics/twillio/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers BasicAuth method connecting to [Twilio Chat](https://www.lyftrondata.com/integration/business-analytics/twillio/). To establish your connection, use the connection strings described below.
 
-### OAuth
+### BasicAuth
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key       | Value                      | Field    |
+| --------- | -------------------------- | -------- |
+| User Name | Your Twilio Chat User Name | Required |
+| Password  | Your Twilio Chat Password  | Required |
 
 Follow the steps below to establish a basic connection
 
@@ -25,7 +23,7 @@ Basic Connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here.](./)
 
 ### Questions? <a href="#questions" id="questions"></a>
 
