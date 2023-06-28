@@ -1,6 +1,7 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the Klaviyo source connector.
+  This page contains the setup guide and reference information for the Klaviyo
+  source connector.
 ---
 
 # Driver Framework
@@ -12,7 +13,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Klaviyo](https:
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Klaviyo is available in real-time.&#x20;
+* Data from Klaviyo is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
 * Ready to query Klaviyo relational schema model.
 
@@ -28,10 +29,8 @@ To connect to your destination without engineering, follow our step-by-step Lyft
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions[ here.](../)
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
-
