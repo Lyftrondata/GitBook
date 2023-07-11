@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) (https://www.lyftrondata.com/integration/assembla/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

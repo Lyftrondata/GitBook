@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) (https://www.lyftrondata.com/integration/zoho-creator/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
