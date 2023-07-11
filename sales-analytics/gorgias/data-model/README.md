@@ -6,15 +6,16 @@ description: This section describes the details of Gorgias ERD, Tables, and View
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias/) provides a data model that enables you to better understand the source platform.
 
-* [ ] [ERD](../../../sales-analytics/gorgias/data-model/erd.md)
-* [ ] [Tables](../../../sales-analytics/gorgias/data-model/tables.md)
-* [ ] [Views](../../../sales-analytics/gorgias/data-model/views.md)
+* [ ] [ERD](erd.md)
+* [ ] [Tables](tables.md)
+* [ ] [Views](views.md)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/gorgias/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 

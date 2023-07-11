@@ -11,9 +11,10 @@ description: >-
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak//) provides detailed information about the entity relationships of data objects.
 
 {% embed url="https://drive.google.com/file/d/1LW3AnupST9yj-L8KVArV9Ecf9la2pOCO/view?usp=sharing" %}
+
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

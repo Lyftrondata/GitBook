@@ -6,9 +6,9 @@ description: This section explains how to connect Lyftrondata to Streak.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak/). To establish your connection, use the connection strings described below.
 
-### OAuth
+### Basic
 
 This option has been deprecated by Microsoft.
 
@@ -25,7 +25,7 @@ Basic Connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -12,13 +12,13 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Eventbrite](https://w
 
 ### Snowflake Load:
 
-{% embed url="https://loom.com/share/e4cb5b132e4b4c548228946f5d7b67a4" %}
+{% embed url="https://www.loom.com/share/c48e9dcdb2994228a1876fc49fa4a36f?sid=dfb88258-79bd-4b61-b5e3-41e45fb48f77" %}
 eventbrite to Snowflake
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

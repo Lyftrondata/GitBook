@@ -6,15 +6,16 @@ description: This section describes the details of Streak ERD, Tables, and Views
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak/) provides a data model that enables you to better understand the source platform.
 
-* [ ] [ERD](../../../sales-analytics/streak/data-model/erd.md)
-* [ ] [Tables](../../../sales-analytics/streak/data-model/tables.md)
-* [ ] [Views](../../../sales-analytics/streak/data-model/views.md)
+* [ ] [ERD](erd.md)
+* [ ] [Tables](tables.md)
+* [ ] [Views](views.md)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../sales-analytics/streak/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 

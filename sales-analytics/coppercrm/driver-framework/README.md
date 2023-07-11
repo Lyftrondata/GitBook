@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Coppercrm](https://www.lyftrondata.com/integration/sales-analytics/copper/)[ ](https://www.lyftrondata.com/integration/coppercrm/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Coppercrm](https://www.lyftrondata.com/integration/sales-analytics/copper/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -20,15 +20,14 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Coppercrm](http
 
 To connect to your destination without engineering, follow our step-by-step Lyftrondata Coppercrm setup guide.
 
-* [ ] [Prerequisite](../../sales-analytics/coppercrm/prerequisite.md)
-* [ ] [Connection Steps](../../sales-analytics/coppercrm/connection-steps.md)
-* [ ] [Data Model](../../sales-analytics/coppercrm/data-model/)
-* [ ] [Driver Framework](../../sales-analytics/coppercrm/driver-framework/)
-* [ ] [Release Notes](../../sales-analytics/coppercrm/release-notes.md)
+* [ ] [Prerequisite](../prerequisite.md)
+* [ ] [Connection Steps](../connection-steps.md)
+* [ ] [Data Model](../data-model/erd.md)
+* [ ] [Driver Framework](../driver-framework/)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

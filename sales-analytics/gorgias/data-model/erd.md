@@ -10,10 +10,11 @@ description: >-
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias//) provides detailed information about the entity relationships of data objects.
 
-{% embed url="https://drive.google.com/file/d/1J21PGIGkhWykqhS3baR7bfevZwJnE8ct/view?usp=share_link" %}
+{% embed url="https://drive.google.com/file/d/1J21PGIGkhWykqhS3baR7bfevZwJnE8ct/view" %}
+
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

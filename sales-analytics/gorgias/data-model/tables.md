@@ -8,13 +8,13 @@ description: This section contain information about gorgias connector tables inf
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gorgias](https://www.lyftrondata.com/integration/sales-analytics/gorgias//)[ ](https://www.lyftrondata.com/integration/gorgias/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1aHUAZhhITCE1dT3XFRWzB1em-WMmNMIFbRb8BSVFbuQ/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1aHUAZhhITCE1dT3XFRWzB1em-WMmNMIFbRb8BSVFbuQ/edit" %}
 Lyftrondata Gorgias Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\sales-analytics/gorgias/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

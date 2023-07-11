@@ -8,13 +8,13 @@ description: This section contain information about streak connector views infor
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Streak](https://www.lyftrondata.com/integration/sales-analytics/streak//)[ ](https://www.lyftrondata.com/integration/streak/)provides a detailed data dictionary of the views with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1GAw2q1XITFTK8FmXmcPkpD8aMzO4sv4TnvUahVtq394/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1GAw2q1XITFTK8FmXmcPkpD8aMzO4sv4TnvUahVtq394/edit" %}
 Lyftrondata Streak Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\sales-analytics/streak/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
