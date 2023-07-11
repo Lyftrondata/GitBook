@@ -8,13 +8,13 @@ description: This section contain information about stripe connector views infor
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe//)[ ](https://www.lyftrondata.com/integration/stripe/)provides a detailed data dictionary of the views with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/12am2w-DY6DRnD-qaLXd27FjP4ZgllWPp79mQULRMDLY/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1azglL8Ar7xcPveifyVya8_HPUiVP-v0Xrn1xhtFpX7E/edit" %}
 Lyftrondata Stripe Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\commerce-analytics/stripe/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

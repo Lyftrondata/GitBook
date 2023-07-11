@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify/)[ ](https://www.lyftrondata.com/integration/shopify/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -20,15 +20,14 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Shopify](https:
 
 To connect to your destination without engineering, follow our step-by-step Lyftrondata Shopify setup guide.
 
-* [ ] [Prerequisite](../../commerce-analytics/shopify/prerequisite.md)
-* [ ] [Connection Steps](../../commerce-analytics/shopify/connection-steps.md)
-* [ ] [Data Model](../../commerce-analytics/shopify/data-model/)
-* [ ] [Driver Framework](../../commerce-analytics/shopify/driver-framework/)
-* [ ] [Release Notes](../../commerce-analytics/shopify/release-notes.md)
+* [ ] [Prerequisite](../prerequisite.md)
+* [ ] [Connection Steps](../connection-steps.md)
+* [ ] [Data Model](../data-model/erd.md)
+* [ ] [Driver Framework](../driver-framework/)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -8,13 +8,13 @@ description: This section contain information about shopify connector views info
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Shopify](https://www.lyftrondata.com/integration/commerce-analytics/shopify//)[ ](https://www.lyftrondata.com/integration/shopify/)provides a detailed data dictionary of the views with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1z8n61Xk9Aw8roy8akxZK7kcEItKgFtrCMAzhU7_sB3I/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1z8n61Xk9Aw8roy8akxZK7kcEItKgFtrCMAzhU7_sB3I/edit" %}
 Lyftrondata Shopify Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\commerce-analytics/shopify/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

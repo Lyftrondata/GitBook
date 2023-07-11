@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/)[ ](https://www.lyftrondata.com/integration/stripe/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https://www.lyftrondata.com/integration/commerce-analytics/stripe/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -20,15 +20,14 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Stripe](https:/
 
 To connect to your destination without engineering, follow our step-by-step Lyftrondata Stripe setup guide.
 
-* [ ] [Prerequisite](../../commerce-analytics/stripe/prerequisite.md)
-* [ ] [Connection Steps](../../commerce-analytics/stripe/connection-steps.md)
-* [ ] [Data Model](../../commerce-analytics/stripe/data-model/)
-* [ ] [Driver Framework](../../commerce-analytics/stripe/driver-framework/)
-* [ ] [Release Notes](../../commerce-analytics/stripe/release-notes.md)
+* [ ] [Prerequisite](../prerequisite.md)
+* [ ] [Connection Steps](../connection-steps.md)
+* [ ] [Data Model](../data-model/erd.md)
+* [ ] [Driver Framework](../driver-framework/)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
