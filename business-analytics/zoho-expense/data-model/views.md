@@ -6,7 +6,7 @@ description: This section contain information about zoho-expense connector views
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Expense](None/)[ ](https://www.lyftrondata.com/integration/zoho-expense/)provides a detailed data dictionary of the views with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Expense](https://www.lyftrondata.com/integration/sales-analytics/zoho-expense//)[ ](https://www.lyftrondata.com/integration/zoho-expense/)provides a detailed data dictionary of the views with data types and column names.
 
 {% embed url="None" %}
 Lyftrondata Zoho Expense Data Dictionary
@@ -14,7 +14,7 @@ Lyftrondata Zoho Expense Data Dictionary
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\business-analytics/zoho-expense/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -6,7 +6,7 @@ description: This section contain information about zoho-commerce connector view
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Commerce](None/)[ ](https://www.lyftrondata.com/integration/zoho-commerce/)provides a detailed data dictionary of the views with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Commerce](https://www.lyftrondata.com/integration/sales-analytics/zoho-commerce//)[ ](https://www.lyftrondata.com/integration/zoho-commerce/)provides a detailed data dictionary of the views with data types and column names.
 
 {% embed url="None" %}
 Lyftrondata Zoho Commerce Data Dictionary
@@ -14,7 +14,7 @@ Lyftrondata Zoho Commerce Data Dictionary
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\business-analytics/zoho-commerce/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

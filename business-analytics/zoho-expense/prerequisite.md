@@ -11,17 +11,17 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Zoho Expense](None)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Zoho Expense](https://www.lyftrondata.com/integration/sales-analytics/zoho-expense/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/a60417504cb14106acdaedf23b422030" %}
+{% embed url="https://www.loom.com/share/a3aaa88027e747f5b9a8db8f3598bdcb?sid=1161fe28-bf03-41ec-b7b6-a00bb15f80e9" %}
 Lyftrondata Zoho Expense App Steps
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

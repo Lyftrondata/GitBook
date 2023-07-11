@@ -8,13 +8,13 @@ description: >-
 
 ### Working with the connector
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Expense](None) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Expense](https://www.lyftrondata.com/integration/sales-analytics/zoho-expense/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
 
 Once the needed input data is present, one can execute <mark style="color:blue;">SELECT</mark> queries by running the query maker function of Lyftrondata_Connector.
 
 ### Connecting from code
 
-See wheel [installation](../../../Business Analytics/zoho-expense/driver-framework/installation.md) for the prerequisite information you need to deploy the source connector.
+See wheel [installation](../../../Sales Analytics/zoho-expense/driver-framework/installation.md) for the prerequisite information you need to deploy the source connector.
 
 ```python
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
@@ -25,7 +25,7 @@ init = lyft.initialise(username="my username",password="my password")
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
