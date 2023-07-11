@@ -6,9 +6,9 @@ description: This section explains how to connect Lyftrondata to Zoho Creator.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/). To establish your connection, use the connection strings described below.
 
-### OAuth
+### Basic
 
 This option has been deprecated by Microsoft.
 
