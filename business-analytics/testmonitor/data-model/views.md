@@ -1,0 +1,23 @@
+---
+description: This section contain information about testmonitor connector views information
+---
+
+# Views
+
+### Data Dictionary
+
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Testmonitor](https://www.lyftrondata.com/integration/commerce-analytics/test-monitor//)[ ](https://www.lyftrondata.com/integration/testmonitor/)provides a detailed data dictionary of the views with data types and column names.
+
+{% embed url="https://docs.google.com/spreadsheets/d/10tuUZEcO1ynACleFz-Uw44iggPLwA5SZAFEG5T4pAOs/edit" %}
+Lyftrondata Testmonitor Data Dictionary
+{% endembed %}
+
+### Quickstart Steps
+
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+
+### Questions? <a href="#questions" id="questions"></a>
+
+We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
+
+
