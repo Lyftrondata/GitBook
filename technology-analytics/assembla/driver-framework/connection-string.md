@@ -8,7 +8,7 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) provides the connection string steps documented below. For more detailed information about driver connectivity, 
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) provides the connection string steps documented below. For more detailed information about driver connectivity, 
 visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python

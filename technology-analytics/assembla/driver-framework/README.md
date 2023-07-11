@@ -1,24 +1,24 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the Zoho Creator source connector.
+  This page contains the setup guide and reference information for the Assembla source connector.
 ---
 
 # Driver Framework
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) (https://www.lyftrondata.com/integration/zoho-creator/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) (https://www.lyftrondata.com/integration/assembla/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Zoho Creator is available in real-time.&#x20;
+* Data from Assembla is available in real-time.&#x20;
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Zoho Creator relational schema model.
+* Ready to query Assembla relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step Lyftrondata Zoho Creator setup guide.
+To connect to your destination without engineering, follow our step-by-step Lyftrondata Assembla setup guide.
 
 * [ ] [Prerequisite](../prerequisite.md)
 * [ ] [Connection Steps](../connection-steps.md)

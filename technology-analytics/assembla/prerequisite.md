@@ -1,8 +1,8 @@
 ---
 description: >-
-  This section describes the prerequisites for connecting Zoho Creator to
+  This section describes the prerequisites for connecting Assembla to
   Lyftrondata. To complete the prerequisites, the user must have admin access to
-  Zoho Creator.
+  Assembla.
 ---
 
 # Prerequisite
@@ -11,12 +11,12 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/a3aaa88027e747f5b9a8db8f3598bdcb?sid=1161fe28-bf03-41ec-b7b6-a00bb15f80e9" %}
-Lyftrondata Zoho Creator App Steps
+{% embed url="https://www.loom.com/share/1df6a8c7ebc344649f7efe06676e85b4" %}
+Lyftrondata Assembla App Steps
 {% endembed %}
 
 ### Quickstart Steps

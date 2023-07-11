@@ -8,9 +8,9 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator//) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla//) provides detailed information about the entity relationships of data objects.
 
-{% embed url="https://drive.google.com/file/d/19p4pAKCleg4bdlcZamIuV6uyxIMybGPU/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1rdWD9fAptCpBcJfss76MTYzA_iYyIv5Q/view?usp=share_link" %}
 
 ### Quickstart Steps
 

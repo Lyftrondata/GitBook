@@ -1,15 +1,15 @@
 ---
-description: This section contain information about zoho-creator connector views information
+description: This section contain information about assembla connector views information
 ---
 
 # Views
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator//)[ ](https://www.lyftrondata.com/integration/zoho-creator/)provides a detailed data dictionary of the views with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla//)[ ](https://www.lyftrondata.com/integration/assembla/)provides a detailed data dictionary of the views with data types and column names.
 
 {% embed url="None" %}
-Lyftrondata Zoho Creator Data Dictionary
+Lyftrondata Assembla Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps

@@ -1,12 +1,12 @@
 ---
-description: This section explains how to connect Lyftrondata to Zoho Creator.
+description: This section explains how to connect Lyftrondata to Assembla.
 ---
 
 # Connection Steps
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/). To establish your connection, use the connection strings described below.
 
 ### OAuth
 
@@ -19,7 +19,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/68cf6bcb71814b3a87a3eb5b5ca75847" %}
+{% embed url="https://www.loom.com/share/119209ae9e5448aab23ae4f5484a9d6b?sid=0a1b1ab4-88b2-4111-adeb-9fd203b8e35f" %}
 Basic Connection
 {% endembed %}
 

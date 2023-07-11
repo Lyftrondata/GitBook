@@ -1,6 +1,6 @@
 ---
 description: >-
-    This section contains information about the destinations that Zoho Creator
+    This section contains information about the destinations that Assembla
     supports.
 ---
 
@@ -8,12 +8,12 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/b6bb3fb772e7424bbc07ce3c3ae0355b" %}
-zoho-creator to Snowflake
+{% embed url="https://www.loom.com/share/ab4e23a4cb2b44508714f38f87b30154?sid=1366b4a4-4125-40df-a950-40cd71e4be79" %}
+assembla to Snowflake
 {% endembed %}
 
 ### Quickstart Steps

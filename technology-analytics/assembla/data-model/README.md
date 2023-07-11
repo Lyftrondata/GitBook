@@ -1,12 +1,12 @@
 ---
-description: This section describes the details of Zoho Creator ERD, Tables, and Views.
+description: This section describes the details of Assembla ERD, Tables, and Views.
 ---
 
 # Data Model
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Zoho Creator](https://www.lyftrondata.com/integration/technology-analytics/zoho-creator/) provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Assembla](https://www.lyftrondata.com/integration/commerce-analytics/assembla/) provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](erd.md)
 * [ ] [Tables](tables.md)
