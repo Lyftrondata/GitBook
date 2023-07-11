@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Surveymonkey](https://www.lyftrondata.com/integration/marketing-analytics/survey-monkey/)[ ](https://www.lyftrondata.com/integration/surveymonkey/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Surveymonkey](https://www.lyftrondata.com/integration/marketing-analytics/survey-monkey/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -20,15 +20,14 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Surveymonkey](h
 
 To connect to your destination without engineering, follow our step-by-step Lyftrondata Surveymonkey setup guide.
 
-* [ ] [Prerequisite](../../marketing-analytics/surveymonkey/prerequisite.md)
-* [ ] [Connection Steps](../../marketing-analytics/surveymonkey/connection-steps.md)
-* [ ] [Data Model](../../marketing-analytics/surveymonkey/data-model/)
-* [ ] [Driver Framework](../../marketing-analytics/surveymonkey/driver-framework/)
-* [ ] [Release Notes](../../marketing-analytics/surveymonkey/release-notes.md)
+* [ ] [Prerequisite](../prerequisite.md)
+* [ ] [Connection Steps](../connection-steps.md)
+* [ ] [Data Model](../data-model/erd.md)
+* [ ] [Driver Framework](../driver-framework/)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

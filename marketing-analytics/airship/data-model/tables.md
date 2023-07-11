@@ -8,13 +8,13 @@ description: This section contain information about airship connector tables inf
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Airship](https://www.lyftrondata.com/integration/marketing-analytics/airship//)[ ](https://www.lyftrondata.com/integration/airship/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1S_2gVAVvwENQzTEiN7VdzfaM-g5arU2vFrNGl1k7RWs/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1S_2gVAVvwENQzTEiN7VdzfaM-g5arU2vFrNGl1k7RWs/edit" %}
 Lyftrondata Airship Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/airship/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

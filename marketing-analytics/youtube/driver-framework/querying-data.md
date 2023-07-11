@@ -73,7 +73,8 @@ print(df)  //my pandas dataframe
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 

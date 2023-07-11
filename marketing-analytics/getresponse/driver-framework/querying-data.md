@@ -8,7 +8,7 @@ description: >-
 
 ### Executing Query
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Getresponse](https://www.lyftrondata.com/integration/marketing-analytics/getresponse/) provides query maker functionality for querying data. To execute SQL statements that return data, use the cursor object's execute method. Once a query is executed, the result set is fetched from the API. This result set is converted into the relational format and returned which can then be printed out.&#x20;
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Getresponse](https://www.lyftrondata.com/integration/marketing-analytics/getresponse/ ) provides query maker functionality for querying data. To execute SQL statements that return data, use the cursor object's execute method. Once a query is executed, the result set is fetched from the API. This result set is converted into the relational format and returned which can then be printed out.&#x20;
 
 ```shell
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
@@ -73,7 +73,8 @@ print(df)  //my pandas dataframe
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 

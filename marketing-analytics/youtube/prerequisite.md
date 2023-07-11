@@ -11,7 +11,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an OAuth app and obtain the OAuthClientId, and OAuthClientSecret for the [Youtube](https://www.lyftrondata.com/integration/marketing-analytics/youtube/)[ ](https://www.lyftrondata.com/integration/freshdesk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Youtube](https://www.lyftrondata.com/integration/marketing-analytics/youtube/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
@@ -21,7 +21,7 @@ Lyftrondata Youtube App Steps
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

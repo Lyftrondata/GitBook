@@ -8,7 +8,7 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Partnerize](https://www.lyftrondata.com/integration/marketing-analytics/partnerize/) provides the connection string steps documented below. For more detailed information about driver connectivity, 
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Partnerize](https://www.lyftrondata.com/integration/marketing-analytics/partnerize/ ) provides the connection string steps documented below. For more detailed information about driver connectivity, 
 visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python
@@ -21,7 +21,7 @@ print(df)  //my pandas dataframe
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

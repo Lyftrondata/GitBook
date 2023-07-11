@@ -6,15 +6,16 @@ description: This section describes the details of Partnerize ERD, Tables, and V
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Partnerize](https://www.lyftrondata.com/integration/marketing-analytics/partnerize/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Partnerize](https://www.lyftrondata.com/integration/marketing-analytics/partnerize/ ) provides a data model that enables you to better understand the source platform.
 
-* [ ] [ERD](../../../marketing-analytics/partnerize/data-model/erd.md)
-* [ ] [Tables](../../../marketing-analytics/partnerize/data-model/tables.md)
-* [ ] [Views](../../../marketing-analytics/partnerize/data-model/views.md)
+* [ ] [ERD](erd.md)
+* [ ] [Tables](tables.md)
+* [ ] [Views](views.md)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../marketing-analytics/partnerize/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 

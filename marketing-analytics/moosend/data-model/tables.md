@@ -8,13 +8,13 @@ description: This section contain information about moosend connector tables inf
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Moosend](https://www.lyftrondata.com/integration/marketing-analytics/moosend//)[ ](https://www.lyftrondata.com/integration/moosend/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1ERpGMSf7Pu6jxYrstVvSAoHNIWed2OE5B8guZ6dlMqk/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1ERpGMSf7Pu6jxYrstVvSAoHNIWed2OE5B8guZ6dlMqk/edit" %}
 Lyftrondata Moosend Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/moosend/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

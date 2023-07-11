@@ -8,13 +8,13 @@ description: This section contain information about sparkpost connector tables i
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Sparkpost](https://www.lyftrondata.com/integration/marketing-analytics/sparkpost//)[ ](https://www.lyftrondata.com/integration/sparkpost/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1HM7bFP39yWWlnAftF2KaMmsjHVFd1YXDOlDIJRSNqz4/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1HM7bFP39yWWlnAftF2KaMmsjHVFd1YXDOlDIJRSNqz4/edit" %}
 Lyftrondata Sparkpost Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/sparkpost/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

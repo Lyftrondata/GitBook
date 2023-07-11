@@ -6,9 +6,9 @@ description: This section explains how to connect Lyftrondata to Omnisend.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Omnisend](https://www.lyftrondata.com/integration/marketing-analytics/omnisend/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Omnisend](https://www.lyftrondata.com/integration/marketing-analytics/omnisend/). To establish your connection, use the connection strings described below.
 
-### OAuth
+### Basic
 
 This option has been deprecated by Microsoft.
 
@@ -19,13 +19,13 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/4016ee673cb74690bea64ffdc568e8c6" %}
+{% embed url="https://www.loom.com/share/af77a2f3919a4f8c9ec16ba0c2686abb" %}
 Basic Connection
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

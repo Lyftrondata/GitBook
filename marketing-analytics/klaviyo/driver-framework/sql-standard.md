@@ -73,8 +73,8 @@ SELECT {  [ TOP <numeric_literal> | DISTINCT ]  {    *| {<expression> [ [ AS ] <
     | -------------------------------------------------------------------------------------------------------------------------------- |
 10. Sort a result set in ascending order:
 
-    | <mark style="color:blue;">`SELECT customer_id, subscriptions FROM customer ORDER BY subscriptions ASC`</mark> |
-    | ------------------------------------------------------------------------------------------------------------- |
+    | <mark style="color:blue;">`SELECT customer_id, subscriptions FROM customer  ORDER BY subscriptions ASC`</mark> |
+    | -------------------------------------------------------------------------------------------------------------- |
 11. Restrict a result set to the specified number of rows:
 
     | <mark style="color:blue;">`SELECT customer_id, subscriptions FROM customer LIMIT 10`</mark> |
@@ -86,12 +86,14 @@ SELECT {  [ TOP <numeric_literal> | DISTINCT ]  {    *| {<expression> [ [ AS ] <
 
 13\. Restrict a result set to the specified number of pages
 
-<mark style="color:blue;">SELECT \* FROM sales\_invoice lyftstartpage 1 lyftendpage 10</mark>
+&#x20;                <mark style="color:blue;">SELECT \* FROM sales\_invoice lyftstartpage 1 lyftendpage 10</mark>
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions[ here.](../)
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
+
+

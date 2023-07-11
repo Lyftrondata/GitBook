@@ -8,13 +8,13 @@ description: This section contain information about convertkit connector tables 
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Convertkit](https://www.lyftrondata.com/integration/marketing-analytics/convertkit//)[ ](https://www.lyftrondata.com/integration/convertkit/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1YZwtUWnwKkG5to4eqCtAV2d9nFzVVesSGcvMtRo_zhw/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1YZwtUWnwKkG5to4eqCtAV2d9nFzVVesSGcvMtRo_zhw/edit" %}
 Lyftrondata Convertkit Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/convertkit/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

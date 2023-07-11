@@ -11,9 +11,10 @@ description: >-
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Surveymonkey](https://www.lyftrondata.com/integration/marketing-analytics/survey-monkey//) provides detailed information about the entity relationships of data objects.
 
 {% embed url="https://drive.google.com/file/d/1xTWkbUyzWl8dY0Lfcnrg1zbDlNAvbVXA/view?usp=sharing" %}
+
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

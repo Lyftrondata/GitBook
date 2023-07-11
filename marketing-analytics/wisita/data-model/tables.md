@@ -6,15 +6,15 @@ description: This section contain information about wisita connector tables info
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Wisita](None/)[ ](https://www.lyftrondata.com/integration/wisita/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Wisita](https://www.lyftrondata.com/integration/commerce-analytics/wisita//)[ ](https://www.lyftrondata.com/integration/wisita/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="None" %}
+{% embed url="https://docs.google.com/spreadsheets/d/15SRD7TJWXONzHpg_N0dptG6EGUgE9e5lg_ZUeB2LBrI/edit" %}
 Lyftrondata Wisita Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/wisita/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

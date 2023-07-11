@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer//)[ ] provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -20,15 +20,14 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Appsflyer](http
 
 To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer/) setup guide.
 
-* [ ] [Prerequisite](../../marketing-analytics/appsflyer/prerequisite.md)
-* [ ] [Connection Steps](../../marketing-analytics/appsflyer/connection-steps.md)
-* [ ] [Data Model](../../marketing-analytics/appsflyer/data-model/)
-* [ ] [Driver Framework](../../marketing-analytics/appsflyer/driver-framework/)
-* [ ] [Release Notes](../../marketing-analytics/appsflyer/release-notes.md)
+* [ ] [Prerequisite](prerequisite.md)
+* [ ] [Connection Steps](connection-steps.md)
+* [ ] [Data Model](data-model/erd.md)
+* [ ] [Driver Framework](driver-framework/)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../marketing-analytics/appsflyer/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

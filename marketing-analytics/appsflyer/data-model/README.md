@@ -6,15 +6,16 @@ description: This section describes the details of Appsflyer ERD, Tables, and Vi
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer/)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer/) provides a data model that enables you to better understand the source platform.
 
-* [ ] [ERD](../../../marketing-analytics/appsflyer/data-model/erd.md)
-* [ ] [Tables](../../../marketing-analytics/appsflyer/data-model/tables.md)
-* [ ] [Views](../../../marketing-analytics/appsflyer/data-model/views.md)
+* [ ] [ERD](erd.md)
+* [ ] [Tables](tables.md)
+* [ ] [Views](views.md)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../marketing-analytics/appsflyer/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 

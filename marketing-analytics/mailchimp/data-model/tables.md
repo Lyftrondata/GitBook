@@ -8,13 +8,13 @@ description: This section contain information about mailchimp connector tables i
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Mailchimp](https://www.lyftrondata.com/integration/marketing-analytics/mailchimp//)[ ](https://www.lyftrondata.com/integration/mailchimp/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1FxpAXkVEMNgSLrR-HQe3lVSG8Jh02at6ZTRJ7MQcCBY/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1U5SRpD_s3icH8azSqm3S57yy22lhGwcc9siAEFseEC8/edit" %}
 Lyftrondata Mailchimp Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/mailchimp/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

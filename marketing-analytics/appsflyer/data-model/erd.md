@@ -11,9 +11,10 @@ description: >-
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer//) provides detailed information about the entity relationships of data objects.
 
 {% embed url="https://drive.google.com/file/d/1GOc2Ant-AX5ccC0qCLF18BK0k2k1EuKw/view?usp=sharing" %}
+
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

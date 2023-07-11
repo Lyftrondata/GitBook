@@ -8,13 +8,13 @@ description: This section contain information about cleverreach connector views 
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Cleverreach](https://www.lyftrondata.com/integration/marketing-analytics/cleverreach//)[ ](https://www.lyftrondata.com/integration/cleverreach/)provides a detailed data dictionary of the views with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1iTwjrDG7zpRb0Vnt-0r_UWBqUFnX5pey45ItoO8Sg6E/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1iTwjrDG7zpRb0Vnt-0r_UWBqUFnX5pey45ItoO8Sg6E/edit" %}
 Lyftrondata Cleverreach Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/cleverreach/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

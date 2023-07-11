@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Viator](None)) requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Viator](https://www.lyftrondata.com/integration/marketing-analytics/viator/ )) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>
@@ -86,7 +86,7 @@ lyft = con.Connect("My Lyftrondata license key")
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

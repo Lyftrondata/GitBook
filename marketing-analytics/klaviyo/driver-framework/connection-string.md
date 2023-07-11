@@ -8,7 +8,8 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Klaviyo](https://www.lyftrondata.com/integration/marketing-analytics/klaviyo/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Klaviyo](https://www.lyftrondata.com/integration/marketing-analytics/klaviyo/) provides the connection string steps documented below. For more detailed information about driver connectivity, 
+visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
@@ -20,7 +21,7 @@ print(df)  //my pandas dataframe
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions[ here.](../)
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

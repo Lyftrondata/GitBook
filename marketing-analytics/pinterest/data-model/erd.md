@@ -11,9 +11,10 @@ description: >-
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Pinterest](https://www.lyftrondata.com/integration/marketing-analytics/pinterest//) provides detailed information about the entity relationships of data objects.
 
 {% embed url="https://drive.google.com/file/d/1ud-mQX2zNHAN2Rr8UDwqNj_C7fKyNnqn/view?usp=sharing" %}
+
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -8,13 +8,13 @@ description: This section contain information about amplitude connector tables i
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Amplitude](https://www.lyftrondata.com/integration/marketing-analytics/amplitude//)[ ](https://www.lyftrondata.com/integration/amplitude/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1AZNDJmHh788RDgODBbfHQakKe4HhuEm_ID0PYbVJANM/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1AZNDJmHh788RDgODBbfHQakKe4HhuEm_ID0PYbVJANM/edit'" %}
 Lyftrondata Amplitude Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/amplitude/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

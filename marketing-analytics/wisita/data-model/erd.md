@@ -8,12 +8,13 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Wisita](None/) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Wisita](https://www.lyftrondata.com/integration/commerce-analytics/wisita//) provides detailed information about the entity relationships of data objects.
 
 {% embed url="https://drive.google.com/file/d/1KqKQLArEmwQppsbCFenC-CJMTI6p7qNK/view?usp=sharing" %}
+
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../../quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

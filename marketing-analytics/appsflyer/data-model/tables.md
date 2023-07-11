@@ -8,13 +8,13 @@ description: This section contain information about appsflyer connector tables i
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Appsflyer](https://www.lyftrondata.com/integration/marketing-analytics/appsflyer//)[ ](https://www.lyftrondata.com/integration/appsflyer/)provides a detailed data dictionary of the tables with data types and column names.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1OA3Q71ugTsACtGl3OiXiAj-hRly21cj6xDffaUzZqbY/edit?usp=drive_link" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1OA3Q71ugTsACtGl3OiXiAj-hRly21cj6xDffaUzZqbY/edit" %}
 Lyftrondata Appsflyer Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../C:\Testing\GitBook Automation\marketing-analytics/appsflyer/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

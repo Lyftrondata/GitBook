@@ -6,15 +6,16 @@ description: This section describes the details of Wisita ERD, Tables, and Views
 
 ### Index
 
-The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Wisita](None)provides a data model that enables you to better understand the source platform.
+The  [Lyftrondata](https://www.lyftrondata.com/) driver for [Wisita](https://www.lyftrondata.com/integration/commerce-analytics/wisita/) provides a data model that enables you to better understand the source platform.
 
-* [ ] [ERD](../../../marketing-analytics/wisita/data-model/erd.md)
-* [ ] [Tables](../../../marketing-analytics/wisita/data-model/tables.md)
-* [ ] [Views](../../../marketing-analytics/wisita/data-model/views.md)
+* [ ] [ERD](erd.md)
+* [ ] [Tables](tables.md)
+* [ ] [Views](views.md)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../marketing-analytics/wisita/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+
 
 ### Questions? <a href="#questions" id="questions"></a>
 
