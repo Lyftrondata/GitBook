@@ -7,7 +7,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica//)[ ] provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -20,15 +20,14 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Acumatica](http
 
 To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/) setup guide.
 
-* [ ] [Prerequisite](../../finance-analytics/acumatica/prerequisite.md)
-* [ ] [Connection Steps](../../finance-analytics/acumatica/connection-steps.md)
-* [ ] [Data Model](../../finance-analytics/acumatica/data-model/)
-* [ ] [Driver Framework](../../finance-analytics/acumatica/driver-framework/)
-* [ ] [Release Notes](../../finance-analytics/acumatica/release-notes.md)
+* [ ] [Prerequisite](prerequisite.md)
+* [ ] [Connection Steps](connection-steps.md)
+* [ ] [Data Model](data-model/erd.md)
+* [ ] [Driver Framework](driver-framework/)
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../../finance-analytics/acumatica/quickstart-steps.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
