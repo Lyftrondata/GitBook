@@ -3,8 +3,7 @@ description: >-
   This page contains the setup guide and reference information for the Recruitcrm source connector.
 ---
 
-# Recruitcrm
-
+# Recruit CRM
 ### Overview
 
 The [Lyftrondata](https://www.lyftrondata.com/) integration for [Recruitcrm](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/) provides the most natural way to access data while requiring no engineering.
