@@ -4,7 +4,7 @@ description: >-
   Openexchangerates source connector.
 ---
 
-# Openexchangerates
+# Open Exchange Rates
 
 ### Overview
 
