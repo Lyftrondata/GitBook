@@ -14,7 +14,7 @@ This option has been deprecated by Microsoft.
 
 | Key      | Value                   | Field    |
 | -------- | ----------------------- | -------- |
-| UserName | Your Amplitude UserName | Required |
+| Username | Your Amplitude Username | Required |
 | Password | Your Amplitude Password | Required |
 
 Follow the steps below to establish a basic connection

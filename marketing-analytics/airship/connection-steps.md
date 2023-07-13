@@ -14,7 +14,7 @@ This option has been deprecated by Microsoft.
 
 | Key      | Value                 | Field    |
 | -------- | --------------------- | -------- |
-| UserName | Your Airship UserName | Required |
+| Username | Your Airship Username | Required |
 | Password | Your Airship Password | Required |
 
 Follow the steps below to establish a basic connection
