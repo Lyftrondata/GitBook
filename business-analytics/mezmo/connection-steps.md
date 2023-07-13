@@ -12,10 +12,10 @@ description: This section explains how to connect Lyftrondata to Mezmo.
 
 This option has been deprecated by Microsoft.
 
-| Key           | Value               | Field    |
-| ------------- | ------------------- | -------- |
-| person\_token | Your Mezmo Username | Required |
-| Password      | Your Mezmo Password | Required |
+| Key      | Value               | Field    |
+| -------- | ------------------- | -------- |
+| Username | Your Mezmo Username | Required |
+| Password | Your Mezmo Password | Required |
 
 Follow the steps below to establish a basic connection
 

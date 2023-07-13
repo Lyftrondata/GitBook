@@ -8,14 +8,16 @@ description: This section explains how to connect Lyftrondata to Zoho Desk.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Desk](https://www.lyftrondata.com/integration/business-analytics/zoho-desk/). To establish your connection, use the connection strings described below.
 
-### Basic
+### Oauth2
 
 This option has been deprecated by Microsoft.
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key           | Value                        | Field    |
+| ------------- | ---------------------------- | -------- |
+| Client Id     | Your Zoho Desk Client Id     | Required |
+| Client Secret | Your Zoho Desk Client Secret | Required |
+| Redirect Uri  | Your Zoho Desk Redirect Uri  | Required |
+| Org Id        | Your Zoho Desk Org Id        | Required |
 
 Follow the steps below to establish a basic connection
 
@@ -25,7 +27,7 @@ Basic Connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
