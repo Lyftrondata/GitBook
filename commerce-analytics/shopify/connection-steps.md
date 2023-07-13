@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Shopify.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
+This option has been deprecated by Microsoft.\
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+
+<table><thead><tr><th width="204">Key</th><th width="342">Value</th><th>Field</th></tr></thead><tbody><tr><td>Username</td><td>Your Shopify Username</td><td>Required</td></tr><tr><td>Password</td><td>Your Shopify Access Key</td><td>Required</td></tr><tr><td>Version</td><td>Your Shopify API Version. Such as V1.0</td><td>Required</td></tr><tr><td>Subdomain</td><td>Your Shopify Subdomain</td><td>Required</td></tr></tbody></table>
 
 Follow the steps below to establish a basic connection
 
@@ -25,7 +23,7 @@ Basic Connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
