@@ -8,24 +8,19 @@ description: This section explains how to connect Lyftrondata to Taxrates.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Taxrates](https://www.lyftrondata.com/integration/commerce-analytics/tax-rates/). To establish your connection, use the connection strings described below.
 
-### Basic
+### PersonalToken
 
 This option has been deprecated by Microsoft.
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key          | Value                         | Field    |
+| ------------ | ----------------------------- | -------- |
+| Person Token | Your Taxrates Personal Token. | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/de580ccc84014a7093dbe345690c6ac 2" %}
-Basic Connection
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
