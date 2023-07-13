@@ -14,7 +14,7 @@ This option has been deprecated by Microsoft.
 
 | Key      | Value                 | Field    |
 | -------- | --------------------- | -------- |
-| UserName | Your Mailjet UserName | Required |
+| Username | Your Mailjet Username | Required |
 | Password | Your Mailjet Password | Required |
 
 Follow the steps below to establish a basic connection
