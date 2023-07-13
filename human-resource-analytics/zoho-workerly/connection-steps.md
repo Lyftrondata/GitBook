@@ -12,7 +12,7 @@ description: This section explains how to connect Lyftrondata to Zoho Workerly.
 
 This option has been deprecated by Microsoft.
 
-<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Client Id</td><td>Your Zoho Recruiter Client Id</td><td>Required</td></tr><tr><td>Client Secret</td><td>Your Zoho Recruiter Client Secret</td><td>Required</td></tr><tr><td>Redirect URL</td><td>Your Zoho Recruiter Redirect URL</td><td>Required</td></tr><tr><td>Subdomain</td><td>Your Zoho Recruiter Subdomain</td><td>Required</td></tr></tbody></table>
+<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Client Id</td><td>Your Zoho Workerly Client Id</td><td>Required</td></tr><tr><td>Client Secret</td><td>Your Zoho Workerly Client Secret</td><td>Required</td></tr><tr><td>Redirect URL</td><td>Your Zoho Workerly Redirect URL</td><td>Required</td></tr><tr><td>Subdomain</td><td>Your Zoho Workerly Subdomain</td><td>Required</td></tr></tbody></table>
 
 Follow the steps below to establish a basic connection
 
