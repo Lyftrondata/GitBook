@@ -14,8 +14,8 @@ This option has been deprecated by Microsoft.
 
 | Key           | Value                               | Field    |
 | ------------- | ----------------------------------- | -------- |
-| Client Id     | Your Google Calender Client Id.     | Required |
-| Client Secret | Your Google Calender Client Secret. | Required |
+| Client Id     | Your Google Calendar Client Id.     | Required |
+| Client Secret | Your Google Calendar Client Secret. | Required |
 | Redirect URL  | Your re-directed URL                | Required |
 
 Follow the steps below to establish a basic connection
