@@ -12,9 +12,9 @@ description: This section explains how to connect Lyftrondata to Stripe.
 
 This option has been deprecated by Microsoft.
 
-| Key           | Value               | Field    |
-| ------------- | ------------------- | -------- |
-| PersonalToken | Your Personal Token | Required |
+| Key           | Value                      | Field    |
+| ------------- | -------------------------- | -------- |
+| PersonalToken | Your Stripe Personal Token | Required |
 
 Follow the steps below to establish a basic connection
 
