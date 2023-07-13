@@ -8,14 +8,16 @@ description: This section explains how to connect Lyftrondata to Zoho Invoice.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Invoice](https://www.lyftrondata.com/integration/finance-analytics/zoho-invoice/). To establish your connection, use the connection strings described below.
 
-### Basic
+### Oauth2
 
 This option has been deprecated by Microsoft.
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key          | Value                            | Field    |
+| ------------ | -------------------------------- | -------- |
+| Client Id    | Your Zoho Invoice Client Id.     | Required |
+| Cient Secret | Your Zoho Invoice Client Secret. | Required |
+| Redirect URL | Your re-directed URL             | Required |
+| Subdomain    | Your Zoho Invoice Subdomain.     | Required |
 
 Follow the steps below to establish a basic connection
 
@@ -25,7 +27,7 @@ Basic Connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
