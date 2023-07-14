@@ -16,7 +16,7 @@ This option has been deprecated by Microsoft.
 | ------------- | ----------------------------- | -------- |
 | Client Id     | Your Revcontent Client Id     | Required |
 | Client Secret | Your Revcontent Client Secret | Required |
-| Redirect URL  | Your Revcontent Redirect URL  |          |
+| Redirect URL  | Your Revcontent Redirect URL  | Required |
 
 Follow the steps below to establish a basic connection
 
