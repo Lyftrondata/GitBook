@@ -8,14 +8,16 @@ description: This section explains how to connect Lyftrondata to Zoho Inventory.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Inventory](https://www.lyftrondata.com/integration/business-analytics/zoho-inventory/). To establish your connection, use the connection strings described below.
 
-### Basic
+### Oauth2
 
 This option has been deprecated by Microsoft.
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key           | Value                             | Field                  |
+| ------------- | --------------------------------- | ---------------------- |
+| Client Id     | Your Zoho Inventory Client Id     | Required               |
+| Client Secret | Your Zoho Inventory Client Secret | <p></p><p>Required</p> |
+| Redirect Uri  | Your Zoho Inventory Redirect Uri  | <p></p><p>Required</p> |
+| Subdomain     | Your Zoho Inventory Subdomain     | <p></p><p>Required</p> |
 
 Follow the steps below to establish a basic connection
 
@@ -25,7 +27,7 @@ Basic Connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
