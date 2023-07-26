@@ -529,7 +529,7 @@
       * [SQL Standard](marketing-analytics/viator/driver-framework/sql-standard.md)
       * [System Methods](marketing-analytics/viator/driver-framework/system-methods.md)
       * [System Tables](marketing-analytics/viator/driver-framework/system-tables.md)
-  * [Wisita](marketing-analytics/wisita/README.md)
+  * [Wistia](marketing-analytics/wisita/README.md)
     * [Connection Steps](marketing-analytics/wisita/connection-steps.md)
     * [Destinations](marketing-analytics/wisita/destination.md)
     * [Prerequisite](marketing-analytics/wisita/prerequisite.md)
