@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Commerce Analytics](README.md)
-* [Commerce Analytics](commerce-analytics/README.md)
   * [Jumpseller](commerce-analytics/jumpseller/README.md)
     * [Connection Steps](commerce-analytics/jumpseller/connection-steps.md)
     * [Destinations](commerce-analytics/jumpseller/destination.md)

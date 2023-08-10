@@ -4,7 +4,7 @@ description: >-
   Openexchangerates source connector.
 ---
 
-# Open Exchange Rates
+# Openexchangerates
 
 ### Overview
 
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](broken-reference).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

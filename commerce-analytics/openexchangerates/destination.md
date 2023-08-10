@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Openexchangerates
-    supports.
+  This section contains information about the destinations that
+  Openexchangerates supports.
 ---
 
 # Destinations
@@ -18,7 +18,7 @@ openexchangerates to Snowflake
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](broken-reference).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
