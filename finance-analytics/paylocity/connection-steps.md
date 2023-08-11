@@ -14,7 +14,7 @@ description: This section explains how to connect Lyftrondata to Paylocity.
 | ------------------ | ---------------------------------------------- | -------- |
 | client\_id         | Your access key                                | Required |
 | client\_secret     | Your access secret                             | Required |
-| subdomain          | Your host                                      | Required |
+| subdomain          | Your company id                                | Required |
 | Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
 
 Follow the steps below to establish a basic connection
