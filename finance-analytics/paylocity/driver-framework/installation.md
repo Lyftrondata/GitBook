@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [Paylocity](None)) requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [Paylocity](https://lyftron.com/integrations/paylocity/) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>
@@ -20,12 +20,12 @@ The [Lyftrondata](https://www.lyftrondata.com) driver for [Paylocity](None)) req
 
 ### Installation Steps
 
-&#x20;To start your installation, you need to download the [wheel](https://pypi.org/project/wheel/) file. The downloaded archive contains several whl files, each of which corresponds to a specific combination of environmental factors. These factors include:&#x20;
+To start your installation, you need to download the [wheel](https://pypi.org/project/wheel/) file. The downloaded archive contains several whl files, each of which corresponds to a specific combination of environmental factors. These factors include:
 
 * The operating system that the python connector is used in, whether it is Windows, Mac, or Linux.
 * The Architecture of the operating system, whether it is 32-bit or 64-bit. For Windows systems, this will correspond to the win32 or win\_amd64 wheels. For Linux, this will correspond to the linux\_i686 and linux\_x86\_64 wheels.
-* The version of Python is in use. The connectors are supported in Python 3.9 for Windows and Linux, and for Mac.&#x20;
-* &#x20;Once the appropriate whl file is identified, install the connector to your Python distribution with the "pip install" command via the command line. This will usually take the form of running the following commands in sequence. The wheel for Python 3.9 is used for the below example:
+* The version of Python is in use. The connectors are supported in Python 3.9 for Windows and Linux, and for Mac.
+* Once the appropriate whl file is identified, install the connector to your Python distribution with the "pip install" command via the command line. This will usually take the form of running the following commands in sequence. The wheel for Python 3.9 is used for the below example:
 
 #### Linux
 
@@ -59,15 +59,15 @@ source venv/bin/activate
 pip install Lyftrondata_Mylibrary.whl
 ```
 
-### Validation&#x20;
+### Validation
 
-You can confirm whether the connector is successfully installed by running the pip list command. If "Lyftrondata\_Mylibrary.whl" is present in the list output by the command, then the installation was successful.&#x20;
+You can confirm whether the connector is successfully installed by running the pip list command. If "Lyftrondata\_Mylibrary.whl" is present in the list output by the command, then the installation was successful.
 
 ```shell
 pip list 
 ```
 
-### Uninstallation&#x20;
+### Uninstallation
 
 Should the connector need to be uninstalled for any reason, you can do so by running the pip uninstall command, as in the example below:
 
@@ -75,9 +75,9 @@ Should the connector need to be uninstalled for any reason, you can do so by run
 pip uninstall Lyftrondata_Mylibrary.whl
 ```
 
-### &#x20;License Key
+### License Key
 
-&#x20;The license key will be provided by the Lyftrondata team which will be used for driver connectivity validation.&#x20;
+The license key will be provided by the Lyftrondata team which will be used for driver connectivity validation.
 
 ```shell
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
@@ -86,10 +86,8 @@ lyft = con.Connect("My Lyftrondata license key")
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
-

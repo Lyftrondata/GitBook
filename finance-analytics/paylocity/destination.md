@@ -8,11 +8,13 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Paylocity](None/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Paylocity](https://lyftron.com/integrations/paylocity/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
 {% embed url="https://www.loom.com/share/ec6a49e07a8b43d08a1b0d43ab8a2a52?sid=bf6ce248-bbf2-48ac-8f39-456bd307c169" %}
+Paylocity to Snowflake
+{% endembed %}
 
 ### Quickstart Steps
 

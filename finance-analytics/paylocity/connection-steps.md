@@ -18,6 +18,10 @@ description: This section explains how to connect Lyftrondata to Paylocity.
 
 Follow the steps below to establish a basic connection
 
+{% embed url="https://www.loom.com/share/aa9008623aa844f8b06505ce7afc6766?sid=cf358bac-d94b-4a47-9b8c-2511d596e679" %}
+OAuth2 Client Credentials
+{% endembed %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
