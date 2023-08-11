@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paylocity](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Paylocity](https://lyftron.com/integrations/paylocity/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
