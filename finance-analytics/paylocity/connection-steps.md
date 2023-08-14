@@ -10,11 +10,11 @@ description: This section explains how to connect Lyftrondata to Paylocity.
 
 ### OAuth2 Client Credentials
 
-| Key            | Value              | Field    |
-| -------------- | ------------------ | -------- |
-| client\_id     | Your access key    | Required |
-| client\_secret | Your access secret | Required |
-| subdomain      | Your company id    | Required |
+| Key           | Value              | Field    |
+| ------------- | ------------------ | -------- |
+| Client ID     | Your access key    | Required |
+| Client Secret | Your access secret | Required |
+| Subdomain     | Your company id    | Required |
 
 Follow the steps below to establish a basic connection
 
