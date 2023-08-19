@@ -6,26 +6,17 @@ description: This section explains how to connect Lyftrondata to Netsuite Erp.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Netsuite Erp](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Netsuite Erp](None/). To establish your connection, use the connection strings described below.
 
-### Basic
+### OAuth Client Credentials
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+<table><thead><tr><th>Key</th><th width="261.3333333333333">Value</th><th>Field</th></tr></thead><tbody><tr><td>Account ID</td><td>Your NetSuite Account ID</td><td>Required</td></tr><tr><td>Access Key</td><td>Your NetSuite Access Key</td><td>Required</td></tr><tr><td>Access Secert</td><td>Your NetSuite Access Secret</td><td>Required</td></tr><tr><td>Token Key</td><td>Your NetSuite Tokey Key</td><td>Required</td></tr><tr><td>Token Secret</td><td>Your NetSuite Token Secret</td><td>Required</td></tr></tbody></table>
 
 Follow the steps below to establish a basic connection
 
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
