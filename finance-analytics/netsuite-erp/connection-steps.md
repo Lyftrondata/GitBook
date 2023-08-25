@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Netsuite Erp.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Netsuite Erp](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Netsuite ERP ](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/). To establish your connection, use the connection strings described below.
 
 ### OAuth Client Credentials
 

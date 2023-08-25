@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Netsuite Erp](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Netsuite ERP ](https://lyftrondata.gitbook.io/finance-analytics/finance-analytics/netsuite-erp)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Netsuite Erp](h
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Netsuite Erp](None/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Netsuite ERP](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/) setup guide.
 
 * [ ] [Prerequisite](prerequisite/)
 * [ ] [Connection Steps](connection-steps.md)
