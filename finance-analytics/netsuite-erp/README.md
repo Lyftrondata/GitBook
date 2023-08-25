@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Netsuite ERP ](https://lyftrondata.gitbook.io/finance-analytics/finance-analytics/netsuite-erp)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Netsuite ERP](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
