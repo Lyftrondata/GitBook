@@ -24,7 +24,7 @@ The provider communicates with NetSuite through the NetSuite Web services. This 
 
 **Create or edit a role for Web services permissions**
 
-<table data-header-hidden><thead><tr><th width="87"></th><th></th></tr></thead><tbody><tr><td><strong>Step</strong></td><td><strong>Action</strong></td></tr><tr><td>1</td><td>Log into NetSuite, navigate to Setup, and access User/Roles -> Manage Roles -> New or edit an existing role</td></tr><tr><td>2</td><td>Click Permissions, choose Setup, and add "SOAP Web Services" and "REST Web Services" permissions, along with other required permissions</td></tr><tr><td>3</td><td>Within Setup, go to User/Roles -> Manage Users, select the user</td></tr><tr><td>4</td><td>On the Access tab, add the new role and save the user</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="90"></th><th></th></tr></thead><tbody><tr><td><strong>Step</strong></td><td><strong>Action</strong></td></tr><tr><td>1</td><td>Log into NetSuite, navigate to Setup, and access User/Roles -> Manage Roles -> New or edit an existing role</td></tr><tr><td>2</td><td>Click Permissions, choose Setup, and add "SOAP Web Services" and "REST Web Services" permissions, along with other required permissions</td></tr><tr><td>3</td><td>Within Setup, go to User/Roles -> Manage Users, select the user</td></tr><tr><td>4</td><td>On the Access tab, add the new role and save the user</td></tr></tbody></table>
 
 ## Authenticating to NetSuite:
 
@@ -42,13 +42,13 @@ Enable token-based authentication in NetSuite
 
 ![](https://docs.devart.com/odbc/netsuite/netsuite\_enable\_features.png)
 
-* On the Enable Features screen, select SuiteCloud.
+* On the Enable Features screen, select Suite Cloud.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Enable Feature</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Enable Feature</p></figcaption></figure>
 
 1. In the Manage Authentication section, enable the Token-Based Authentication and OAUTH 2.0 checkboxes.
 
-![](https://docs.devart.com/odbc/netsuite/netsuite\_enable\_tba.png)
+![Setup Authentication](https://docs.devart.com/odbc/netsuite/netsuite\_enable\_tba.png)
 
 2. Create a role with the necessary privileges for token-based authentication and access to the necessary objects, and assign it to the user that will be used for authentication.
 
@@ -58,17 +58,17 @@ Enable token-based authentication in NetSuite
 
 3. Create an integration record with token-based authentication enabled.
 
-<table data-header-hidden><thead><tr><th width="124"></th><th></th></tr></thead><tbody><tr><td><strong>Step</strong></td><td><strong>Action</strong></td></tr><tr><td>1</td><td>Navigate to Setup > Integrations > Manage Integrations > New.</td></tr><tr><td>2</td><td>Open the Integration window, Enter a Name for the application, Select Token-Based Authentication checkbox, Ensure TBA: Authorization Flow is not selected, Click Save</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="96"></th><th></th></tr></thead><tbody><tr><td><strong>Step</strong></td><td><strong>Action</strong></td></tr><tr><td>1</td><td>Navigate to Setup > Integrations > Manage Integrations > New.</td></tr><tr><td>2</td><td>Open the Integration window, Enter a Name for the application, Select Token-Based Authentication checkbox, Ensure TBA: Authorization Flow is not selected, Click Save</td></tr></tbody></table>
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="160"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="160"><figcaption><p>Integration Screen</p></figcaption></figure>
 
 </div>
 
 On the confirmation screen, copy the generated Consumer Key and Consumer Secret. Save these values somewhere because you will not be able to retrieve them once you leave this screen; otherwise, you will have to re-generate them, which makes the old ones to stop working.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Token Based Authentication</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Token Based Authentication</p></figcaption></figure>
 
 **Create an access token.**
 
@@ -77,19 +77,19 @@ On the confirmation screen, copy the generated Consumer Key and Consumer Secret.
 \
 
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Access Token</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Access Token</p></figcaption></figure>
 
 On the confirmation screen, copy the generated Token ID and Token Secret. Save these values somewhere because you will not be able to retrieve them once you leave this screen; otherwise, you will have to re-generate them, which makes the old ones to stop working.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Confirmation Access Token</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Confirmation Access Token</p></figcaption></figure>
 
 \
-After completing the above steps, insert the obtained Consumer Key, Consumer Secret, Token ID, and Token into the appropriate fields. Please check our [Connection Steps Guide](connection-steps.md).\
+After completing the above steps, insert the obtained Consumer Key, Consumer Secret, Token ID, and Token into the appropriate fields. Please check our [Connection Steps Guide](../connection-steps.md).\
 
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

@@ -4,7 +4,7 @@ description: >-
   Erp source connector.
 ---
 
-# Netsuite Erp
+# Netsuite
 
 ### Overview
 
@@ -21,7 +21,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Netsuite Erp](N
 
 To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Netsuite Erp](None/) setup guide.
 
-* [ ] [Prerequisite](prerequisite.md)
+* [ ] [Prerequisite](prerequisite/)
 * [ ] [Connection Steps](connection-steps.md)
 * [ ] [Data Model](data-model/erd.md)
 * [ ] [Driver Framework](driver-framework/)
