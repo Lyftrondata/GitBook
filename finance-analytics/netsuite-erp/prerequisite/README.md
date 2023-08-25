@@ -52,9 +52,13 @@ Enable token-based authentication in NetSuite
 
 2. Create a role with the necessary privileges for token-based authentication and access to the necessary objects, and assign it to the user that will be used for authentication.
 
-
-
 <table data-header-hidden><thead><tr><th width="107"></th><th></th></tr></thead><tbody><tr><td><strong>Step</strong></td><td><strong>Action</strong></td></tr><tr><td>1</td><td>Navigate to Setup > User/Roles > Manage Roles > New.</td></tr><tr><td>2</td><td>Create a role and assign necessary permissions for the integration with the Provider. At least the Web Services and User Access Tokens privileges are required.</td></tr><tr><td>3</td><td>Select Lists > Employees > Edit User > Access Roles > Roles, and assign the role to the necessary user.</td></tr></tbody></table>
+
+An administrator can assign users to the modified token-based authentication roles. TBA is available for many types of NetSuite users, including customers, employees, partners, and vendors.
+
+
+
+
 
 3. Create an integration record with token-based authentication enabled.
 
