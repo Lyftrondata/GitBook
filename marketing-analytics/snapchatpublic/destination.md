@@ -1,24 +1,20 @@
 ---
 description: >-
-    This section contains information about the destinations that Snapchatpublic 
-    supports.
+  This section contains information about the destinations that Snapchatpublic 
+  supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Snapchatpublic ](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Snapchatpublic ](../snapchatpublic-/None/)provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-snapchatpublic- to Snowflake
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

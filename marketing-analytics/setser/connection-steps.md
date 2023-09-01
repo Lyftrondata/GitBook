@@ -6,26 +6,17 @@ description: This section explains how to connect Lyftrondata to Setser.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Setser](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods for connecting to [Setser](None/). To establish your connection, use the connection strings described below.
 
-### Basic
+### Personal Token:
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
-
-Follow the steps below to establish a basic connection
-
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
+| Key             | Value               | Field    |
+| --------------- | ------------------- | -------- |
+| personal\_token | Your Personal Token | Required |
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

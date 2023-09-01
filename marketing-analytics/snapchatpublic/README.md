@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Snapchatpublic ](None/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Snapchatpublic ](../snapchatpublic-/None/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Snapchatpublic 
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Snapchatpublic ](None/)setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Snapchatpublic ](../snapchatpublic-/None/)setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
