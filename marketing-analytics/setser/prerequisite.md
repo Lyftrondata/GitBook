@@ -6,13 +6,13 @@ description: >-
 
 # Prerequisite
 
-### Setup Instructions
+Setup Instructions
 
 Follow the steps below to create API Credentials for the [Setser](https://www.lyftrondata.com/integration/marketing-analytics/setser/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/9f67c6917c064ca58bd51f96a4cd409a?sid=4d2bc136-7542-4183-9d2e-48ee51a5becb" %}
+{% embed url="https://www.loom.com/share/e663af56a248438fa71b7b0150aa075a?sid=75ff411a-36fe-40f7-b360-6de928fdebc2" %}
 
 ### Quickstart Steps
 
