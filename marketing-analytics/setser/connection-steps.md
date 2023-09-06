@@ -6,13 +6,14 @@ description: This section explains how to connect Lyftrondata to Setser.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the following methods for connecting to [Setser](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods for connecting to [Setser](https://www.lyftrondata.com/integration/marketing-analytics/setser/). To establish your connection, use the connection strings described below.
 
-### Personal Token:
+### Basic:
 
-| Key             | Value               | Field    |
-| --------------- | ------------------- | -------- |
-| personal\_token | Your Personal Token | Required |
+| Key      | Value                  | Field    |
+| -------- | ---------------------- | -------- |
+| Username | Your API email address | Required |
+| Password | Your API password      | Required |
 
 ### Quickstart Steps
 
