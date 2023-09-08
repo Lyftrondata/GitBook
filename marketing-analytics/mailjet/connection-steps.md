@@ -6,11 +6,9 @@ description: This section explains how to connect Lyftrondata to Mailjet.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Mailjet](https://www.lyftrondata.com/integration/marketing-analytics/mailjet/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Mailjet](https://www.lyftrondata.com/integration/marketing-analytics/mailjet/). To establish your connection, use the connection strings described below.
 
 ### Basic
-
-This option has been deprecated by Microsoft.
 
 | Key      | Value                 | Field    |
 | -------- | --------------------- | -------- |
