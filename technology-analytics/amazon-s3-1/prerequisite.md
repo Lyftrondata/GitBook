@@ -13,6 +13,8 @@ Follow the steps below to create an API Credentials for the [S3Excel](https://ly
 
 ### Video Instruction
 
+**You need to have a AWS account**
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
