@@ -12,10 +12,13 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Excel ](https
 
 ### Key Features
 
-* Comprehensive incremental load mechanism.
-* Data from S3Excel is available in real-time.
-* ANSI SQL is fully supported to query data with ease.
-* Ready to query S3Excel relational schema model.
+* Shows a list of buckets
+  * Shows the different kinds of files, which can be Located inside the bucket
+* Folders (like folders on a computer)
+* Files, with two variations:
+  * Files without specific sheet names (when sheets have the same structure)
+  * Files with sheet names (when sheets have different structures)
+* Show the tables and files, like the individual columns and their data.
 
 ### Setup Guide
 
