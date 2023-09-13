@@ -10,7 +10,7 @@ description: This section explains how to connect Lyftrondata to S3Excel.
 
 ### Basic
 
-<table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td></td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td></td></tr><tr><td>Is Sheet Schema Same</td><td>Boolean</td><td>Required</td><td>If <strong>True</strong>, the query will return all the data contained in all the sheets of the selected excel file.<br><br>If <strong>False</strong>, the query will return only data in the selected sheet of excel file.</td></tr></tbody></table>
+<table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td>The access key required for authentication to access Amazon services.</td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td>The access secret associated with the access key for authentication to Amazon services.</td></tr><tr><td>Is Sheet Schema Same</td><td>Boolean</td><td>Required</td><td>If set to <strong>True</strong>, it will retrieve data from all sheets within the selected Excel file. <br><br>If set to <strong>False</strong>, it will retrieve data only from the specifically chosen sheet within the Excel file.</td></tr></tbody></table>
 
 #### Sheet Schema
 
