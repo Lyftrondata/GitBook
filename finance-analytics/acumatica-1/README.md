@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the Acumatica
-  source connector.
+  This page contains the setup guide and reference information for the
+  AcumaticaOdataERP source connector.
 ---
 
 # AccumaticaOdataERP
