@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Maximo.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
 | Key                | Value                                          | Field    |
 | ------------------ | ---------------------------------------------- | -------- |
 | username           | Your Maximo Username                           | Required |
