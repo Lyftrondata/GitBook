@@ -1,24 +1,20 @@
 ---
-description: >-
-    This section contains information about the destinations that Maximo
-    supports.
+description: This section contains information about the destinations that Maximo supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Maximo](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Maximo](None/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-maximo to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/Load-Data-from-Maximo-to-Snowflake-f008243f3b5a476cba2b02121fb8a63c?sid=88c7ea4d-dd53-4807-8ec1-fb5f0ae19337" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
