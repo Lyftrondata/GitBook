@@ -10,13 +10,13 @@ description: This section explains how to connect Lyftrondata to Firebird.
 
 ### Basic
 
-| Key      | Value                       | Field    |
-| -------- | --------------------------- | -------- |
-| Hostname | Enter your firebird address | Required |
-| Username | Your firebird username      | Required |
-| Password | Your firebird password      | Required |
-| Port     | Your firebird port          | Required |
-| Database | Your firebird database      | Required |
+| Key                   | Value                       | Field    |
+| --------------------- | --------------------------- | -------- |
+| Hostname / Datasource | Enter your firebird address | Required |
+| Username              | Your firebird username      | Required |
+| Password              | Your firebird password      | Required |
+| Port                  | Your firebird port          | Required |
+| Database              | Your firebird database      | Required |
 
 Follow the steps below to establish a basic connection
 
