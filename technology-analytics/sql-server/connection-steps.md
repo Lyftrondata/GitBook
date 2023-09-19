@@ -12,13 +12,13 @@ description: This section explains how to connect Lyftrondata to Sql Server.
 
 This option has been deprecated by Microsoft.
 
-| Key      | Value                   | Field    |
-| -------- | ----------------------- | -------- |
-| Host     | Your Personal Token.    | Required |
-| Port     | Your Sql server port.   | Required |
-| Database | Your database name.     | Required |
-| User     | Your database User.     | Required |
-| Password | Your database Password. | Required |
+| Key      | Value                    | Field    |
+| -------- | ------------------------ | -------- |
+| Host     | Your SQL Server hostname | Required |
+| Port     | Your Sql server port     | Required |
+| Database | Your database name       | Required |
+| User     | Your database User       | Required |
+| Password | Your database Password   | Required |
 
 Follow the steps below to establish a basic connection
 
