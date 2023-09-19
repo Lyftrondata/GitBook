@@ -6,11 +6,9 @@ description: This section explains how to connect Lyftrondata to Sql Server.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers three methods connecting to [Sql Server](https://www.lyftrondata.com/integration/sql-server/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers three methods of connecting to [Sql Server](https://www.lyftrondata.com/integration/sql-server/). To establish your connection, use the connection strings described below.
 
-### OAuth
-
-This option has been deprecated by Microsoft.
+### Basic
 
 | Key      | Value                    | Field    |
 | -------- | ------------------------ | -------- |
