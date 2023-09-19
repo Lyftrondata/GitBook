@@ -20,6 +20,10 @@ description: This section explains how to connect Lyftrondata to Firebird.
 
 Follow the steps below to establish a basic connection
 
+{% embed url="https://www.loom.com/share/70571e05ddbc44f4a5654a3ca26dd189?sid=8f837aec-2071-4a0f-98a2-28742db267f3" %}
+How to connect with firebird
+{% endembed %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).

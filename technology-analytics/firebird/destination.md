@@ -1,24 +1,24 @@
 ---
 description: >-
-    This section contains information about the destinations that Firebird
-    supports.
+  This section contains information about the destinations that Firebird
+  supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Firebird](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Firebird](None/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
-### Snowflake Load:
+### SQL Server Load:
 
-{% embed url="None" %}
-firebird to Snowflake
+{% embed url="https://www.loom.com/share/a16cfd4ff6334f5eb820edf3cb59100a" %}
+Firebird to SQL Server
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
