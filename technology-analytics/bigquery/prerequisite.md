@@ -9,7 +9,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Bigquery](https://www.lyftrondata.com/integration/data-warehouse/google-bigquery/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the below pre-requisite steps for [Bigquery](https://www.lyftrondata.com/integration/data-warehouse/google-bigquery/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
