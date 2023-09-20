@@ -6,18 +6,12 @@ description: This section contain information about bigquery connector views inf
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Bigquery](None/)[ ](https://www.lyftrondata.com/integration/bigquery/)provides a detailed data dictionary of the views with data types and column names.
-
-{% embed url="None" %}
-Lyftrondata Bigquery Data Dictionary
-{% endembed %}
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Bigquery](https://www.lyftrondata.com/integration/data-warehouse/google-bigquery/)[ ](https://www.lyftrondata.com/integration/bigquery/)provides a detailed data dictionary of the views with data types and column names.
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
-
