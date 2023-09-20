@@ -13,6 +13,8 @@ Follow the steps below to create an API Credentials for the [Bigquery](https://w
 
 ### Video Instruction
 
+{% embed url="https://www.loom.com/share/0a7e91ff429d4ae48676effdfd8b4d50yes" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
