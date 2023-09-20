@@ -12,6 +12,8 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Bigquery](https://www
 
 ### Snowflake Load:
 
+{% embed url="https://www.loom.com/share/5b97a17980044ff69ea3f64bfd26fce5?sid=0b420c18-1b49-4fcf-8502-6999c4c1cd59" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).

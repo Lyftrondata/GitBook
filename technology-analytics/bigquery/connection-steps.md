@@ -14,10 +14,14 @@ This option has been deprecated by Microsoft.
 
 | Key                | Value                                          | Field    |
 | ------------------ | ---------------------------------------------- | -------- |
-| serviceaccountjson | Your Personal Token                            | Required |
+| Serviceaccountjson | Your BigQuery Credential File                  | Required |
+| Dataset            | Your Bigquery Dataset                          | Required |
+| Gcp bucket name    | Your Bigquery Bucket                           | Required |
 | Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
 
 Follow the steps below to establish a basic connection
+
+{% embed url="https://www.loom.com/share/0fc796c0794d4f87bd5a6745f4553a49?sid=8f4fa5e4-7c74-40b6-a3cb-5a9ef60cd32b" %}
 
 ### Quickstart Steps
 
