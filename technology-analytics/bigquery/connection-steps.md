@@ -10,13 +10,11 @@ description: This section explains how to connect Lyftrondata to Bigquery.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                          | Field    |
-| ------------------ | ------------------------------ | -------- |
-| Serviceaccountjson | Your BigQuery Credential File  | Required |
-| Dataset            | Your Bigquery Dataset          | Required |
-| Gcp bucket name    | Your Bigquery Bucket           | Required |
+| Key                | Value                    | Field    |
+| ------------------ | ------------------------ | -------- |
+| Serviceaccountjson | Your ServiceAccount json | Required |
+| Dataset            | Your Bigquery Dataset    | Required |
+| Gcp bucket name    | Your Bigquery Bucket     | Required |
 
 Follow the steps below to establish a basic connection
 
