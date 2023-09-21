@@ -10,9 +10,9 @@ description: >-
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver of [Bigquery](https://www.lyftrondata.com/integration/data-warehouse/google-bigquery/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
-### Snowflake Load:
+### Big Query Load:
 
-{% embed url="https://www.loom.com/share/5b97a17980044ff69ea3f64bfd26fce5?sid=0b420c18-1b49-4fcf-8502-6999c4c1cd59" %}
+{% embed url="https://www.loom.com/share/89cfa1304ec24679948a8ee103287cae" %}
 
 ### Quickstart Steps
 
