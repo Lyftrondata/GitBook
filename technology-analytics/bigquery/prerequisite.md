@@ -17,7 +17,7 @@ Follow the below pre-requisite steps for [Bigquery](https://www.lyftrondata.com/
 
 ### Video Instruction
 
-{% embed url="https://www.loom.com/share/0a7e91ff429d4ae48676effdfd8b4d50yes" %}
+{% embed url="https://www.loom.com/share/2a9b1ff91a404c0a9099f0f0949f87b8" %}
 
 ### Manual Instruction
 
@@ -39,7 +39,7 @@ Follow the below pre-requisite steps for [Bigquery](https://www.lyftrondata.com/
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-5. In the second step, grant the user the role **BigQuery User**.
+5. of In the second step, grant the user the role **BigQuery User**.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -59,9 +59,6 @@ Follow the below pre-requisite steps for [Bigquery](https://www.lyftrondata.com/
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 9. Select the **JSON** Key type and click **Create** and make note of the key that is generated.
-
-\
-
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -93,9 +90,6 @@ Follow the below pre-requisite steps for [Bigquery](https://www.lyftrondata.com/
 2. Make note of the BigQuery **Project ID**.
 
 ### Step 3: Find Project ID
-
-\
-
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
