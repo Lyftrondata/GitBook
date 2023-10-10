@@ -8,15 +8,15 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
-### Snowflake Load:
+### BigQuery Load:
 
-{% embed url="https://www.loom.com/share/032e6a16bbdb4f959af45bd8d4e2ad3e?sid=66d8cd92-f0b4-4a82-b9c8-b1a23e1dbd50" %}
+{% embed url="https://www.loom.com/share/92c5e6f61a494b789745b189aa64cc93?sid=9175c580-479c-4ce0-b55c-1e103d2fe61b" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

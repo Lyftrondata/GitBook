@@ -8,7 +8,7 @@ description: >-
 
 ### Methods Detail
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides information about the description and usage of the method in the code.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides information about the description and usage of the method in the code.
 
 Methods Return Type: <mark style="color:blue;">**tuple(bool, token:str)**</mark>
 

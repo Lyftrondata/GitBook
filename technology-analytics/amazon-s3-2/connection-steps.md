@@ -1,25 +1,22 @@
 ---
-description: This section explains how to connect Lyftrondata to S3Excel.
+description: This section explains how to connect Lyftrondata to S3CSV.
 ---
 
 # Connection Steps
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
-<table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td>The access key required for authentication to access Amazon services.</td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td>The access secret associated with the access key for authentication to Amazon services.</td></tr><tr><td>Is Sheet Schema Same</td><td>Boolean</td><td>Required</td><td>If set to <strong>True</strong>, it will retrieve data from all sheets within the selected Excel file. <br><br>If set to <strong>False</strong>, it will retrieve data only from the specifically chosen sheet within the Excel file.</td></tr></tbody></table>
+<table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td>The access key required for authentication to access Amazon services.</td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td>The access secret associated with the access key for authentication to Amazon services.</td></tr><tr><td>Delimeter</td><td>String</td><td>Required</td><td>Delimeter of CSV file</td></tr><tr><td>Is_headers_in_file</td><td>Boolean</td><td>Required</td><td>If set to <strong>True</strong>, it will retrieve headers from  the selected CSV file. <br><br>If set to <strong>False</strong>, it will retrieve headers from metadata folder. <br>                                                     The name for header file should be same as filename in metadata folder</td></tr></tbody></table>
 
-#### Sheet Schema
-
-* If True, the query will return all the data contained in all the sheets of the selected excel file.
-* If False, the query will return only data in the selected sheet of excel file.
+{% embed url="https://www.loom.com/share/e3420359d3c3427495b78b5fbbea4924?sid=256d89c9-623e-4070-b7a1-3d02317e1bf0" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

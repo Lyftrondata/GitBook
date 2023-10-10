@@ -9,7 +9,7 @@ description: >-
 
 ### Prerequisite
 
-The [Lyftrondata](https://www.lyftrondata.com) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) requires the below versions
+The [Lyftrondata](https://www.lyftrondata.com) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) requires the below versions
 
 * [ ] <mark style="color:blue;">Python 3.9</mark>
 * [ ] <mark style="color:blue;">Python 3 pip</mark>
@@ -86,7 +86,7 @@ lyft = con.Connect("My Lyftrondata license key")
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

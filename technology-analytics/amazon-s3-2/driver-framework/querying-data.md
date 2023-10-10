@@ -8,7 +8,7 @@ description: >-
 
 ### Executing Query
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides query maker functionality for querying data. To execute SQL statements that return data, use the cursor object's execute method. Once a query is executed, the result set is fetched from the API. This result set is converted into the relational format and returned which can then be printed out.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides query maker functionality for querying data. To execute SQL statements that return data, use the cursor object's execute method. Once a query is executed, the result set is fetched from the API. This result set is converted into the relational format and returned which can then be printed out.
 
 ```shell
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
@@ -73,7 +73,7 @@ print(df)  //my pandas dataframe
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

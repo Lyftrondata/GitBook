@@ -8,7 +8,7 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con
@@ -20,7 +20,7 @@ print(df)  //my pandas dataframe
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

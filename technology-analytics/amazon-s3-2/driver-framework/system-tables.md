@@ -9,7 +9,7 @@ description: >-
 
 ### System Tables Information
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
 
 | Table Name       | Column Type | Query                           | Purpose                                       |
 | ---------------- | ----------- | ------------------------------- | --------------------------------------------- |
@@ -25,7 +25,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

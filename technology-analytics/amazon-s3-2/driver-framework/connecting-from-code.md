@@ -8,7 +8,7 @@ description: >-
 
 ### Working with the connector
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides simple connectivity steps from code. The primary functionality of the Lyftrondata Python Connector lies in querying, which interacts directly with the available services for your connector. However, many of these stored procedures rely on information stored in the provider's tables. These tables must be populated by the user and will contain all of the information that a certain user has on their connector account. The tables will rely on user data provided by connector on their endpoints.
 
 Once the needed input data is present, one can execute <mark style="color:blue;">SELECT</mark> queries by running the query maker function of Lyftrondata\_Connector.
 
@@ -24,7 +24,7 @@ init = lyft.initialise(username="my username",password="my password")
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](https://app.gitbook.com/o/wtkDnJM7XX3whUqN09p1/s/lTEE4RQvO3RwZSpc3Y6M/\~/changes/14/technology-analytics/amazon-s3-1).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
