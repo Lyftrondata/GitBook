@@ -9,7 +9,7 @@ description: >-
 
 ### System Tables Information
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gosquared ](None/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gosquared ](../../gosquared-/driver-framework/None/)provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
 
 | Table Name       | Column Type | Query                           | Purpose                                       |
 | ---------------- | ----------- | ------------------------------- | --------------------------------------------- |
@@ -25,9 +25,8 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver for [Gosquared ](None/) p
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../driver-framework/README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
