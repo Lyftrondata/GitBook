@@ -23,6 +23,8 @@ Follow the steps below to establish a basic connection
 
 ### Quickstart Steps
 
+{% embed url="https://www.loom.com/share/9d232b6e00024107868de5d651273557?sid=95d8d3fb-aa9d-4af7-92d0-79300db93840" %}
+
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>

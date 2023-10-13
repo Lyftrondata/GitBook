@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zoho Bigins
-    supports.
+  This section contains information about the destinations that Zoho Bigins
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Bigins](https://
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/08f4f2fb251947e28c0cef0780064980?sid=8881a2d0-194f-4017-b6ee-0824061aaed2" %}
-zoho-bigins to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/09308fae5ede43c8b4023f40b28a52d5?sid=6b4f1a9c-a047-4f0b-960c-0c88a67c117b" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
