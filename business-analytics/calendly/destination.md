@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Calendly
-    supports.
+  This section contains information about the destinations that Calendly
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Calendly](https://www
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/29bc3ebba3994ab39f6d6109fe30266c?sid=b9f31037-2eeb-4479-933d-1af93076f92e" %}
-calendly to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/e383245698e7420e80e47b56bb9aba48?sid=6f3d33bb-e254-43b2-8328-a395c0e9c4e2" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
