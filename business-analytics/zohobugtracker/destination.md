@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zohobugtracker
-    supports.
+  This section contains information about the destinations that Zohobugtracker
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zohobugtracker](https
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/66f8faa3698b4025a3c5ca871a2a851c" %}
-zohobugtracker to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/94f5cf468a2147b3b7f842a192762dd3?sid=477a2621-f67b-49a2-9a0f-89d96ba3cf1d" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
