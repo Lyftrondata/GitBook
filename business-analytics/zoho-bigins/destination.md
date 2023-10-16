@@ -12,7 +12,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Bigins](https://
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/09308fae5ede43c8b4023f40b28a52d5?sid=6b4f1a9c-a047-4f0b-960c-0c88a67c117b" %}
+{% embed url="https://www.loom.com/share/9dafb7cdc5e045348d825ddd171a95dc?sid=cf802ff7-3228-41c8-90b1-6b48bea20f5e" %}
 
 ### Quickstart Steps
 
