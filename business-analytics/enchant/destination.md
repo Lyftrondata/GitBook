@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Enchant
-    supports.
+  This section contains information about the destinations that Enchant
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Enchant](https://www.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/b954dcc66b714db2ae36de501bc5995d" %}
-enchant to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/a40ad154d9894596ae1646b184234d36?sid=f89e5e05-816c-4885-bf2d-e6fbe2063d0f" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
