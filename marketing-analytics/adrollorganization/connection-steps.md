@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Adrollorganizat
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Adrollorganization](nan). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Adrollorganization](https://www.lyftrondata.com/integration/marketing-analytics/adroll/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
@@ -19,13 +19,11 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="nan" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/d01f4a78882d4f6cb2f2c929c53e89ef?sid=3f6ab4b1-074e-4d5d-8b33-307fc4627f05" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
