@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zoho Contracts
-    supports.
+  This section contains information about the destinations that Zoho Contracts
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Contracts](https
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/d33372d42ebb410da7eef700b1f59275?sid=042c20cd-5db9-447a-85fa-968a3d64d05f" %}
-zoho-contracts to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/c7f0d27f03e74240a3b0b932ba5f8e33?sid=01b71a7e-0b65-4441-8d12-2a98154b8f91" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
