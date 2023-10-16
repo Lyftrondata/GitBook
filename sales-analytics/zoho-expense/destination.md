@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zoho Expense
-    supports.
+  This section contains information about the destinations that Zoho Expense
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Expense](https:/
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/c4db9d1dacc24bf38a0719e76c36b173?sid=c4356df4-b736-467e-8941-51ebad34ebaf" %}
-zoho-expense to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/716f94c69d7249c9b548f395341ec26d?sid=4e9db831-4db5-433a-9dac-d169ea56a3f4" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
