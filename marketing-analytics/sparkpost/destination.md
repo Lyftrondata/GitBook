@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Sparkpost
-    supports.
+  This section contains information about the destinations that Sparkpost
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Sparkpost](https://ww
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/646eeeee322d4e319a026e6883dbaf5c" %}
-sparkpost to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/19de03a43cba46f0bc9402f7c5108621?sid=31011359-50b4-4b40-bd24-772dbdf84bec" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
