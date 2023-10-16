@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Mailchimp
-    supports.
+  This section contains information about the destinations that Mailchimp
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Mailchimp](https://ww
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/7a12671fe76342569b7f1a5a781e9028" %}
-mailchimp to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/037b5c04176e4e3da0713d70952e898a?sid=e2c4031d-47de-4587-84e9-3be7bb31c9f9" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
