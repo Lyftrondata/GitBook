@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Adrollcampaign
-    supports.
+  This section contains information about the destinations that Adrollcampaign
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Adrollcampaign](https
 
 ### Snowflake Load:
 
-{% embed url="nan" %}
-adrollcampaign to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/d66bab4125e7454abeb84bfe5a210a6d?sid=b3d163ac-f59c-47b3-a80d-8e8b25817ff5" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

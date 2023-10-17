@@ -19,13 +19,11 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="nan" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/3a10b6dea4db4bb5a8ac0feff9455689?sid=8ce20091-c214-4e54-a001-67322d108541" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
