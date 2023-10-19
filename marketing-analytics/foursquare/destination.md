@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Foursquare
-    supports.
+  This section contains information about the destinations that Foursquare
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Foursquare](https://w
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/7af64d2a336b40b8b1f5ed4862ba7b66" %}
-foursquare to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/fd86dc3100584f9987e5792e5963db2d?sid=82504740-3838-43f4-b8f7-54bdb8ed3bd3" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
