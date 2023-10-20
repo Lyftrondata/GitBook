@@ -1,6 +1,6 @@
 ---
 description: >-
-  This section contains information about the destinations that S3Excel
+  This section contains information about the destinations that S3Parquet
   supports.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### BigQuery Load:
 
@@ -16,7 +16,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3CSV](https://lyftro
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../amazon-s3-2/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
