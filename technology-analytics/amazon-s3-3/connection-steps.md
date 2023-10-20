@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to S3Parquet.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the Basic methods for connecting to [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the Basic methods for connecting to [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/). To establish your connection, use the connection strings described below.
 
 ### Basic
 

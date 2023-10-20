@@ -1,12 +1,12 @@
 ---
-description: This section describes the details of S3CSV ERD, Tables, and Views.
+description: This section describes the details of S3Parquet ERD, Tables, and Views.
 ---
 
 # Data Model
 
 ### Index
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides a data model that enables you to better understand the source platform.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../amazon-s3/data-model/erd.md)
 * [ ] [Tables](../../amazon-s3/data-model/tables.md)
@@ -14,7 +14,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftr
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../amazon-s3-2/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
