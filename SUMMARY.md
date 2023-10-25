@@ -705,7 +705,7 @@
       * [SQL Standard](technology-analytics/json/driver-framework/sql-standard.md)
       * [System Methods](technology-analytics/json/driver-framework/system-methods.md)
       * [System Tables](technology-analytics/json/driver-framework/system-tables.md)
-  * [Kafkamysql](technology-analytics/kafkamysql/README.md)
+  * [Kafka MySQL](technology-analytics/kafkamysql/README.md)
     * [Connection Steps](technology-analytics/kafkamysql/connection-steps.md)
     * [Destinations](technology-analytics/kafkamysql/destination.md)
     * [Prerequisite](technology-analytics/kafkamysql/prerequisite.md)
