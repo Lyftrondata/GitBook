@@ -1,6 +1,6 @@
 # Table of contents
 
-* [finance-analytics](README.md)
+* [Finance Analytics](README.md)
   * [Acumatica](finance-analytics/acumatica/README.md)
     * [Connection Steps](finance-analytics/acumatica/connection-steps.md)
     * [Destinations](finance-analytics/acumatica/destination.md)
