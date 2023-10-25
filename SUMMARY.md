@@ -1,6 +1,6 @@
 # Table of contents
 
-* [technology-analytics](README.md)
+* [Technology Analytics](README.md)
   * [Amazon Athena](technology-analytics/amazon-athena/README.md)
     * [Connection Steps](technology-analytics/amazon-athena/connection-steps.md)
     * [Destinations](technology-analytics/amazon-athena/destination.md)
