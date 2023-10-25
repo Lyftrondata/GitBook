@@ -49,7 +49,7 @@
       * [SQL Standard](marketing-analytics/activecampaign/driver-framework/sql-standard.md)
       * [System Methods](marketing-analytics/activecampaign/driver-framework/system-methods.md)
       * [System Tables](marketing-analytics/activecampaign/driver-framework/system-tables.md)
-  * [Acton](marketing-analytics/acton/README.md)
+  * [Act! on](marketing-analytics/acton/README.md)
     * [Connection Steps](marketing-analytics/acton/connection-steps.md)
     * [Destinations](marketing-analytics/acton/destination.md)
     * [Prerequisite](marketing-analytics/acton/prerequisite.md)
