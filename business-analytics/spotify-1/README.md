@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the Spotify
+  This page contains the setup guide and reference information for the Smartsheet
   source connector.
 ---
 
@@ -8,23 +8,23 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Spotify](https://www.lyftrondata.com/integration/commerce-analytics/spotify/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Smartsheet](https://www.lyftrondata.com/integration/commerce-analytics/Smartsheet/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Spotify is available in real-time.
+* Data from Smartsheet is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Spotify relational schema model.
+* Ready to query Smartsheet relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Spotify](https://www.lyftrondata.com/integration/commerce-analytics/spotify/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Smartsheet](https://www.lyftrondata.com/integration/commerce-analytics/Smartsheet/) setup guide.
 
-* [ ] [Prerequisite](../spotify/prerequisite.md)
-* [ ] [Connection Steps](../spotify/connection-steps.md)
-* [ ] [Data Model](../spotify/data-model/erd.md)
-* [ ] [Driver Framework](../spotify/driver-framework/)
+* [ ] [Prerequisite](../Smartsheet/prerequisite.md)
+* [ ] [Connection Steps](../Smartsheet/connection-steps.md)
+* [ ] [Data Model](../Smartsheet/data-model/erd.md)
+* [ ] [Driver Framework](../Smartsheet/driver-framework/)
 
 ### Quickstart Steps
 
