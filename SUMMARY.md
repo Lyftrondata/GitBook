@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Sales Analytics](README.md)
-  * [Page 1](sales-analytics/page-1.md)
   * [Accelo](sales-analytics/accelo/README.md)
     * [Connection Steps](sales-analytics/accelo/connection-steps.md)
     * [Destinations](sales-analytics/accelo/destination.md)
