@@ -24,7 +24,7 @@ Methods Return Type: <mark style="color:blue;">**tuple(bool, token:str)**</mark>
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../amazon-s3-3/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
