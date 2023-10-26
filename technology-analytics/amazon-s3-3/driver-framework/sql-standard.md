@@ -9,7 +9,7 @@ description: >-
 
 ### Select Statements
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides ANSI SQL standard support. A SELECT statement can consist of the following basic clauses.
 
 * SELECT
 * INTO
@@ -90,7 +90,7 @@ SELECT {  [ TOP <numeric_literal> | DISTINCT ]  {    *| {<expression> [ [ AS ] <
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../amazon-s3-2/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

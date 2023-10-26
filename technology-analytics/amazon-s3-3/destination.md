@@ -10,9 +10,9 @@ description: >-
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
-### BigQuery Load:
+### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/92c5e6f61a494b789745b189aa64cc93?sid=9175c580-479c-4ce0-b55c-1e103d2fe61b" %}
+{% embed url="https://www.loom.com/share/b7ad34e0ce8346ffa0bbf785ae9b8199?sid=aebf21ed-a9ab-400b-8ba4-136e073900da" %}
 
 ### Quickstart Steps
 

@@ -9,7 +9,7 @@ description: >-
 
 ### System Tables Information
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides information about the framework system tables. You can query the system tables with this syntax: <mark style="color:blue;">Select \* from sys.</mark>
 
 | Table Name       | Column Type | Query                           | Purpose                                       |
 | ---------------- | ----------- | ------------------------------- | --------------------------------------------- |
@@ -25,7 +25,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftr
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../amazon-s3-2/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

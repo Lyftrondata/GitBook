@@ -10,9 +10,9 @@ description: This section explains how to connect Lyftrondata to S3Parquet.
 
 ### Basic
 
-<table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td>The access key required for authentication to access Amazon services.</td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td>The access secret associated with the access key for authentication to Amazon services.</td></tr><tr><td>Delimeter</td><td>String</td><td>Required</td><td>Delimeter of CSV file</td></tr><tr><td>Is_headers_in_file</td><td>Boolean</td><td>Required</td><td>If set to <strong>True</strong>, it will retrieve headers from  the selected CSV file. <br><br>If set to <strong>False</strong>, it will retrieve headers from metadata folder. <br>                                                     The name for header file should be same as filename in metadata folder</td></tr></tbody></table>
+<table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td>The access key required for authentication to access Amazon services.</td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td>The access secret associated with the access key for authentication to Amazon services.</td></tr></tbody></table>
 
-{% embed url="https://www.loom.com/share/e3420359d3c3427495b78b5fbbea4924?sid=256d89c9-623e-4070-b7a1-3d02317e1bf0" %}
+{% embed url="https://www.loom.com/share/9f28e8eb83174161a2936440a1ae6d7a?sid=c44f09ba-70ec-4f8e-94ea-812cb931c596" %}
 
 ### Quickstart Steps
 

@@ -13,8 +13,8 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Parquet ](htt
 ### Key Features
 
 * Shows a list of buckets
-  * Shows the different kinds of files, which can be Located inside the bucket
-* Folders (like folders on a computer) and files (like folders on a computer).
+  * Shows the different parquet files, which can be Located inside the bucket
+* Folders (like folders on a computer) and files (like files on a computer).
 * Show the tables and files, like the individual columns and their data.
 
 ### Setup Guide

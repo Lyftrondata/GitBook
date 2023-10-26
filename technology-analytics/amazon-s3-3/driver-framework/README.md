@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the S3CSV
+  This page contains the setup guide and reference information for the S3Parquet
   source connector.
 ---
 
@@ -8,18 +8,18 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from S3CSV is available in real-time.
+* Data from S3Parquet is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query S3CSV relational schema model.
+* Ready to query S3Parquet relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step Lyftrondata S3Excel setup guide.
+To connect to your destination without engineering, follow our step-by-step Lyftrondata S3Parquet setup guide.
 
 * [ ] [Prerequisite](../../amazon-s3/prerequisite.md)
 * [ ] [Connection Steps](../../amazon-s3/connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step Lyft
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../amazon-s3-2/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
