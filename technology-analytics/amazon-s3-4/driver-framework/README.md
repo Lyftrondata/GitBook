@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the S3Parquet
+  This page contains the setup guide and reference information for the S3Xml
   source connector.
 ---
 
@@ -8,18 +8,18 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from S3Parquet is available in real-time.
+* Data from S3Xml is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query S3Parquet relational schema model.
+* Ready to query S3Xml relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step Lyftrondata S3Parquet setup guide.
+To connect to your destination without engineering, follow our step-by-step Lyftrondata S3Xml setup guide.
 
 * [ ] [Prerequisite](../../amazon-s3/prerequisite.md)
 * [ ] [Connection Steps](../../amazon-s3/connection-steps.md)

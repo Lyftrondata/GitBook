@@ -1,12 +1,12 @@
 ---
-description: This section describes the details of S3Parquet ERD, Tables, and Views.
+description: This section describes the details of S3Xml ERD, Tables, and Views.
 ---
 
 # Data Model
 
 ### Index
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a data model that enables you to better understand the source platform.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../amazon-s3/data-model/erd.md)
 * [ ] [Tables](../../amazon-s3/data-model/tables.md)

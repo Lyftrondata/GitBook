@@ -8,7 +8,7 @@ description: >-
 
 ### Methods Detail
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides information about the description and usage of the method in the code.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides information about the description and usage of the method in the code.
 
 Methods Return Type: <mark style="color:blue;">**tuple(bool, token:str)**</mark>
 

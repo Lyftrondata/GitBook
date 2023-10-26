@@ -1,18 +1,16 @@
 ---
-description: >-
-  This section contains information about the destinations that S3Parquet
-  supports.
+description: This section contains information about the destinations that S3Xml supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/b7ad34e0ce8346ffa0bbf785ae9b8199?sid=aebf21ed-a9ab-400b-8ba4-136e073900da" %}
+{% embed url="https://www.loom.com/share/b9184bc075ea4ccdabb80b40a1da9989?sid=2a0fb7c5-5856-40da-a48e-e4c0e358fbdc" %}
 
 ### Quickstart Steps
 

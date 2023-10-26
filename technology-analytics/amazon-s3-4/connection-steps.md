@@ -1,18 +1,18 @@
 ---
-description: This section explains how to connect Lyftrondata to S3Parquet.
+description: This section explains how to connect Lyftrondata to S3Xml.
 ---
 
 # Connection Steps
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the Basic methods for connecting to [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the Basic methods for connecting to [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
 <table><thead><tr><th width="137">Key</th><th width="184">Value</th><th width="110">Field</th><th>Description</th></tr></thead><tbody><tr><td>Access Key</td><td>Amazon Access Key</td><td>Required</td><td>The access key required for authentication to access Amazon services.</td></tr><tr><td>Access Secret</td><td>Amazon Access Secret</td><td>Required</td><td>The access secret associated with the access key for authentication to Amazon services.</td></tr></tbody></table>
 
-{% embed url="https://www.loom.com/share/9f28e8eb83174161a2936440a1ae6d7a?sid=c44f09ba-70ec-4f8e-94ea-812cb931c596" %}
+{% embed url="https://www.loom.com/share/8ee2e9d28f4043cfb33dd0795c8bcd67?sid=46166862-fbe9-4dcd-b16a-4882a7d1965f" %}
 
 ### Quickstart Steps
 
