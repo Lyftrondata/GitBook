@@ -16,7 +16,7 @@ description: This section explains how to connect Lyftrondata to S3Json.
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Follow the quickstart instructions [here](../amazon-s3-4/).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
