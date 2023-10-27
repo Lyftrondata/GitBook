@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Bugsnag
-    supports.
+  This section contains information about the destinations that Bugsnag
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Bugsnag](https://www.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/47d8a2e6f8cc4ad39b3004afe02e72bf" %}
-bugsnag to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/29bb68f0ec1d4d28be32990cfaf18d37?sid=cae64483-fe7e-426d-9acd-a2b7e4a6f20e" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
