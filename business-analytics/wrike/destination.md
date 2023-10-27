@@ -1,7 +1,5 @@
 ---
-description: >-
-    This section contains information about the destinations that Wrike
-    supports.
+description: This section contains information about the destinations that Wrike supports.
 ---
 
 # Destinations
@@ -12,13 +10,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Wrike](https://www.ly
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/f1d80efe2a22442492792ff14abfaf25" %}
-wrike to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/8d9aedba305a463384ef931f3ca2640d?sid=d898ed9e-0cc8-43d6-b58f-999aef1bacb6" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
