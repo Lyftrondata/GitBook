@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Taxrates
-    supports.
+  This section contains information about the destinations that Taxrates
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Taxrates](https://www
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/890bcc34303e43158a560ed44808a557" %}
-taxrates to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/1e2fa1d908fd4c3eb715267014bd1238?sid=f2ade3f3-f9c7-41e1-9216-deceef5cc96f" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
