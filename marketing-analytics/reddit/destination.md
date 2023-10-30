@@ -1,7 +1,5 @@
 ---
-description: >-
-    This section contains information about the destinations that Reddit
-    supports.
+description: This section contains information about the destinations that Reddit supports.
 ---
 
 # Destinations
@@ -12,13 +10,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Reddit](https://www.l
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/874f60a7f5ef4ce7960b2b9128eca183" %}
-reddit to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/d754bc09b328407793ba4a85ff544dc1?sid=3502a0c8-d1dc-4e3a-993a-ca0d45084df9" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
