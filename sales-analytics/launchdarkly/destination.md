@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Launchdarkly
-    supports.
+  This section contains information about the destinations that Launchdarkly
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Launchdarkly](https:/
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/658a245c2baf43ed9f39c063a8670963?sid=2789ca73-6f5a-496f-81fe-e4301086c32d" %}
-launchdarkly to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/04fde28f0c454bb29f2b2870dd3e032f?sid=fad8d3a0-c29a-4628-8ffb-309b0f4edacf" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
