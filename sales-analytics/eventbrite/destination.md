@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Eventbrite
-    supports.
+  This section contains information about the destinations that Eventbrite
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Eventbrite](https://w
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/c48e9dcdb2994228a1876fc49fa4a36f?sid=dfb88258-79bd-4b61-b5e3-41e45fb48f77" %}
-eventbrite to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/e25985b4d8b84fcc8696198bb8cad069?sid=303a6c45-54a6-42e9-9430-662e80d199a9" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
