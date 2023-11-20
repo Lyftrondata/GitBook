@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Parquet ](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Parquet ](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-parquet/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Parquet ](htt
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [S3Parquet](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-parquet/) setup guide.
 
 * [ ] [Prerequisite](../amazon-s3/prerequisite.md)
 * [ ] [Connection Steps](../amazon-s3/connection-steps.md)

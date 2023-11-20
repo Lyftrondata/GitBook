@@ -6,7 +6,7 @@ description: This section describes the details of S3Parquet ERD, Tables, and Vi
 
 ### Index
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a data model that enables you to better understand the source platform.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-parquet/) provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../amazon-s3/data-model/erd.md)
 * [ ] [Tables](../../amazon-s3/data-model/tables.md)

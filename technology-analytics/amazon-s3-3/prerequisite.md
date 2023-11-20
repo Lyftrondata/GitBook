@@ -9,7 +9,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [S3Parquet](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-parquet/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 

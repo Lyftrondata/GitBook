@@ -6,7 +6,7 @@ description: This section contain information about S3Parquet connector views in
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/)[ ](https://www.lyftrondata.com/integration/amazon-s3/)provides a detailed data dictionary of the views with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-parquet/)[ ](https://www.lyftrondata.com/integration/amazon-s3/)provides a detailed data dictionary of the views with data types and column names.
 
 ### Quickstart Steps
 

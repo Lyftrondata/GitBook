@@ -6,7 +6,7 @@ description: This section contains information about S3Parquet connector tables 
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Parquet](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-parquet/) provides a detailed data dictionary of the tables with data types and column names.
 
 ### Quickstart Steps
 
