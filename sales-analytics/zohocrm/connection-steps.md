@@ -14,7 +14,6 @@ description: This section explains how to connect Lyftrondata to Zohocrm.
 | ------------- | --------------------------- | -------- |
 | Client Id     | Your ZohoCRM Client Id.     | Required |
 | Client Secret | Your ZohoCRM Client Secret. | Required |
-| Redirect Uri  | Your re-directed URL        | Required |
 
 Follow the steps below to establish a basic connection
 
