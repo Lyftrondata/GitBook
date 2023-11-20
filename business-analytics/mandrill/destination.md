@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Mandrill
-    supports.
+  This section contains information about the destinations that Mandrill
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Mandrill](https://www
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/6bef1179660d46abbbcb7d35545f54ea" %}
-mandrill to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/fd3efce696014ff68fda2e64b4238c17?sid=42536e6e-686b-48cf-b564-df064379469b" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

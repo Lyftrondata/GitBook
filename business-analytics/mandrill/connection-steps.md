@@ -10,17 +10,13 @@ description: This section explains how to connect Lyftrondata to Mandrill.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
 | Key            | Value                        | Field    |
 | -------------- | ---------------------------- | -------- |
 | Personal Token | Your Mandrill Personal Token | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/cb2cfa73fc384cb3a2cbd1cf1a3a9f79" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/0c594d8157cf49c4ad46aca9026d43e9?sid=295c2fa2-4202-4c63-bafd-b943c0764b2f" %}
 
 ### Quickstart Steps
 
