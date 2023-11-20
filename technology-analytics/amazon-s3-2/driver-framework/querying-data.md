@@ -8,7 +8,7 @@ description: >-
 
 ### Executing Query
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides query maker functionality for querying data. To execute SQL statements that return data, use the cursor object's execute method. Once a query is executed, the result set is fetched from the API. This result set is converted into the relational format and returned which can then be printed out.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-csv/) provides query maker functionality for querying data. To execute SQL statements that return data, use the cursor object's execute method. Once a query is executed, the result set is fetched from the API. This result set is converted into the relational format and returned which can then be printed out.
 
 ```shell
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con

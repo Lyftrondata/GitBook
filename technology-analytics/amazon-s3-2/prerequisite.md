@@ -8,7 +8,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [S3CSV](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-csv/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 

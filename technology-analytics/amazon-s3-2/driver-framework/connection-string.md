@@ -8,7 +8,7 @@ description: >-
 
 ### Steps
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-csv/) provides the connection string steps documented below. For more detailed information about driver connectivity, visit the [Connection Steps](../../../erp/dynamics-365-business-central/connection-steps.md) section of this document.
 
 ```python
 import Lyftrondata.MyConnector.lib.Lyftrondata_MyConnector_Connector as con

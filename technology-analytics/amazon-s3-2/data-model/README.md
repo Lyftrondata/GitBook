@@ -6,7 +6,7 @@ description: This section describes the details of S3CSV ERD, Tables, and Views.
 
 ### Index
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides a data model that enables you to better understand the source platform.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3CSV](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-csv/) provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../amazon-s3/data-model/erd.md)
 * [ ] [Tables](../../amazon-s3/data-model/tables.md)

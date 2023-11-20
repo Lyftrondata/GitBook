@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Excel](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-excel/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

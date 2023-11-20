@@ -8,7 +8,7 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-excel/) provides detailed information about the entity relationships of data objects.
 
 ### Quickstart Steps
 

@@ -6,7 +6,7 @@ description: This section contain information about amazon-s3 connector tables i
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftron.com/source/data-migration-from-amazon-s3-to-snowflake-google-bigquery-amazon-redshift-and-azure-sql-database/)[ ](https://www.lyftrondata.com/integration/amazon-s3/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Excel](https://lyftrondata.z13.web.core.windows.net/integration/technology-analytics/amazon-s3-excel/)[ ](https://www.lyftrondata.com/integration/amazon-s3/)provides a detailed data dictionary of the tables with data types and column names.
 
 ### Quickstart Steps
 
