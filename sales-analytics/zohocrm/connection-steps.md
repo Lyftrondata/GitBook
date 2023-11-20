@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Zohocrm.
 
 ### Oauth2
 
-This option has been deprecated by Microsoft.
-
 | Key           | Value                       | Field    |
 | ------------- | --------------------------- | -------- |
 | Client Id     | Your ZohoCRM Client Id.     | Required |
@@ -20,9 +18,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/14e06c14a2a24df0afc16e5a71fcb75c" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/010951f459f5432f8ca40803d974b6cf?sid=538ebec0-a8c1-4ee6-a37a-e562b80e099a" %}
 
 ### Quickstart Steps
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zohocrm
-    supports.
+  This section contains information about the destinations that Zohocrm
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zohocrm](https://www.
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/9226872d505d426f952c6e2d88ebf342" %}
-zohocrm to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/de4dbdb1d9a149a68318496b466335b8?sid=4d6c4e7c-aa5f-4295-ade1-e6d3e1bb62f5" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
