@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Revcontent
-    supports.
+  This section contains information about the destinations that Revcontent
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Revcontent](https://w
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/0366d883eb944668bbd819f4a94b384b" %}
-revcontent to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/273ff7c5a3e74bd7aaebd8738a4703ab?sid=d57d9a5a-1e85-4291-adcb-22c2ce1f8eb1" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
