@@ -6,7 +6,7 @@ description: This section contains information about S3Json connector tables inf
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Json](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Json](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-json/) provides a detailed data dictionary of the tables with data types and column names.
 
 ### Quickstart Steps
 

@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Json](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/)[ ](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Json](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-json/)[ ](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Json](https:/
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [S3Json](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [S3Json](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-json/) setup guide.
 
 * [ ] [Prerequisite](../amazon-s3/prerequisite.md)
 * [ ] [Connection Steps](../amazon-s3/connection-steps.md)
