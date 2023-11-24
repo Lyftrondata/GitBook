@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-xml/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 

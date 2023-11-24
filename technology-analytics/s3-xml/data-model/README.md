@@ -6,7 +6,7 @@ description: This section describes the details of S3Xml ERD, Tables, and Views.
 
 ### Index
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides a data model that enables you to better understand the source platform.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-xml/) provides a data model that enables you to better understand the source platform.
 
 * [ ] [ERD](../../amazon-s3/data-model/erd.md)
 * [ ] [Tables](../../amazon-s3/data-model/tables.md)

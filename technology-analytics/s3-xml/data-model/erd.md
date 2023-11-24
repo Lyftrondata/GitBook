@@ -8,7 +8,7 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) provides detailed information about the entity relationships of data objects.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-xml/) provides detailed information about the entity relationships of data objects.
 
 ### Quickstart Steps
 

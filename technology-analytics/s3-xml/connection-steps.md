@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to S3Xml.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the Basic methods for connecting to [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the Basic methods for connecting to [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-xml/). To establish your connection, use the connection strings described below.
 
 ### Basic
 

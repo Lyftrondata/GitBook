@@ -8,7 +8,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [S3Xml](https://www.lyftrondata.com/integration/technology-analytics/amazon-s3-xml/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
