@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zohoworkdrive
-    supports.
+  This section contains information about the destinations that Zohoworkdrive
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zohoworkdrive](https:
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/c9db93ab0854497dadb8e0d34290ce93?sid=49a95310-3bfb-47d1-8cfd-6cc9092b5862" %}
-zohoworkdrive to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/983f6edf678941d6b8c3365c3145a1d6?sid=8778ce35-456e-499a-9fa9-402ea3ef2fe9" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
