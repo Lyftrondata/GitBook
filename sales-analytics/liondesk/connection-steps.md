@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Liondesk .
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Liondesk](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)[ ](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Liondesk](https://www.lyftrondata.com/integration/sales-analytics/lion-desk/). To establish your connection, use the connection strings described below.
 
 ### Basic
 

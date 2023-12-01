@@ -9,7 +9,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Liondesk ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Liondesk](https://www.lyftrondata.com/integration/sales-analytics/lion-desk/)[ ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 

@@ -8,7 +8,7 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Liondesk ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Liondesk](https://www.lyftrondata.com/integration/sales-analytics/lion-desk/)[ ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 

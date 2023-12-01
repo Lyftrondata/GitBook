@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Liondesk ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Liondesk ](https://www.lyftrondata.com/integration/sales-analytics/lion-desk/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Liondesk ](http
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Liondesk ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Liondesk](https://www.lyftrondata.com/integration/sales-analytics/lion-desk/)[ ](https://www.lyftrondata.com/integration/sales-analytics/Lion-desk/)setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
