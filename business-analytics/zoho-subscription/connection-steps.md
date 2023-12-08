@@ -21,9 +21,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/245a960b947e4fc48d2e545e9a8a406d" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/d0989744f213461aa0b55cf5edc5f01e?sid=47f4aead-7fa7-40b1-a57f-af05160058ca" %}
 
 ### Quickstart Steps
 

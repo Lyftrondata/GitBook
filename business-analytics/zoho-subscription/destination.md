@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zoho Subscription
-    supports.
+  This section contains information about the destinations that Zoho
+  Subscription supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Subscription](ht
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/c16a432e2961446883f8bf688810aee4?sid=d3703028-c928-4dd0-a0cf-127c338c85f5" %}
-zoho-subscription to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/d3ea1763e8524c82b7f2b313939f8020?sid=bbd9e64d-7964-4cfd-a8e8-27cde03e82fa" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
