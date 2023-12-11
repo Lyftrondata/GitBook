@@ -8,9 +8,7 @@ description: This section explains how to connect Lyftrondata to Acumatica.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Acumatica](https://www.lyftrondata.com/integration/finance-analytics/acumatica/). To establish your connection, use the connection strings described below.
 
-### Oauth2
-
-This option has been deprecated by Microsoft.
+### OAuth2
 
 | Key           | Value                        | Field    |
 | ------------- | ---------------------------- | -------- |
