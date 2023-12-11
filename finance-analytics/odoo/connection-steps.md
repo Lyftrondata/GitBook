@@ -6,11 +6,9 @@ description: This section explains how to connect Lyftrondata to Odoo.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers a Basic method of connecting to [Odoo](https://www.lyftrondata.com/integration/finance-analytics/odoo/). To establish your connection, use the connection strings described below.
 
-### Odoo
-
-This option has been deprecated by Microsoft.
+### Basic
 
 | Key  | Value           | Field    |
 | ---- | --------------- | -------- |
