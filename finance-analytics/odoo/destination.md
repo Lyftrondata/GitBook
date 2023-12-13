@@ -1,7 +1,5 @@
 ---
-description: >-
-    This section contains information about the destinations that Odoo
-    supports.
+description: This section contains information about the destinations that Odoo supports.
 ---
 
 # Destinations
@@ -13,12 +11,18 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Odoo](https://www.lyf
 ### Snowflake Load:
 
 {% embed url="https://www.loom.com/share/e223ae03a9e74deebd065fe660ca97b5" %}
-odoo to Snowflake
+Odoo to Snowflake
+{% endembed %}
+
+### MySQL Load:
+
+{% embed url="https://www.loom.com/share/cca520a8a89242e7b323565498fc759c?sid=f2bbbc17-68f1-4021-ab14-d12632b4d3fe" %}
+Odoo To MySQL
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
