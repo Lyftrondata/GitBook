@@ -1,24 +1,22 @@
 ---
 description: >-
-    This section contains information about the destinations that Shipstation 
-    supports.
+  This section contains information about the destinations that Shipstation 
+  supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Shipstation ](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Shipstation ](None/)provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-shipstation- to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/5d5f6b39787f45f29d0b98adc21c165a?sid=d16d7cf8-62f3-4283-b9e9-c55094401838" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
