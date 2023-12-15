@@ -16,14 +16,11 @@ This option has been deprecated by Microsoft.
 | ------------- | ------------------------------ | -------- |
 | Client Id     | Your Zoho Books Client Id.     | Required |
 | Client Secret | Your Zoho Books Client Secret. | Required |
-| Redirect URL  | Your re-directed URL           | Required |
 | Data Center   | Your Zoho Books Data Center.   | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/8921d2cdc2134a42a06a76e3758f33d8?sid=2328d52a-95ab-4ed1-8093-1d857e4335ec" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/32039953efb94badb0ed2bb397ebeeb3?sid=5b708aa8-a448-4cd6-9bbc-b978fba004a8" %}
 
 ### Quickstart Steps
 
