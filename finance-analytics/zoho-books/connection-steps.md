@@ -20,7 +20,7 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/32039953efb94badb0ed2bb397ebeeb3?sid=5b708aa8-a448-4cd6-9bbc-b978fba004a8" %}
+{% embed url="https://www.loom.com/share/43c9ec92fb674a079a0ccfc40f2eb6d7?sid=b1e910ac-c095-48a5-98d2-508eb8460095" %}
 
 ### Quickstart Steps
 

@@ -12,7 +12,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Books](https://w
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/86fb63604fae4be9b3c4136ad5b875db?sid=1af571d1-68e4-4ebe-87c4-754f3e3cfd27" %}
+{% embed url="https://www.loom.com/share/3a37220262af48e588144d095b297c36?sid=2a6d4b1b-6e0a-4936-810a-a9a6fd23da21" %}
 
 ### Quickstart Steps
 
