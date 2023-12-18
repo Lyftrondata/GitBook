@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Zoho Books.
 
 ### Oauth2
 
-This option has been deprecated by Microsoft.
-
 | Key           | Value                          | Field    |
 | ------------- | ------------------------------ | -------- |
 | Client Id     | Your Zoho Books Client Id.     | Required |
