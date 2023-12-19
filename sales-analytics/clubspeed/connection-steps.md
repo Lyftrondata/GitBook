@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Clubspeed.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
-| Key          | Value                          | Field    |
-| ------------ | ------------------------------ | -------- |
-| Person Token | Your Clubspeed Personal Token. | Required |
-| Version      | Your Clubspeed Version.        | Required |
+| Key             | Value                          | Field    |
+| --------------- | ------------------------------ | -------- |
+| Personal\_token | Your Clubspeed Personal Token. | Required |
+| Version         | Your Clubspeed Version.        | Required |
 
 Follow the steps below to establish a basic connection
 

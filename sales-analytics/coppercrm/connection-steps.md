@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Coppercrm.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
-| Key           | Value                          | Field    |
-| ------------- | ------------------------------ | -------- |
-| Person Token  | Your CopperCRM Personal Token. | Required |
-| User Email    | Your CopperCRM User Email.     | Required |
+| Key              | Value                          | Field    |
+| ---------------- | ------------------------------ | -------- |
+| Personal\_token  | Your CopperCRM Personal Token. | Required |
+| User Email       | Your CopperCRM User Email.     | Required |
 
 Follow the steps below to establish a basic connection
 

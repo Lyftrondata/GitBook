@@ -8,7 +8,7 @@ description: This section explains how to connect Lyftrondata to Act!Crm.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Act!Crm](None/). To establish your connection, use the connection strings described below.
 
-### Basic
+### PersonalToken
 
 | Key             | Value               | Field    |
 | --------------- | ------------------- | -------- |
