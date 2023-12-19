@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Gorgias.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
 | Key       | Value                   | Field    |
 | --------- | ----------------------- | -------- |
 | Username  | Your Gorgias Username.  | Required |

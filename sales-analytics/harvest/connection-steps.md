@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Harvest.
 
 ### PersonalToken&#x20;
 
-This option has been deprecated by Microsoft.
-
-| Key          | Value                        | Field    |
-| ------------ | ---------------------------- | -------- |
-| Person Token | Your Harvest Personal Token. | Required |
-| Account ID   | Your Harvest Account id.     | Required |
+| Key             | Value                        | Field    |
+| --------------- | ---------------------------- | -------- |
+| Personal\_token | Your Harvest Personal Token. | Required |
+| Account ID      | Your Harvest Account id.     | Required |
 
 Follow the steps below to establish a basic connection
 

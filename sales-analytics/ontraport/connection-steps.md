@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Ontraport.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
 | Key     | Value                          | Field    |
 | ------- | ------------------------------ | -------- |
 | Api Key | Your Ontraport Personal Token. | Required |
