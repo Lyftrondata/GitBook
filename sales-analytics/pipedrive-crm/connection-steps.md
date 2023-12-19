@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Pipedrive Crm.
 
 ### PersonalToken&#x20;
 
-This option has been deprecated by Microsoft.
-
-| Key          | Value                              | Field    |
-| ------------ | ---------------------------------- | -------- |
-| Person Token | Your Pipedrive Crm Personal Token. | Required |
-| Api Key      | Your Pipedrive Crm Api Key.        | Required |
+| Key             | Value                              | Field    |
+| --------------- | ---------------------------------- | -------- |
+| Personal\_token | Your Pipedrive Crm Personal Token. | Required |
+| Api Key         | Your Pipedrive Crm Api Key.        | Required |
 
 Follow the steps below to establish a basic connection
 
