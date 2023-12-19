@@ -10,11 +10,9 @@ description: This section explains how to connect Lyftrondata to Eventbrite.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
-| Key          | Value                          | Field    |
-| ------------ | ------------------------------ | -------- |
-| Person Token | Your Eventbrite Personal Token | Required |
+| Key             | Value                          | Field    |
+| --------------- | ------------------------------ | -------- |
+| Personal\_token | Your Eventbrite Personal Token | Required |
 
 Follow the steps below to establish a basic connection
 
