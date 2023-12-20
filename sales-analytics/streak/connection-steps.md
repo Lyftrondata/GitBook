@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Streak.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
 | Key      | Value                 | Field    |
 | -------- | --------------------- | -------- |
 | Username | Your Streak Username. | Required |

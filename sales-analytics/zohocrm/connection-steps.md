@@ -8,7 +8,7 @@ description: This section explains how to connect Lyftrondata to Zohocrm.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zohocrm](https://www.lyftrondata.com/integration/sales-analytics/zohocrm/). To establish your connection, use the connection strings described below.
 
-### Oauth2
+### OAuth
 
 | Key           | Value                       | Field    |
 | ------------- | --------------------------- | -------- |

@@ -8,15 +8,12 @@ description: This section explains how to connect Lyftrondata to Zoho Commerce.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Commerce](https://www.lyftrondata.com/integration/sales-analytics/zoho-commerce/). To establish your connection, use the connection strings described below.
 
-### Oauth2
-
-This option has been deprecated by Microsoft.
+### OAuth
 
 | Key           | Value                             | Field    |
 | ------------- | --------------------------------- | -------- |
 | Client Id     | Your Zoho Commerce Client id.     | Required |
 | Client Secret | Your Zoho Commerce Client secret. | Required |
-| Redirect URL  | Your re-directed URL              | Required |
 | Subdomain     | Your Zoho Commerce Subdomain      | Required |
 | Org id        | Your Zoho Commerce Org id         | Required |
 

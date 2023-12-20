@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Repairshopr.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
-| Key          | Value                           | Field    |
-| ------------ | ------------------------------- | -------- |
-| Person Token | Your Repairshopr Personal Token | Required |
-| Subdomain    | Your Repairshopr Subdomain      | Required |
+| Key             | Value                           | Field    |
+| --------------- | ------------------------------- | -------- |
+| Personal\_token | Your Repairshopr Personal Token | Required |
+| Subdomain       | Your Repairshopr Subdomain      | Required |
 
 Follow the steps below to establish a basic connection
 

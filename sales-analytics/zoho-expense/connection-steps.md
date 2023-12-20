@@ -8,15 +8,12 @@ description: This section explains how to connect Lyftrondata to Zoho Expense.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Expense](https://www.lyftrondata.com/integration/sales-analytics/zoho-expense/). To establish your connection, use the connection strings described below.
 
-### Oauth2
-
-This option has been deprecated by Microsoft.
+### OAuth
 
 | Key           | Value                            | Field    |
 | ------------- | -------------------------------- | -------- |
 | Client id     | Your Zoho Expense Client Id.     | Required |
 | Client Secret | Your Zoho Expense Client Secret. | Required |
-| Redirect URL  | Your re-directed URL             | Required |
 | Subdomain     | Your Zoho Expense Subdomain      | Required |
 | Org Id        | Your Zoho Expense Org Id         | Required |
 

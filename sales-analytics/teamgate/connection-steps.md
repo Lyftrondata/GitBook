@@ -10,12 +10,10 @@ description: This section explains how to connect Lyftrondata to Teamgate.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
-| Key          | Value                         | Field    |
-| ------------ | ----------------------------- | -------- |
-| Person Token | Your Teamgate Personal Token. | Required |
-| Client Id    | Your Teamgate Client Id       | Required |
+| Key             | Value                         | Field    |
+| --------------- | ----------------------------- | -------- |
+| Personal\_token | Your Teamgate Personal Token. | Required |
+| Client Id       | Your Teamgate Client Id       | Required |
 
 Follow the steps below to establish a basic connection
 

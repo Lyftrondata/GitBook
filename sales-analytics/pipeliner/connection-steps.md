@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Pipeliner.
 
 ### Basic&#x20;
 
-This option has been deprecated by Microsoft.
-
 | Key       | Value                     | Field    |
 | --------- | ------------------------- | -------- |
 | Username  | Your Pipeliner Username.  | Required |
