@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Shipstation.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Shipstation](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Shipstation](https://www.lyftrondata.com/integration/commerce-analytics/shipstation/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
@@ -19,13 +19,11 @@ This option has been deprecated by Microsoft.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/c16b3b9d10a54646822c0720d2e09d9a?sid=f695d8d6-5ece-4486-a609-ff26b6d6edb2" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
