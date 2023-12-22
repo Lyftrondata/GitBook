@@ -6,26 +6,23 @@ description: This section explains how to connect Lyftrondata to Zoho Workerly.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Workerly](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Workerly](https://www.lyftrondata.com/integration/finance-analytics/zoho-workerly/). To establish your connection, use the connection strings described below.
 
-### Basic
+### OAuth
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key           | Value                          | Field    |
+| ------------- | ------------------------------ | -------- |
+| Client Id     | Your Zoho Books Client Id.     | Required |
+| Client Secret | Your Zoho Books Client Secret. | Required |
+| Subdomain     | Your Zoho Books Subdomain.     | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/37858d89541d4b30902d7042702a1e55?sid=514d2e3e-d77a-4587-80db-4bd2514e11ea" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

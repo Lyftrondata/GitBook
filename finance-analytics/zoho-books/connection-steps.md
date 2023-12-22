@@ -8,7 +8,7 @@ description: This section explains how to connect Lyftrondata to Zoho Books.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zoho Books](https://www.lyftrondata.com/integration/finance-analytics/zohobooks/). To establish your connection, use the connection strings described below.
 
-### Oauth2
+### OAuth
 
 | Key           | Value                          | Field    |
 | ------------- | ------------------------------ | -------- |
