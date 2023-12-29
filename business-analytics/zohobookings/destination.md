@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Zohobookings
-    supports.
+  This section contains information about the destinations that Zohobookings
+  supports.
 ---
 
 # Destinations
@@ -12,13 +12,11 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zohobookings](https:/
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/ec623b2b63f14c92ab76c7fdbe2b8aa2" %}
-zohobookings to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/950af15f28594429a7638e6ee4a5ff1f?sid=ea75e453-62ab-4184-8998-7a3a3224e2ec" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

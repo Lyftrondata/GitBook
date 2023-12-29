@@ -8,22 +8,17 @@ description: This section explains how to connect Lyftrondata to Zohobookings.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Zohobookings](https://www.lyftrondata.com/integration/commerce-analytics/zoho-bookings/). To establish your connection, use the connection strings described below.
 
-### Basic
-
-This option has been deprecated by Microsoft.
+### OAuth
 
 | Key           | Value                           | Field    |
 | ------------- | ------------------------------- | -------- |
-| person\_token | Your Zohobookings Client Id     | Required |
+| Client Id     | Your Zohobookings Client Id     | Required |
 | Client Secret | Your Zohobookings Client Secret | Required |
-| Redirect Uri  | Your Zohobookings Redirect Uri  | Required |
 | Subdomain     | Your Zohobookings Subdomain     | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/d8208c8ab66c436fa1bad4af91c572cb" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/9fb3b78456544317b3cf9cf409e34418?sid=d34babe1-4a22-4b3f-a3d3-602bbd622de1" %}
 
 ### Quickstart Steps
 
