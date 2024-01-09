@@ -12,11 +12,11 @@ description: This section explains how to connect Lyftrondata to Testmonitor.
 
 This option has been deprecated by Microsoft.
 
-| Key            | Value                           | Field    |
-| -------------- | ------------------------------- | -------- |
-| Personal Token | Your Testmonitor Personal Token | Required |
-| Subdomain      | Your Testmonitor Subdomain      | Required |
-| Project Id     | Your Testmonitor Project id     | Required |
+| Key             | Value                           | Field    |
+| --------------- | ------------------------------- | -------- |
+| Personal\_Token | Your Testmonitor Personal Token | Required |
+| Subdomain       | Your Testmonitor Subdomain      | Required |
+| Project Id      | Your Testmonitor Project id     | Required |
 
 Follow the steps below to establish a basic connection
 
