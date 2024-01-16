@@ -13,6 +13,8 @@ Follow the steps below to create an API Credentials for the [Woocommerce](https:
 
 ### Video Instruction
 
+{% embed url="https://www.loom.com/share/4ef1a5989b3841fa8ca9ef28c0765268?sid=7f4d090a-366f-4b4c-8501-57f41136c4b8" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
