@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Woocommerce source connector.
+  This page contains the setup guide and reference information for the Woo
+  Commerce source connector.
 ---
 
-# Woocommerce
+# Woo Commerce
 
 ### Overview
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Woocommerce](ht
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Woocommerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Woo Commerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)

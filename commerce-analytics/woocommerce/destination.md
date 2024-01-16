@@ -1,6 +1,6 @@
 ---
 description: >-
-  This section contains information about the destinations that Woocommerce
+  This section contains information about the destinations that Woo Commerce
   supports.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Woocommerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Woo Commerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 

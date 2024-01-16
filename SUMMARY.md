@@ -385,7 +385,7 @@
       * [SQL Standard](commerce-analytics/usps/driver-framework/sql-standard.md)
       * [System Methods](commerce-analytics/usps/driver-framework/system-methods.md)
       * [System Tables](commerce-analytics/usps/driver-framework/system-tables.md)
-  * [Woocommerce](commerce-analytics/woocommerce/README.md)
+  * [Woo Commerce](commerce-analytics/woocommerce/README.md)
     * [Connection Steps](commerce-analytics/woocommerce/connection-steps.md)
     * [Destinations](commerce-analytics/woocommerce/destination.md)
     * [Prerequisite](commerce-analytics/woocommerce/prerequisite.md)

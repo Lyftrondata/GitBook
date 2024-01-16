@@ -1,20 +1,20 @@
 ---
-description: This section explains how to connect Lyftrondata to Woocommerce.
+description: This section explains how to connect Lyftrondata to Woo Commerce.
 ---
 
 # Connection Steps
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Woocommerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Woo Commerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
-| Key       | Value                      | Field    |
-| --------- | -------------------------- | -------- |
-| username  | Your Woocommerce username  | Required |
-| password  | Your Woocommerce password  | Required |
-| subdomain | Your Woocommerce subdomain | Required |
+| Key       | Value                       | Field    |
+| --------- | --------------------------- | -------- |
+| username  | Your Woo Commerce username  | Required |
+| password  | Your Woo Commerce password  | Required |
+| subdomain | Your Woo Commerce subdomain | Required |
 
 Follow the steps below to establish a basic connection
 
