@@ -6,26 +6,23 @@ description: This section explains how to connect Lyftrondata to Woocommerce.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Woocommerce](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Woocommerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key       | Value                      | Field    |
+| --------- | -------------------------- | -------- |
+| username  | Your Woocommerce username  | Required |
+| password  | Your Woocommerce password  | Required |
+| subdomain | Your Woocommerce subdomain | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/cbbe8dd793a9401489733fd3c17b368a?sid=0bd737f9-144a-416d-9af9-7bc1ade1233c" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
