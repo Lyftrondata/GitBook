@@ -1,15 +1,15 @@
 ---
 description: >-
-  This section describes the prerequisites for connecting Woocommerce to
+  This section describes the prerequisites for connecting Woo Commerce to
   Lyftrondata. To complete the prerequisites, the user must have admin access to
-  Woocommerce.
+  Woo Commerce.
 ---
 
 # Prerequisite
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Woocommerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Woo Commerce](https://www.lyftrondata.com/integration/commerce-analytics/woocommerce/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
