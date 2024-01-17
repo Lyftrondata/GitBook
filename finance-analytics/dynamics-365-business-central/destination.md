@@ -10,6 +10,10 @@ description: >-
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver of [Dynamics 365 Business Central](https://www.lyftrondata.com/integration/dynamics-365-business-central/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
+### Big Query Load:
+
+{% embed url="https://www.loom.com/share/552b68d7df6448159bed2df339e3d98d" %}
+
 ### Snowflake Load:
 
 {% embed url="https://www.loom.com/share/fd4a4ddcf7054a8883c1bf8e3233eb7c" %}
