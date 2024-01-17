@@ -12,7 +12,7 @@ description: This section explains how to connect Lyftrondata to Snowflake.
 
 | Key       | Value                          | Field    |
 | --------- | ------------------------------ | -------- |
-| account   | Your snowflake account         | Required |
+| uri       | Your snowflake account uri     | Required |
 | username  | Enter your snowflake username  | Required |
 | password  | Enter your snowflake password  | Required |
 | schema    | Enter your snowflake schema    | Required |
@@ -21,6 +21,8 @@ description: This section explains how to connect Lyftrondata to Snowflake.
 | database  | Enter your snowflake database  | Required |
 
 Follow the steps below to establish a basic connection
+
+{% embed url="https://www.loom.com/share/8338706973e94db2a3878ed6c342b908?sid=29f04226-d542-43ac-bcb4-4179a6806497" %}
 
 ### Quickstart Steps
 

@@ -12,6 +12,8 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Snowflake](https://ww
 
 ### Snowflake Load:
 
+{% embed url="https://www.loom.com/share/b217e0e33edb4240b613d3a7c7bd8740?sid=d02680fb-b525-4f12-afc5-4fd1505aca6c" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
