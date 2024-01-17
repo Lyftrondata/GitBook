@@ -6,15 +6,15 @@ description: This section explains how to connect Lyftrondata to Google Bigquery
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Google Bigquery](connection-steps.md#establishing-a-connection). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Google Bigquery](https://www.lyftrondata.com/integration/data-warehouse/google-bigquery/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
-| Key                  | Value                    | Field    |
-| -------------------- | ------------------------ | -------- |
-| Service Account File | YourService Account Json | Required |
-| Dataset              | Your BigQuery Dataset    | Required |
-| GCP Bucket Name      | Your BigQuery GCP Bucket | Required |
+| Key                  | Value                     | Field    |
+| -------------------- | ------------------------- | -------- |
+| Service Account File | Your Service Account Json | Required |
+| Dataset              | Your BigQuery Dataset     | Required |
+| GCP Bucket Name      | Your BigQuery GCP Bucket  | Required |
 
 Follow the steps below to establish a connection
 
