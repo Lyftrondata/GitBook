@@ -14,7 +14,7 @@ description: >-
 
 This option has been deprecated by Microsoft.
 
-<table><thead><tr><th width="204">Key</th><th width="342">Value</th><th>Field</th></tr></thead><tbody><tr><td>Username</td><td>Your Business Central Username</td><td>Required</td></tr><tr><td>Password</td><td>Your Business Central Access Key</td><td>Required</td></tr><tr><td>Tenant ID</td><td>Your Business Central Tenant ID</td><td>Required</td></tr><tr><td>OData</td><td>Your Business Central OData version. Such as ODataV4</td><td>Required</td></tr><tr><td>Version</td><td>Your Business Central API Version. Such as V1.0</td><td>Required</td></tr></tbody></table>
+<table><thead><tr><th width="199.54691689008044">Key</th><th width="358">Value</th><th>Field</th></tr></thead><tbody><tr><td>Username</td><td>Your Business Central Username</td><td>Required</td></tr><tr><td>Password</td><td>Your Business Central Access Key</td><td>Required</td></tr><tr><td>Tenant ID</td><td>Your Business Central Tenant ID</td><td>Required</td></tr><tr><td>OData</td><td>Your Business Central OData version. Such as ODataV4</td><td>Required</td></tr><tr><td>Version</td><td>Your Business Central API Version. Such as V1.0</td><td>Required</td></tr></tbody></table>
 
 Follow the steps below to establish a basic connection
 
