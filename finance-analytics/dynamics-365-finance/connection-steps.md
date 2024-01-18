@@ -29,7 +29,7 @@ Dynamics 365 Nav OAuth2
 
 ### OAuth2 Client Credentials
 
-This option requires Azure app registration; refer to the prerequisite section.
+This option requires Azure app registration; refer to the [prerequisite ](prerequisite.md)section.
 
 | Key       | Value                                                | Field    |
 | --------- | ---------------------------------------------------- | -------- |
