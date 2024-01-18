@@ -9,7 +9,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create API Credentials for the [Dynamics 365 Finance](None/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create API Credentials for the [Dynamics 365 Finance](https://www.lyftrondata.com/integration/finance-analytics/dynamics-365-finance) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
