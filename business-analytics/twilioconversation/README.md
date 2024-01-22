@@ -1,21 +1,21 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Twilioconversation source connector.
+  This page contains the setup guide and reference information for the Twilio
+  Conversation source connector.
 ---
 
-# Twilioconversation
+# Twilio Conversation
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Twilioconversation](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Twilio Conversation](None/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
 * Data from Twilioconversation is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Twilioconversation relational schema model.
+* Ready to query the Twilio Conversation relational schema model.
 
 ### Setup Guide
 
