@@ -129,7 +129,7 @@
       * [SQL Standard](sales-analytics/bullhorn/driver-framework/sql-standard.md)
       * [System Methods](sales-analytics/bullhorn/driver-framework/system-methods.md)
       * [System Tables](sales-analytics/bullhorn/driver-framework/system-tables.md)
-  * [Capsulecrm](sales-analytics/capsulecrm/README.md)
+  * [Capsule CRM](sales-analytics/capsulecrm/README.md)
     * [Connection Steps](sales-analytics/capsulecrm/connection-steps.md)
     * [Destinations](sales-analytics/capsulecrm/destination.md)
     * [Prerequisite](sales-analytics/capsulecrm/prerequisite.md)
