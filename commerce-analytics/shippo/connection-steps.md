@@ -8,13 +8,11 @@ description: This section explains how to connect Lyftrondata to Shippo .
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Shippo](https://www.lyftrondata.com/integration/commerce-analytics/shippo/)[ ](None/). To establish your connection, use the connection strings described below.
 
-### Basic
-
-This option has been deprecated by Microsoft.
+### PersonalToken
 
 | Key                | Value                                          | Field    |
 | ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
+| personal\_token    | Your Personal Token                            | Required |
 | Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
 
 Follow the steps below to establish a basic connection
