@@ -705,7 +705,7 @@
       * [SQL Standard](marketing-analytics/foursquare/driver-framework/sql-standard.md)
       * [System Methods](marketing-analytics/foursquare/driver-framework/system-methods.md)
       * [System Tables](marketing-analytics/foursquare/driver-framework/system-tables.md)
-  * [Getresponse](marketing-analytics/getresponse/README.md)
+  * [Get Response](marketing-analytics/getresponse/README.md)
     * [Connection Steps](marketing-analytics/getresponse/connection-steps.md)
     * [Destinations](marketing-analytics/getresponse/destination.md)
     * [Prerequisite](marketing-analytics/getresponse/prerequisite.md)
