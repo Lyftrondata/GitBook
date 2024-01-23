@@ -1313,7 +1313,7 @@
       * [SQL Standard](marketing-analytics/perfect-audience/driver-framework/sql-standard.md)
       * [System Methods](marketing-analytics/perfect-audience/driver-framework/system-methods.md)
       * [System Tables](marketing-analytics/perfect-audience/driver-framework/system-tables.md)
-  * [Persistiq](marketing-analytics/persistiq/README.md)
+  * [Persist IQ](marketing-analytics/persistiq/README.md)
     * [Connection Steps](marketing-analytics/persistiq/connection-steps.md)
     * [Destinations](marketing-analytics/persistiq/destination.md)
     * [Prerequisite](marketing-analytics/persistiq/prerequisite.md)
