@@ -6,16 +6,14 @@ description: This section explains how to connect Lyftrondata to Twilioautopilot
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Twilioautopilot](https://www.lyftrondata.com/integration/business-analytics/twillio/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods for connecting to [Twilioautopilot](https://www.lyftrondata.com/integration/business-analytics/twillio/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
-| Key      | Value                         | Field    |
-| -------- | ----------------------------- | -------- |
-| Username | Your Twilioautopilot Username | Required |
-| Password | Your Twilioautopilot Password | Required |
+| Key      | Value                          | Field    |
+| -------- | ------------------------------ | -------- |
+| Username | Your Twilio Autopilot Username | Required |
+| Password | Your Twilio Autopilot Password | Required |
 
 Follow the steps below to establish a basic connection
 

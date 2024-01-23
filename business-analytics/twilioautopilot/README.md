@@ -1,25 +1,25 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Twilioautopilot source connector.
+  This page contains the setup guide and reference information for the Twilio
+  Autopilot source connector.
 ---
 
-# Twilioautopilot
+# Twilio Autopilot
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Twilioautopilot](https://www.lyftrondata.com/integration/business-analytics/twillio/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Twilio Autopilot](https://www.lyftrondata.com/integration/business-analytics/twillio/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Twilioautopilot is available in real-time.
+* Data from Twilioautopilot is available in real time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Twilioautopilot relational schema model.
+* Ready to query the Twilio Autopilot relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Twilioautopilot](https://www.lyftrondata.com/integration/business-analytics/twillio/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Twilio Autopilot](https://www.lyftrondata.com/integration/business-analytics/twillio/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
