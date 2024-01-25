@@ -18,7 +18,9 @@ description: This section explains how to connect Lyftrondata to Woo Commerce.
 
 Follow the steps below to establish a basic connection
 
-{% embed url="https://www.loom.com/share/cbbe8dd793a9401489733fd3c17b368a?sid=0bd737f9-144a-416d-9af9-7bc1ade1233c" %}
+{% embed url="https://www.loom.com/share/355d2d3c70214b1fa0e4319b120d39d4?sid=306917c2-7037-48c8-9882-eab5f9ad4ba7" %}
+Woo Commerce
+{% endembed %}
 
 ### Quickstart Steps
 
