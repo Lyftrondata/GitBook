@@ -10,11 +10,11 @@ description: This section explains how to connect Lyftrondata to Woo Commerce.
 
 ### Basic
 
-| Key       | Value                       | Field    |
-| --------- | --------------------------- | -------- |
-| username  | Your Woo Commerce username  | Required |
-| password  | Your Woo Commerce password  | Required |
-| subdomain | Your Woo Commerce subdomain | Required |
+| Key             | Value                             | Field    |
+| --------------- | --------------------------------- | -------- |
+| Consumer Key    | Your Woo Commerce Consumer Key    | Required |
+| Consumer Secret | Your Woo Commerce Consumer Secret | Required |
+| Subdomain       | Your Woo Commerce Subdomain       | Required |
 
 Follow the steps below to establish a basic connection
 
