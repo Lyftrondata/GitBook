@@ -6,11 +6,9 @@ description: This section explains how to connect Lyftrondata to Figshare.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Figshare](https://www.lyftrondata.com/integration/business-analytics/figshare/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Figshare](https://www.lyftrondata.com/integration/business-analytics/figshare/). To establish your connection, use the connection strings described below.
 
 ### PersonalToken
-
-This option has been deprecated by Microsoft.
 
 | Key            | Value                        | Field    |
 | -------------- | ---------------------------- | -------- |
