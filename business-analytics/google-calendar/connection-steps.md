@@ -6,11 +6,9 @@ description: This section explains how to connect Lyftrondata to Google Calendar
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Google Calendar](https://www.lyftrondata.com/integration/business-analytics/google-calendar/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods for connecting to [Google Calendar](https://www.lyftrondata.com/integration/business-analytics/google-calendar/). To establish your connection, use the connection strings described below.
 
 ### Oauth2
-
-This option has been deprecated by Microsoft.
 
 | Key           | Value                               | Field    |
 | ------------- | ----------------------------------- | -------- |
