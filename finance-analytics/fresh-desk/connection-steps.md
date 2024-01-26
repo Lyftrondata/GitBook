@@ -6,11 +6,9 @@ description: This section explains how to connect Lyftrondata to Fresh Desk.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Fresh Desk](https://www.lyftrondata.com/integration/finance-analytics/freshdesk/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods for connecting to [Fresh Desk](https://www.lyftrondata.com/integration/finance-analytics/freshdesk/). To establish your connection, use the connection strings described below.
 
 ### Basic&#x20;
-
-This option has been deprecated by Microsoft.
 
 | Key        | Value                      | Field    |
 | ---------- | -------------------------- | -------- |
