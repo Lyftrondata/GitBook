@@ -10,12 +10,9 @@ description: This section explains how to connect Lyftrondata to Clicksend.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
-| Key                      | Value                    | Field    |
-| ------------------------ | ------------------------ | -------- |
-| Username                 | Your Clicksend Username  | Required |
-| Your Clicksend Username  | Your Clicksend Password  | Required |
+| Key       | Value                    | Field    |
+| --------- | ------------------------ | -------- |
+| Username  | Your Clicksend Username  | Required |
 
 Follow the steps below to establish a basic connection
 
