@@ -1521,7 +1521,7 @@
       * [SQL Standard](business-analytics/pipelinecrm/driver-framework/sql-standard.md)
       * [System Methods](business-analytics/pipelinecrm/driver-framework/system-methods.md)
       * [System Tables](business-analytics/pipelinecrm/driver-framework/system-tables.md)
-  * [Pivotaltracker](business-analytics/pivotaltracker/README.md)
+  * [Pivotal Tracker](business-analytics/pivotaltracker/README.md)
     * [Connection Steps](business-analytics/pivotaltracker/connection-steps.md)
     * [Destinations](business-analytics/pivotaltracker/destination.md)
     * [Prerequisite](business-analytics/pivotaltracker/prerequisite.md)

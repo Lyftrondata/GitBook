@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Pivotaltracker source connector.
+  This page contains the setup guide and reference information for the Pivotal
+  Tracker source connector.
 ---
 
-# Pivotaltracker
+# Pivotal Tracker
 
 ### Overview
 
@@ -13,9 +13,9 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Pivotaltracker]
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Pivotaltracker is available in real-time.
+* Data from  Pivotal tracker is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Pivotaltracker relational schema model.
+* Ready to query the Pivotal Tracker relational schema model.
 
 ### Setup Guide
 
