@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Zohowriter source connector.
+  This page contains the setup guide and reference information for the Zoho
+  Writer source connector.
 ---
 
-# Zohowriter
+# Zoho Writer
 
 ### Overview
 

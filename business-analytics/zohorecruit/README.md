@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Zohorecruit source connector.
+  This page contains the setup guide and reference information for the Zoho
+  Recruit source connector.
 ---
 
-# Zohorecruit
+# Zoho Recruit
 
 ### Overview
 
