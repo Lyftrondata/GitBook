@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Accelo.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Accelo](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Accelo](https://www.lyftrondata.com/integration/sales-analytics/accelo/). To establish your connection, use the connection strings described below.
 
 ### Basic
 

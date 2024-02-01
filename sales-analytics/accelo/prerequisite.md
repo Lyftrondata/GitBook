@@ -8,7 +8,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Accelo](None/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Accelo ](https://www.lyftrondata.com/integration/sales-analytics/accelo/)driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
