@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Act!Crm.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Act!Crm](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Act!Crm](https://www.lyftrondata.com/integration/sales-analytics/act-crm/). To establish your connection, use the connection strings described below.
 
 ### PersonalToken
 
