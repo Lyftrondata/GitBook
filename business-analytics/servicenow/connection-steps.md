@@ -8,9 +8,7 @@ description: This section explains how to connect Lyftrondata to Servicenow.
 
 [Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Servicenow](https://www.lyftrondata.com/integration/business-analytics/service-now/). To establish your connection, use the connection strings described below.
 
-### PersonalToken
-
-This option has been deprecated by Microsoft.
+### Basic
 
 | Key           | Value                           | Field    |
 | ------------- | ------------------------------- | -------- |
