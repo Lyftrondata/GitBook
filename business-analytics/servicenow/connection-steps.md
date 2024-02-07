@@ -12,9 +12,11 @@ description: This section explains how to connect Lyftrondata to Servicenow.
 
 This option has been deprecated by Microsoft.
 
-| Key            | Value                          | Field    |
-| -------------- | ------------------------------ | -------- |
-| Personal Token | Your Servicenow Personal Token | Required |
+| Key           | Value                           | Field    |
+| ------------- | ------------------------------- | -------- |
+| Instance Name | Your Service Now Instance Name. | Required |
+| Username      | Your Service Now Username.      | Required |
+| Password      | Your Service Now Password.      | Required |
 
 Follow the steps below to establish a basic connection
 
