@@ -1841,7 +1841,7 @@
       * [SQL Standard](business-analytics/seomonitor/driver-framework/sql-standard.md)
       * [System Methods](business-analytics/seomonitor/driver-framework/system-methods.md)
       * [System Tables](business-analytics/seomonitor/driver-framework/system-tables.md)
-  * [Servicenow](business-analytics/servicenow/README.md)
+  * [Service Now](business-analytics/servicenow/README.md)
     * [Connection Steps](business-analytics/servicenow/connection-steps.md)
     * [Destinations](business-analytics/servicenow/destination.md)
     * [Prerequisite](business-analytics/servicenow/prerequisite.md)

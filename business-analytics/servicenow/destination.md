@@ -1,7 +1,7 @@
 ---
 description: >-
-    This section contains information about the destinations that Servicenow
-    supports.
+  This section contains information about the destinations that Servicenow
+  supports.
 ---
 
 # Destinations
@@ -13,12 +13,18 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Servicenow](https://w
 ### Snowflake Load:
 
 {% embed url="https://www.loom.com/share/450c977d673e47cd82db2861dffbbaa6 " %}
-servicenow to Snowflake
+Service Now to Snowflake
+{% endembed %}
+
+### SQL Server Load:
+
+{% embed url="https://www.loom.com/share/9290fbb1ec474f1fba63ec59b7885151?sid=6f8b5d09-3241-46c0-91d0-ef2f03982b2b" %}
+Service Now To SQL Server Load
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
