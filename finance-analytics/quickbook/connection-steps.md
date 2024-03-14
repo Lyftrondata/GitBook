@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to Quickbook.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Quickbook](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Quickbook](https://www.lyftrondata.com/integration/finance-analytics/quickbook/). To establish your connection, use the connection strings described below.
 
 ### oAuth2
 
@@ -17,7 +17,9 @@ description: This section explains how to connect Lyftrondata to Quickbook.
 | Subdomain     | Your QuickBooks Subdomain     | Required |
 | Environment   | Your QuickBooks Environment   | Required |
 
-Follow the steps below to establish a basic connection
+Follow the steps below to establish a connection
+
+{% embed url="https://www.loom.com/share/afa08d2a13624afb96a0389b1b823fc4?sid=16ceb2b9-0026-47e5-99e3-d2820f4fb107" %}
 
 ### Quickstart Steps
 

@@ -8,15 +8,12 @@ description: >-
 
 ### Entity Relationship Diagram
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Quickbook](None/) provides detailed information about the entity relationships of data objects.
-
-{% embed url="None" %}
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Quickbook](https://www.lyftrondata.com/integration/finance-analytics/quickbook/) provides detailed information about the entity relationships of data objects.
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with one of our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
