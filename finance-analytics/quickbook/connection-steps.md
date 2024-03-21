@@ -19,7 +19,7 @@ description: This section explains how to connect Lyftrondata to Quickbook.
 
 Follow the steps below to establish a connection
 
-{% embed url="https://www.loom.com/share/afa08d2a13624afb96a0389b1b823fc4?sid=16ceb2b9-0026-47e5-99e3-d2820f4fb107" %}
+{% embed url="https://www.loom.com/share/1def03439cad464cbfe6779d634809f4?sid=cdfaf5e2-e991-429b-94e4-dbfe780dc7f5" %}
 
 ### Quickstart Steps
 

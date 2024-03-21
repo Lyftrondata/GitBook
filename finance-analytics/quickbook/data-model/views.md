@@ -8,6 +8,12 @@ description: This section contain information about quickbook connector views in
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Quickbook](https://www.lyftrondata.com/integration/finance-analytics/quickbook/)[ ](https://www.lyftrondata.com/integration/quickbook/)provides a detailed data dictionary of the views with data types and column names.
 
+
+
+{% embed url="https://docs.google.com/spreadsheets/d/19wNq5RsIW0gINJiDSk3KshSR7K5COnYO32FWJ8FkKY4/edit#gid=436829768" %}
+QuickBooks Views
+{% endembed %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
