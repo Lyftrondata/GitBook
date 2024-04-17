@@ -117,13 +117,6 @@ ALTER TABLE "C##DEBEZIUM".PRODUCTS ADD SUPPLEMENTAL LOG DATA (ALL) COLUMNS;
 * **Cause:** Recovery files limit exceeded.
 * **Solution:** Clean up old archive logs to free up space. Requires SYSDBA level access.
 
-### References
-
-* Debezium Connector for Oracle - Creating User for CDC
-* Debezium Connector for Oracle - Preparing Database
-* Capture Oracle database events with Debezium - Preparing the database (Part 1)
-* [Oracle Example Queries for CDC Setup](https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/goldengate-change-data-capture-examples.html)
-
 ### Debezium Configuration
 
 * **Kafka Side Implementation:** Ensure required JAR files are available.
