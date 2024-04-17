@@ -961,6 +961,7 @@
       * [SQL Standard](technology-analytics/oracle/driver-framework/sql-standard.md)
       * [System Methods](technology-analytics/oracle/driver-framework/system-methods.md)
       * [System Tables](technology-analytics/oracle/driver-framework/system-tables.md)
+    * [CDC Configuration](technology-analytics/oracle/cdc-configuration.md)
   * [Pager Duty](technology-analytics/pager-duty/README.md)
     * [Connection Steps](technology-analytics/pager-duty/connection-steps.md)
     * [Destinations](technology-analytics/pager-duty/destination.md)
