@@ -6,26 +6,25 @@ description: This section explains how to connect Lyftrondata to Oracle.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Oracle](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Oracle](https://www.lyftrondata.com/integration/data-warehouse/oracle/). To establish your connection, use the connection strings described below.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
+| Key      | Value                | Field    |
+| -------- | -------------------- | -------- |
+| Host     | Your Oracle Hostname | Required |
+| User     | Your Oracle Username | Required |
+| Pass     | Your Oracle Password | Required |
+| Database | Your Oracle Database | Required |
+| Port     | Your Oracle Port     | Required |
 
 Follow the steps below to establish a basic connection
 
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
+{% embed url="https://www.loom.com/share/7cb02afdc4a44bf6b1865ed828a2ac3b" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

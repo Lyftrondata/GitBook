@@ -1,24 +1,22 @@
 ---
-description: >-
-    This section contains information about the destinations that Oracle
-    supports.
+description: This section contains information about the destinations that Oracle supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Oracle](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Oracle](https://www.lyftrondata.com/integration/data-warehouse/oracle/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-oracle to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/433a665f8fee414ab715e5544aa610e3" %}
+
+
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
