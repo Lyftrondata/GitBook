@@ -1,24 +1,25 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the Intersystems Cache source connector.
+  This page contains the setup guide and reference information for the
+  Intersystems Cache source connector.
 ---
 
 # Intersystems Cache
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Intersystems Cache](None) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Intersystems Cache](https://www.lyftrondata.com/integration/technology-analytics/intersystems-cache/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Intersystems Cache is available in real-time.&#x20;
+* Data from Intersystems Cache is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
 * Ready to query Intersystems Cache relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Intersystems Cache](None) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Intersystems Cache](https://www.lyftrondata.com/integration/technology-analytics/intersystems-cache/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
@@ -27,9 +28,8 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-
