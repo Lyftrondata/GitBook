@@ -673,7 +673,7 @@
       * [SQL Standard](technology-analytics/ibm-cloudant/driver-framework/sql-standard.md)
       * [System Methods](technology-analytics/ibm-cloudant/driver-framework/system-methods.md)
       * [System Tables](technology-analytics/ibm-cloudant/driver-framework/system-tables.md)
-  * [Ibm Db2](technology-analytics/ibm-db2/README.md)
+  * [IBM DB2](technology-analytics/ibm-db2/README.md)
     * [Connection Steps](technology-analytics/ibm-db2/connection-steps.md)
     * [Destinations](technology-analytics/ibm-db2/destination.md)
     * [Prerequisite](technology-analytics/ibm-db2/prerequisite.md)
