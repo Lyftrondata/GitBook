@@ -9,7 +9,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an User for the [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 

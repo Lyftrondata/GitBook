@@ -12,6 +12,8 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [OceanBase](https://ww
 
 ### Snowflake Load:
 
+{% embed url="https://www.loom.com/share/5edd64a9bcf94ba49e9d1aa9e1191651" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../mysql/).
