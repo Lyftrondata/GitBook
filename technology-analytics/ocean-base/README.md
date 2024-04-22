@@ -8,14 +8,14 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for OceanBase provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [OceanBase ](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/)provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from OceanBase is available in real-time.
+* Data from [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/) is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query OceanBase relational schema model.
+* Ready to query [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/) relational schema model.
 
 ### Setup Guide
 
@@ -23,7 +23,6 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 * [ ] [Prerequisite](../mysql/prerequisite.md)
 * [ ] [Connection Steps](../mysql/connection-steps.md)
-* [ ] [Data Model](../mysql/data-model/erd.md)
 * [ ] [Driver Framework](../mysql/driver-framework/)
 
 ### Quickstart Steps

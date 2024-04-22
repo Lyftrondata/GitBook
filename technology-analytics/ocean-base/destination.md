@@ -1,12 +1,14 @@
 ---
-description: This section contains information about the destinations that Mysql supports.
+description: >-
+  This section contains information about the destinations that OceanBase
+  supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Mysql](../mysql/None/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.&#x20;
 
 ### Snowflake Load:
 

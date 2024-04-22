@@ -6,7 +6,7 @@ description: This section explains how to connect Lyftrondata to OceanBase.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to OceanBase. To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/). To establish your connection, use the connection strings described below.
 
 ### Basic
 

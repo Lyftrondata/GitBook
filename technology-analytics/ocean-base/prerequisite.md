@@ -1,14 +1,15 @@
 ---
 description: >-
-  This section describes the prerequisites for connecting Mysql to Lyftrondata.
-  To complete the prerequisites, the user must have admin access to Mysql.
+  This section describes the prerequisites for connecting OceanBase to
+  Lyftrondata. To complete the prerequisites, the user must have admin access to
+  OceanBase.
 ---
 
 # Prerequisite
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Mysql](../mysql/None/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [OceanBase](https://www.lyftrondata.com/integration/technology-analytics/ocean-base/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
