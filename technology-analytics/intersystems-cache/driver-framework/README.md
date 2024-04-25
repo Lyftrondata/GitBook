@@ -23,7 +23,7 @@ To connect to your destination without engineering, follow our step-by-step Lyft
 
 * [ ] [Prerequisite](../prerequisite.md)
 * [ ] [Connection Steps](../connection-steps.md)
-* [ ] [Data Model](../data-model/erd.md)
+* [ ] [Data Model](broken-reference)
 * [ ] [Driver Framework](./)
 
 ### Quickstart Steps

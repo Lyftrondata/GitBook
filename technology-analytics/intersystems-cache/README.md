@@ -23,7 +23,6 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
-* [ ] [Data Model](data-model/erd.md)
 * [ ] [Driver Framework](driver-framework/)
 
 ### Quickstart Steps

@@ -20,6 +20,8 @@ description: This section explains how to connect Lyftrondata to Intersystems Ca
 
 Follow the steps below to establish a basic connection
 
+{% embed url="https://www.loom.com/share/feaa448c7ed7434f9365aa8e3825351b" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).

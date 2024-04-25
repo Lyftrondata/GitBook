@@ -12,6 +12,10 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Intersystems Cache](h
 
 ### Snowflake Load:
 
+{% embed url="https://www.loom.com/share/feaa448c7ed7434f9365aa8e3825351b" %}
+Cache DB To Snowflake
+{% endembed %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
