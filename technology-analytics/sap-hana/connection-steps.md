@@ -10,8 +10,6 @@ description: This section explains how to connect Lyftrondata to Sap Hana.
 
 ### Basic
 
-This option has been deprecated by Microsoft.
-
 | Key      | Value                  | Field    |
 | -------- | ---------------------- | -------- |
 | Hostname | Your SAP Hana Hostname | Required |
