@@ -1,7 +1,15 @@
 # Table of contents
 
 * [Lyftrondata Connectors](README.md)
-  * [Source](lyftrondata-connectors/source.md)
+  * [Source](lyftrondata-connectors/source/README.md)
+    * [📶 Sales Analytics](https://lyftrondata.gitbook.io/sales-analytics/)
+    * [👨‍💻 Technology Analytics](https://lyftrondata.gitbook.io/technology-analytics/)
+    * [💸 Finance Analytics](https://lyftrondata.gitbook.io/finance-analytics)
+    * [📊 Business Analytics](https://lyftrondata.gitbook.io/business-analytics/)
+    * [🤝 Marketing Analytics](https://lyftrondata.gitbook.io/marketing-analytics/)
+    * [🇸🇴 Commerce Analytics](https://lyftrondata.gitbook.io/commerce-analytics)
+    * [☁️ Weather Analytics](https://lyftrondata.gitbook.io/weather-analytics)
+    * [🔃 Supply Chain Analytics](https://lyftrondata.gitbook.io/supply-chain-analytics)
 * [Managing Lyftrondata](managing-lyftrondata/README.md)
   * [Lyftrondata Installation](managing-lyftrondata/lyftrondata-installation/README.md)
     * [Requirements](managing-lyftrondata/lyftrondata-installation/requirements.md)
