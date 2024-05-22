@@ -182,7 +182,7 @@ chmod +x wheelsinstaller.sh
 ./wheelsinstaller.sh
 ```
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **After Login follow the steps How to create warehouse**
 
@@ -190,7 +190,7 @@ chmod +x wheelsinstaller.sh
 2. Navigate to the "Account Management" section.
 3.  In the "Account Management" section, find and select "Compute."
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 4. Click on the "Warehouse" tab.
 5.  Look for the "Add Warehouse" button and click on it.
 

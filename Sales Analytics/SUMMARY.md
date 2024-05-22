@@ -1,6 +1,13 @@
 # Table of contents
 
-* [Lyftrondata Connectors](README.md)
+* [Introduction](README.md)
+  * [About Lyftrondata](introduction/about-lyftrondata.md)
+  * [Lyftrondata Feature](introduction/lyftrondata-feature.md)
+  * [Lyftrondata System Architecture](introduction/lyftrondata-system-architecture/README.md)
+    * [Lyftrondata Connector Framework](introduction/lyftrondata-system-architecture/lyftrondata-connector-framework.md)
+  * [Core Concepts](introduction/core-concepts/README.md)
+    * [Sources and Destinations](introduction/core-concepts/sources-and-destinations.md)
+* [Lyftrondata Connectors](<README (1).md>)
   * [Source](lyftrondata-connectors/source/README.md)
     * [📶 Sales Analytics](https://lyftrondata.gitbook.io/sales-analytics/)
     * [👨‍💻 Technology Analytics](https://lyftrondata.gitbook.io/technology-analytics/)
@@ -10,6 +17,8 @@
     * [🇸🇴 Commerce Analytics](https://lyftrondata.gitbook.io/commerce-analytics)
     * [☁️ Weather Analytics](https://lyftrondata.gitbook.io/weather-analytics)
     * [🔃 Supply Chain Analytics](https://lyftrondata.gitbook.io/supply-chain-analytics)
+    * [⏳ Human Resources Analytics](https://lyftrondata.gitbook.io/human-resource-analytics/)
+  * [Destinations](lyftrondata-connectors/destinations.md)
 * [Managing Lyftrondata](managing-lyftrondata/README.md)
   * [Lyftrondata Installation](managing-lyftrondata/lyftrondata-installation/README.md)
     * [Requirements](managing-lyftrondata/lyftrondata-installation/requirements.md)
