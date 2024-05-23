@@ -1,0 +1,3 @@
+# Faq
+
+Section for FAQ

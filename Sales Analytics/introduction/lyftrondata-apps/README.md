@@ -1,0 +1,3 @@
+# Lyftrondata Apps
+
+<table data-full-width="true"><thead><tr><th>App Name</th><th>Description</th></tr></thead><tbody><tr><td>Data Loader</td><td>Enables loading of data from various sources</td></tr><tr><td>Data Mirror</td><td>Enables real-time data replication and mirroring</td></tr><tr><td>Data Vault</td><td>Manages and secures historical data for long-term storage</td></tr><tr><td>Data Analytic</td><td>Provides tools for data analysis and insights</td></tr><tr><td>ETL</td><td>Facilitates Extract, Transform, and Load processes</td></tr><tr><td>ELT</td><td>Allows Extract, Load, and Transform operations</td></tr></tbody></table>
