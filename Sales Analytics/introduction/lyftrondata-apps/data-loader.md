@@ -2,7 +2,7 @@
 
 Lyftrondata Data Loader is a data integration tool designed to simplify the process of extracting, transforming, and loading data from various sources into a target data warehouse or destination. It provides a user-friendly interface for configuring data pipelines and automating data workflows. With Lyftrondata Data Loader, users can connect to multiple data sources such as databases, cloud storage, APIs, and more, and then transform the data as needed before loading it into their desired destination.
 
-Key features of LyftronData Loader typically include:
+Key features of Lyftrondata Data Loader typically include:
 
 1. **Connectivity**: Support for connecting to a wide range of data sources and formats, including relational databases, NoSQL databases, flat files, cloud storage services, and APIs.
 2. **Data Transformation**: Tools for cleansing, transforming, and enriching data during the extraction and loading process. This may involve tasks such as data cleansing, data type conversion, data aggregation, and more.
