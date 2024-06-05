@@ -1,4 +1,4 @@
-# Lyftrondata Pipeline Framework
+# Lyftrondata Integration Framework
 
 The Lyftrondata pipeline broadly consists of the Source, the Lyftrondata platform, and the Destination. To understand more about the Sources and Destinations that Lyftrondata supports, refer to the relevant sections on Sources and Destinations. The key components that form the Lyftrondata platform are the Connectors, the Lyftrondata Event Stream, and the Consumers.
 
@@ -9,16 +9,18 @@ The Lyftrondata pipeline broadly consists of the Source, the Lyftrondata platfor
 
 **Functionality of Connectors:**
 
-* **Identification:** The Connector of each Source Type identifies the objects to be ingested.
-* **Polling:** It polls the Source to capture data changes and identifies when to read data from the Source.
+* Incremental Load Mechanism&#x20;
+* Real-Time Data Availability&#x20;
+* ANSI SQL Support&#x20;
+* Queryable Schema Model
 
 #### Data Processing Components
 
 The data ingested by the Connectors is acted upon by the following components:
 
 1. **JSON Converters:** The ingested data is parsed according to the JSON parsing strategy selected during the Destination configuration in Lyftrondata.
-2. **Translators:** The parsed data is translated into the Lyftrondata standardized format, known as a Lyftrondata Record or Event. The Event contains information about the Source schema, the data values, and metadata columns that Lyftrondata creates and uses for deduplicating the data before loading. This metadata includes details such as timestamps and unique identifiers.
-3. **Schema Learning Engine:** This component creates the schema to be mapped in the Destination. It learns the schema from the ingested data and the metadata information provided by the Source.
+2. **Mapping:** The parsed data is translated into the Lyftrondata standardized format, known as a Lyftrondata Record or Event. The Event contains information about the Source schema, the data values, and metadata columns that Lyftrondata creates and uses for deduplicating the data before loading. This metadata includes details such as timestamps and unique identifiers.
+3. **Schema Engine:** This component creates the schema to be mapped in the Destination. It learns the schema from the ingested data and the metadata information provided by the Source.
 4. **Lyftrondata Ingestion Controller:** The controller monitors and manages aspects such as API rate limits, the offset for the next data read in the case of incremental data, and other controls necessary for efficient data ingestion.
 
 \

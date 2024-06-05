@@ -27,7 +27,7 @@ For unrestricted traffic, you must specify the public IP address of specific AWS
 
 **Airflow-Ec2-Security Inbound Rules**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **After opening the require ports on server**
 
