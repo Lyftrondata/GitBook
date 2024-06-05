@@ -2,17 +2,17 @@
 
 Data loading integration refers to the process of extracting data from various sources, transforming it as needed, and loading it into a destination system, such as a data warehouse or data lake. This process is often referred to as ETL (Extract, Transform, Load) or ELT (Extract, Load, Transform) depending on when the data transformation occurs.
 
-Integration is Divided into 5 Simple Steps:
+**Integration is Divided into 5 Simple Steps:**
 
+{% hint style="success" %}
 1. Prep
 2. Select Source
 3. Select Target
 4. Configuration
 5. Confirm
+{% endhint %}
 
 Choose Integration Type:
-
-
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Integration Type</p></figcaption></figure>
 
