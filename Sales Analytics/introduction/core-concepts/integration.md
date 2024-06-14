@@ -45,7 +45,7 @@ To ensure proper functionality, please whitelist the IP address in your environm
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Whitelist</p></figcaption></figure>
 
 {% hint style="info" %}
-**Source**:\
+**Select Source**:\
 Lyftrondata integrates with over 300 data sources. You simply need to select the source from which to load your data into the target.
 {% endhint %}
 
@@ -65,6 +65,15 @@ You need to complete the prerequisites for the API in order to obtain the creden
 
 <table><thead><tr><th>Key</th><th>Value</th><th data-hidden></th></tr></thead><tbody><tr><td>Personal Token</td><td>Your Freshsales API Personal Token.</td><td></td></tr><tr><td>Base URL</td><td>Your Freshsales API BASE URL.</td><td></td></tr><tr><td>Hostname</td><td>Your Freshsales Hostname.</td><td></td></tr></tbody></table>
 
+{% hint style="info" %}
+**Select Target:**\
+Lyftrondata's target refers to the destination where data is transferred, transformed, or loaded during data integration processes. It could include databases, data warehouses, data lakes, cloud storage services, or other platforms where the processed data is ultimately stored or used for further analysis and reporting.
+{% endhint %}
 
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Target Connectors</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
