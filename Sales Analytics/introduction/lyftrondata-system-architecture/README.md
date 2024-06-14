@@ -8,4 +8,4 @@ Modern Data Hub provides to data consumer an **abstraction layer** that hides mo
 
 The following diagram depicts how Modern Data Hub is positioned on the architecture landscape.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
