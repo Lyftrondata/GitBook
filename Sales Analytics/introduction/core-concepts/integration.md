@@ -96,15 +96,43 @@ After setting up the target, the integration configuration process begins, defin
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Process Configuration</p></figcaption></figure>
 
-<table><thead><tr><th width="273">Config Parameters</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>Batch Size</td><td>Batch size is the number of data records processed together in a single operation, optimizing performance and resource use.</td><td></td></tr><tr><td>Select Memory Size</td><td>Refers to choosing the amount of memory allocated for a specific task.</td><td></td></tr><tr><td>Regex</td><td>A sequence of characters that defines a search pattern for matching, replacing, and extracting text.</td><td></td></tr><tr><td>Die on Error</td><td>Immediately stop a program or process when an error occurs, preventing any further execution.</td><td></td></tr><tr><td>Process Method</td><td>Process method parquet or Avro" refers to the choice between using the Parquet or Avro file formats during data processing or integratio</td><td></td></tr><tr><td>Pipeline Parallelism</td><td></td><td></td></tr><tr><td>Enable Multithreading</td><td>Execute multiple threads concurrently, improving performance by utilizing multiple CPU cores effectively</td><td></td></tr><tr><td>Pipeline Per Dag Limit</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="273">Config Parameters</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>Batch Size</td><td>Batch size is the number of data records processed together in a single operation, optimizing performance and resource use.</td><td></td></tr><tr><td>Select Memory Size</td><td>Refers to choosing the amount of memory allocated for a specific task.</td><td></td></tr><tr><td>Regex</td><td>A sequence of characters that defines a search pattern for matching, replacing, and extracting text.</td><td></td></tr><tr><td>Die on Error</td><td>Immediately stop a program or process when an error occurs, preventing any further execution.</td><td></td></tr><tr><td>Process Method</td><td>Process method parquet or Avro" refers to the choice between using the Parquet or Avro file formats during data processing.</td><td></td></tr><tr><td>Pipeline Parallelism</td><td></td><td></td></tr><tr><td>Enable Multithreading</td><td>Execute multiple threads concurrently, improving performance by utilizing multiple CPU cores effectively</td><td></td></tr><tr><td>Pipeline Per Dag Limit</td><td></td><td></td></tr></tbody></table>
+
+
+
+{% hint style="info" %}
+You need to select the target schema in the load configuration.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Load Configuration Schema</p></figcaption></figure>
 
+
+
+{% hint style="info" %}
+You can schedule the integration based on your specific time.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Schedule Integration</p></figcaption></figure>
+
+
+
+{% hint style="info" %}
+If you want to receive notifications through email or a Slack channel, you can configure that. You will get notifications for any event, whether it passes or fails.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Notification</p></figcaption></figure>
 
+
+
+{% hint style="info" %}
+You have the option to select your preferred logging service for tracking and monitoring your data integration processes. Choose between Lyftrondata or CloudWatch to ensure you receive timely and detailed logs of all activities.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Logging</p></figcaption></figure>
+
+{% hint style="info" %}
+You can also set up Web Hook Calls to receive real-time notifications and updates. This allows you to instantly react to events and integrate with other systems seamlessly.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Webhooks Call</p></figcaption></figure>
 
