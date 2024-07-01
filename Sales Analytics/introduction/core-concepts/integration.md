@@ -136,3 +136,6 @@ You can also set up Web Hook Calls to receive real-time notifications and update
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Webhooks Call</p></figcaption></figure>
 
+**Data Loading Integration:**
+
+{% embed url="https://www.loom.com/share/addb780e54f3430aa2c84a2caed67b76?sid=d0397880-1843-400e-bb99-35d7ee3339e6" %}
