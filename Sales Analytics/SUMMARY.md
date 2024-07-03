@@ -8,6 +8,7 @@
     * [Lyftrondata Connector Framework](introduction/lyftrondata-system-architecture/lyftrondata-connector-framework.md)
   * [Core Concepts](introduction/core-concepts/README.md)
     * [Data Loader](introduction/core-concepts/data-loader/README.md)
+      * [Query Transformation](introduction/core-concepts/data-loader/query-transformation.md)
       * [Full Load](introduction/core-concepts/data-loader/full-load.md)
       * [Incremental Load](introduction/core-concepts/data-loader/incremental-load.md)
     * [Sources and Destinations](introduction/core-concepts/sources-and-destinations/README.md)
