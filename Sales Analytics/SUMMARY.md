@@ -11,6 +11,8 @@
       * [Query Transformation](introduction/core-concepts/data-loader/query-transformation.md)
       * [Full Load](introduction/core-concepts/data-loader/full-load.md)
       * [Incremental Load](introduction/core-concepts/data-loader/incremental-load.md)
+    * [Data Mirror](introduction/core-concepts/data-mirror/README.md)
+      * [Prerequisite](introduction/core-concepts/data-mirror/prerequisite.md)
     * [Sources and Destinations](introduction/core-concepts/sources-and-destinations/README.md)
       * [Types of Sources](introduction/core-concepts/sources-and-destinations/types-of-sources.md)
       * [Types of Destination](introduction/core-concepts/sources-and-destinations/types-of-destination.md)
