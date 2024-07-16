@@ -13,6 +13,7 @@
       * [Incremental Load](introduction/core-concepts/data-loader/incremental-load.md)
     * [Data Mirror](introduction/core-concepts/data-mirror/README.md)
       * [Prerequisite](introduction/core-concepts/data-mirror/prerequisite.md)
+      * [Integration](introduction/core-concepts/data-mirror/integration.md)
     * [Sources and Destinations](introduction/core-concepts/sources-and-destinations/README.md)
       * [Types of Sources](introduction/core-concepts/sources-and-destinations/types-of-sources.md)
       * [Types of Destination](introduction/core-concepts/sources-and-destinations/types-of-destination.md)
