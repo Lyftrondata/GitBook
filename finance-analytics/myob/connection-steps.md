@@ -16,7 +16,9 @@ description: This section explains how to connect Lyftrondata to Myob.
 | Client Secret | MyOB API Client Secret | Required |
 | Redirect URL  | MyOB API Redirect URL  | Required |
 
-Follow the steps below to establish a basic connection
+Follow the steps below to establish a OAuth connection
+
+{% embed url="https://www.loom.com/share/6ef70c09d52a4a8593e148b54d0e276e" %}
 
 ### Quickstart Steps
 

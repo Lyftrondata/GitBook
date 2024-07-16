@@ -1,24 +1,20 @@
 ---
-description: >-
-    This section contains information about the destinations that Myob
-    supports.
+description: This section contains information about the destinations that Myob supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Myob](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [Myob ](https://www.lyftron.com/integration/finance-analytics/myobaccount/)provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-myob to Snowflake
-{% endembed %}
+{% embed url="https://www.loom.com/share/6ef70c09d52a4a8593e148b54d0e276e" %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
