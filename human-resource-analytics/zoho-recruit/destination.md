@@ -12,7 +12,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) driver of [Zoho Recruit](https:/
 
 ### Snowflake Load:
 
-{% embed url="https://www.loom.com/share/2818ea28c6814600936c44fc50e632c4" %}
+{% embed url="https://www.loom.com/share/fb5409b4cb4b41979c45dff00b9291c3" %}
 
 ### Quickstart Steps
 

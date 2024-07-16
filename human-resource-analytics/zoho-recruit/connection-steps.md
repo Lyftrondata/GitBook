@@ -10,7 +10,7 @@ description: This section explains how to connect Lyftrondata to Zoho Recruit.
 
 ### OAuth2
 
-<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Client Id</td><td>Your Zoho Recruiter Client Id</td><td>Required</td></tr><tr><td>Client Secret</td><td>Your Zoho Recruiter Client Secret</td><td>Required</td></tr><tr><td>Redirect URL</td><td>Your Zoho Recruiter Redirect URL</td><td>Required</td></tr><tr><td>Subdomain</td><td>Your Zoho Recruiter Subdomain</td><td>Required</td></tr><tr><td>Data Center</td><td>Your Zoho Recruiter Data Center Name</td><td>Required</td></tr></tbody></table>
+<table><thead><tr><th width="237.33333333333331">Key</th><th>Value</th><th>Field</th></tr></thead><tbody><tr><td>Client Id</td><td>Your Zoho Recruiter Client Id</td><td>Required</td></tr><tr><td>Client Secret</td><td>Your Zoho Recruiter Client Secret</td><td>Required</td></tr><tr><td>Redirect URL</td><td>Your Zoho Recruiter Redirect URL</td><td>Required</td></tr><tr><td>Subdomain</td><td>Your Zoho Recruiter Subdomain</td><td>Required</td></tr></tbody></table>
 
 Zoho Recruit is hosted at multiple data centres. Therefore, the API domain URL varies for each data centre. This makes integration simpler and avoids conflicts between browser extensions and the user's current session.
 
@@ -23,14 +23,11 @@ The various domains and their respective API domain URLs are:
 * CN: https://accounts.zoho.com.cn
 * JP: https://accounts.zoho.jp
 
-You need to Enter a data centre Parameter according to the location and API Configuration that you have set.&#x20;
-
-\
-
+**.com** will work for all other data center as well.
 
 Follow the steps below to establish an OAuth connection
 
-{% embed url="https://www.loom.com/share/f1a61a93521d4df9ae5a00f967a609f1" %}
+{% embed url="https://www.loom.com/share/fb5409b4cb4b41979c45dff00b9291c3" %}
 
 ### Quickstart Steps
 
