@@ -6,9 +6,13 @@ description: >-
 
 # Tables
 
-### Data Dictionary
+Data Dictionary
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Netsuite ERP ](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/)provides[ ](https://www.lyftrondata.com/integration/netsuite-erp/)provides a detailed data dictionary of the tables with data types and column names.
+
+
+
+{% embed url="https://docs.google.com/spreadsheets/d/10BFoPwIEI0FKUivQPjv3b03cCg-pI4i8pWx5HiToW-8/edit?gid=554191661#gid=554191661" %}
 
 ### Quickstart Steps
 

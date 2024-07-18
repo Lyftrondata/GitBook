@@ -10,6 +10,8 @@ description: >-
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Netsuite ERP ](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/)provides a detailed data dictionary of the views with data types and column names.
 
+{% embed url="https://docs.google.com/spreadsheets/d/1AXW6BMMFO6TFiSPC4pR0LZJMRHB-55lTjjvLts8cn3s/edit?gid=554191661#gid=554191661" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
