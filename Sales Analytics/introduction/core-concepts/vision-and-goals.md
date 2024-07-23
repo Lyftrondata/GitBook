@@ -12,12 +12,5 @@ The end result is greater agility from, and freer access to, an organization’s
 * Respond faster to ever changing requirements of analytics and BI enabling **5-10 times shorter time to solution** than traditional EDW
 * Enable **savings of 50-75%** over data replication and consolidation.
 
-| Any analytics client    | Microsoft SQL Server emulation so any client can connect without additional configuration allowing for top level compatibility with existing solutions |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Any execution engine    | 10 data processing engines supported for caching, that can be used simultaneously and work as a single unit                                            |
-| Any data source         | 100+ data source types supported out of the box                                                                                                        |
-| Any deployment model    | On-premise, Cloud, Hybrid                                                                                                                              |
-| Any scale               | MPP engines supported, Apache Spark BigData engine built-in and ready to use                                                                           |
-
 \
 \
