@@ -1,11 +1,21 @@
 ---
 description: >-
-  Change Data Capture (CDC) is a technique used to identify and track changes in
-  data in a database. For implementing Data Mirror CDC with Lyftrondata, several
-  prerequisites need to be met:
+  Before implementing Change Data Capture (CDC) in your data architecture, it is
+  crucial to ensure that your source database supports CDC or has mechanisms for
+  capturing changes.
 ---
 
 # Prerequisite
 
 **Source Database**: Ensure the source database supports CDC or has mechanisms for capturing changes. Common databases that support CDC include SQL Server, Oracle, MySQL, and PostgreSQL.
+
+Currently we support 6 provider&#x20;
+
+| Provider     | Documentation Link |
+| ------------ | ------------------ |
+| MYSQL        |                    |
+| Postgres SQL |                    |
+| SQL Server   |                    |
+| Oracle       |                    |
+| Mongo DB     |                    |
 
