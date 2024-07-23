@@ -7,7 +7,7 @@
     * [Lyftrondata Integration Framework](introduction/lyftrondata-system-architecture/lyftrondata-integration-framework.md)
     * [Lyftrondata Connector Framework](introduction/lyftrondata-system-architecture/lyftrondata-connector-framework.md)
   * [Core Concepts](introduction/core-concepts/README.md)
-    * [Data Mirror](introduction/core-concepts/data-mirror.md)
+    * [Vision and Goals](introduction/core-concepts/vision-and-goals.md)
     * [Sources and Destinations](introduction/core-concepts/sources-and-destinations/README.md)
       * [Types of Sources](introduction/core-concepts/sources-and-destinations/types-of-sources.md)
       * [Types of Destination](introduction/core-concepts/sources-and-destinations/types-of-destination.md)
