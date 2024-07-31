@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Human Resource Analytics](README.md)
-  * [Adp Hcm](human-resource-analytics/adp-hcm/README.md)
+  * [Adp HCM](human-resource-analytics/adp-hcm/README.md)
+    * [Prerequisite](human-resource-analytics/adp-hcm/prerequisite.md)
     * [Connection Steps](human-resource-analytics/adp-hcm/connection-steps.md)
     * [Destinations](human-resource-analytics/adp-hcm/destination.md)
-    * [Prerequisite](human-resource-analytics/adp-hcm/prerequisite.md)
     * [Data Model](human-resource-analytics/adp-hcm/data-model/README.md)
       * [ERD](human-resource-analytics/adp-hcm/data-model/erd.md)
       * [Tables](human-resource-analytics/adp-hcm/data-model/tables.md)
@@ -17,7 +17,7 @@
       * [SQL Standard](human-resource-analytics/adp-hcm/driver-framework/sql-standard.md)
       * [System Methods](human-resource-analytics/adp-hcm/driver-framework/system-methods.md)
       * [System Tables](human-resource-analytics/adp-hcm/driver-framework/system-tables.md)
-  * [Adp Hr](human-resource-analytics/adp-hr/README.md)
+  * [Adp HR](human-resource-analytics/adp-hr/README.md)
     * [Connection Steps](human-resource-analytics/adp-hr/connection-steps.md)
     * [Destinations](human-resource-analytics/adp-hr/destination.md)
     * [Prerequisite](human-resource-analytics/adp-hr/prerequisite.md)
