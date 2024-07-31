@@ -1,24 +1,18 @@
 ---
-description: >-
-    This section contains information about the destinations that Adp Hr
-    supports.
+description: This section contains information about the destinations that ADP HR supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Adp Hr](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of [ADP HR](https://www.lyftrondata.com/integration/human-resource-analytics/adp-hr/). provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-adp-hr to Snowflake
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
