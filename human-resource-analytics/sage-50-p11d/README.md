@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage 50 P11D](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage 50 P11D](https://www.lyftrondata.com/integration/human-resource-analytics/sage50-P11D/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage 50 P11D](N
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Sage 50 P11D](None/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Sage 50 P11D](https://www.lyftrondata.com/integration/human-resource-analytics/sage50-P11D/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)

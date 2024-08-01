@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage 50 Payroll](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage 50 Payroll](https://www.lyftrondata.com/integration/human-resource-analytics/sage50-payroll/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage 50 Payroll
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Sage 50 Payroll](None/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Sage 50 Payroll](https://www.lyftrondata.com/integration/human-resource-analytics/sage50-payroll/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../sage-50-p11d/prerequisite.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

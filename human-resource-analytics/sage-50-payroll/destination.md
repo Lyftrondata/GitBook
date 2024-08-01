@@ -1,24 +1,20 @@
 ---
 description: >-
-    This section contains information about the destinations that Sage 50 Payroll
-    supports.
+  This section contains information about the destinations that Sage 50 Payroll
+  supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Sage 50 Payroll](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of  [Sage 50 Payroll](https://www.lyftrondata.com/integration/human-resource-analytics/sage50-payroll/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-sage-50-payroll to Snowflake
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
