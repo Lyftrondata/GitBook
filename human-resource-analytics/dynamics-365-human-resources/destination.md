@@ -1,24 +1,20 @@
 ---
 description: >-
-    This section contains information about the destinations that Dynamics 365 Human Resources
-    supports.
+  This section contains information about the destinations that Dynamics 365
+  Human Resources supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Dynamics 365 Human Resources](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of  [Dynamics 365 Human Resources](https://www.lyftrondata.com/integration/human-resource-analytics/dynamics-365-human-resources/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-dynamics-365-human-resources to Snowflake
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](prerequisite.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

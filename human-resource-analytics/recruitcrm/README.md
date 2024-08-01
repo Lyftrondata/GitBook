@@ -1,25 +1,25 @@
 ---
 description: >-
-  This page contains the setup guide and reference information for the
-  Recruitcrm source connector.
+  This page contains the setup guide and reference information for the Recruit
+  CRM source connector.
 ---
 
 # Recruit CRM
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Recruitcrm](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Recruit CRM](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Recruitcrm is available in real-time.
+* Data from Recruit CRM is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Recruitcrm relational schema model.
+* Ready to query Recruit CRM relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Recruitcrm](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Recruit CRM](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](broken-reference).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](prerequisite.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

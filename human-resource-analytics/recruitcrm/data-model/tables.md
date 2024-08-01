@@ -1,22 +1,23 @@
 ---
-description: This section contain information about recruitcrm connector tables information
+description: >-
+  This section contain information about Recruit CRM connector tables
+  information
 ---
 
 # Tables
 
 ### Data Dictionary
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver for [Recruitcrm](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm//)[ ](https://www.lyftrondata.com/integration/recruitcrm/)provides a detailed data dictionary of the tables with data types and column names.
+The [Lyftrondata](https://www.lyftrondata.com/) driver for [Recruit CRM](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/)[ ](https://www.lyftrondata.com/integration/recruitcrm/)provides a detailed data dictionary of the tables with data types and column names.
 
 {% embed url="https://docs.google.com/spreadsheets/d/1zSBM89oyw1i4kt3-tGMYB6LeMXPuSIPGtpDNvB1O0f0/edit" %}
-Lyftrondata Recruitcrm Data Dictionary
+Lyftrondata Recruit CRM Data Dictionary
 {% endembed %}
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
 We're always happy to answer any additional questions you may have! [Set up a meeting with our data experts.](https://www.lyftrondata.com/book-a-meeting/)
-

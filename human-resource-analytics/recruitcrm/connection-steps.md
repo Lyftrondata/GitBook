@@ -6,22 +6,18 @@ description: This section explains how to connect Lyftrondata to Recruitcrm.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Recruitcrm](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/). To establish your connection, use the connection strings described below.
-
-
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Recruit CRM](https://www.lyftrondata.com/integration/human-resource-analytics/recruit-crm/). To establish your connection, use the connection strings described below.
 
 ### PersonalToken
-
-This option has been deprecated by Microsoft.
 
 | Key           | Value                           | Field    |
 | ------------- | ------------------------------- | -------- |
 | PersonalToken | Your Recruit CRM Personal Token | Required |
 
-Follow the steps below to establish a basic connection
+Follow the steps below to establish a connection
 
 {% embed url="https://www.loom.com/share/4971e15980f04643b90f49d27a94ebe6" %}
-Basic Connection
+Recruit CRM Connection
 {% endembed %}
 
 ### Quickstart Steps
