@@ -4,22 +4,22 @@ description: >-
   Nextgen source connector.
 ---
 
-# Adp Nextgen
+# ADP Nextgen
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Adp Nextgen](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [ADP Nextgen](https://www.lyftrondata.com/integration/human-resource-analytics/adp-nextgen/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Adp Nextgen is available in real-time.
+* Data from ADP Nextgen is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Adp Nextgen relational schema model.
+* Ready to query ADP Nextgen relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Adp Nextgen](None/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [ADP Nextgen](https://www.lyftrondata.com/integration/human-resource-analytics/adp-nextgen/)  setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](prerequisite.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
