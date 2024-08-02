@@ -8,18 +8,18 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage Hr Advice Director](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage Hr Advice Director](https://www.lyftrondata.com/integration/human-resource-analytics/sage-hr-advice-director/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Sage Hr Advice Director is available in real-time.
+* Data from Sage HR Advice Director is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Sage Hr Advice Director relational schema model.
+* Ready to query Sage HR Advice Director relational schema model.
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Sage Hr Advice Director](None/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Sage Hr Advice Director](https://www.lyftrondata.com/integration/human-resource-analytics/sage-hr-advice-director/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
@@ -28,7 +28,7 @@ To connect to your destination without engineering, follow our step-by-step [Lyf
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../../).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](prerequisite.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 

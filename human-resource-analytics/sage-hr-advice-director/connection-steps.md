@@ -6,26 +6,20 @@ description: This section explains how to connect Lyftrondata to Sage Hr Advice 
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Sage Hr Advice Director](None). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to  [Sage Hr Advice Director](https://www.lyftrondata.com/integration/human-resource-analytics/sage-hr-advice-director/). To establish your connection, use the connection strings described below.
 
-### Basic
+### OAuth2 <a href="#oauth2" id="oauth2"></a>
 
-This option has been deprecated by Microsoft.
+| Key           | Value                       | Field    |
+| ------------- | --------------------------- | -------- |
+| Client ID     | Your Sage API Client ID     | Required |
+| Client Secret | Your Sage API Client Secret | Required |
 
-| Key                | Value                                          | Field    |
-| ------------------ | ---------------------------------------------- | -------- |
-| person\_token      | Your Personal Token                            | Required |
-| Lyft\_Token\_Email | Enter your Lyftrondata platform login email id | Required |
-
-Follow the steps below to establish a basic connection
-
-{% embed url="None" %}
-Basic Connection
-{% endembed %}
+Follow the steps below to establish a connection
 
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](prerequisite.md).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
