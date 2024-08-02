@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage Employee Benefits](None/) provides the most natural way to access data while requiring no engineering.
+The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage Employee Benefits](https://www.lyftrondata.com/integration/human-resource-analytics/sage-employee-benefits/) provides the most natural way to access data while requiring no engineering.
 
 ### Key Features
 
@@ -19,7 +19,7 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage Employee B
 
 ### Setup Guide
 
-To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/) [Sage Employee Benefits](None/) setup guide.
+To connect to your destination without engineering, follow our step-by-step [Lyftrondata](https://www.lyftrondata.com/)  [Sage Employee Benefits](https://www.lyftrondata.com/integration/human-resource-analytics/sage-employee-benefits/) setup guide.
 
 * [ ] [Prerequisite](prerequisite.md)
 * [ ] [Connection Steps](connection-steps.md)
