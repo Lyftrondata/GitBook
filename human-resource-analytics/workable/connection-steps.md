@@ -10,17 +10,15 @@ description: This section explains how to connect Lyftrondata to Workable.
 
 ### PersonalToken
 
-This option has been deprecated by Microsoft.
-
 | Key           | Value                        | Field    |
 | ------------- | ---------------------------- | -------- |
 | PersonalToken | Your Workable Personal Token | Required |
 | Subdomain     | Your Workable Subdomain      | Required |
 
-Follow the steps below to establish a basic connection
+Follow the steps below to establish a connection
 
 {% embed url="https://www.loom.com/share/ace0628594ae43b6ac8b9d79565f1052?sid=6cdd2a40-ca79-416a-affe-7505a3f8ba81" %}
-Basic Connection
+Workable Connection
 {% endembed %}
 
 ### Quickstart Steps
