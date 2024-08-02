@@ -13,9 +13,9 @@ The [Lyftrondata](https://www.lyftrondata.com/) integration for [Sage Hr](https:
 ### Key Features
 
 * Comprehensive incremental load mechanism.
-* Data from Sage Hr is available in real-time.
+* Data from Sage HR is available in real-time.
 * ANSI SQL is fully supported to query data with ease.
-* Ready to query Sage Hr relational schema model.
+* Ready to query Sage HR relational schema model.
 
 ### Setup Guide
 

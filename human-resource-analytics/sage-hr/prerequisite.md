@@ -9,7 +9,7 @@ description: >-
 
 ### Setup Instructions
 
-Follow the steps below to create an API Credentials for the [Sage Hr](None/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
+Follow the steps below to create an API Credentials for the [Sage Hr](https://www.lyftrondata.com/integration/human-resource-analytics/sage-hr/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
 ### Video Instruction
 
