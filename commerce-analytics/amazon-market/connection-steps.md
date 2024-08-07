@@ -6,17 +6,15 @@ description: This section explains how to connect Lyftrondata to Amazon Market.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Amazon Market](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Amazon Market](https://www.lyftrondata.com/integration/commerce-analytics/amazon-marketplace/). To establish your connection, use the connection strings described below.
 
-### Basic
+### PersonalToken
 
-This option has been deprecated by Microsoft.
+| Key             | Value               | Field    |
+| --------------- | ------------------- | -------- |
+| personal\_token | Your Personal Token | Required |
 
-| Key           | Value               | Field    |
-| ------------- | ------------------- | -------- |
-| person\_token | Your Personal Token | Required |
-
-Follow the steps below to establish a basic connection
+Follow the steps below to establish a connection
 
 ### Quickstart Steps
 
