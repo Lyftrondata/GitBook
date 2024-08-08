@@ -1,24 +1,20 @@
 ---
 description: >-
-    This section contains information about the destinations that Dynamics 365 Commerce
-    supports.
+  This section contains information about the destinations that Dynamics 365
+  Commerce supports.
 ---
 
 # Destinations
 
 ### Supported Destinations
 
-The [Lyftrondata](https://www.lyftrondata.com/) driver of [Dynamics 365 Commerce](None) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
+The [Lyftrondata](https://www.lyftrondata.com/) driver of  [Dynamics 365 Commerce](https://www.lyftrondata.com/integration/commerce-analytics/dynamics-365-commerce/) provides support for the below destinations for instant analytics with no engineering in just 4 simple steps.
 
 ### Snowflake Load:
 
-{% embed url="None" %}
-dynamics-365-commerce to Snowflake
-{% endembed %}
-
 ### Quickstart Steps
 
-Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](README.md).
+Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](./).
 
 ### Questions? <a href="#questions" id="questions"></a>
 
