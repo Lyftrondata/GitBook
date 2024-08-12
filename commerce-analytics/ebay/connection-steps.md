@@ -6,17 +6,15 @@ description: This section explains how to connect Lyftrondata to Ebay.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Ebay](None/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers following methods connecting to [Ebay](https://www.lyftrondata.com/integration/commerce-analytics/ebay/). To establish your connection, use the connection strings described below.
 
-### Basic
+### Personal Token
 
-This option has been deprecated by Microsoft.
+| Key             | Value               | Field    |
+| --------------- | ------------------- | -------- |
+| personal\_token | Your Personal Token | Required |
 
-| Key           | Value               | Field    |
-| ------------- | ------------------- | -------- |
-| person\_token | Your Personal Token | Required |
 
-Follow the steps below to establish a basic connection
 
 ### Quickstart Steps
 
