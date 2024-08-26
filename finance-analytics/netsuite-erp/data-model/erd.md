@@ -10,6 +10,8 @@ description: >-
 
 The [Lyftrondata](https://www.lyftrondata.com/) driver for [Netsuite ERP ](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/)provides detailed information about the entity relationships of data objects.
 
+{% embed url="https://docs.google.com/presentation/d/1tRr1WLp0pEyHAxTNOg5ZmzncPVeHvwNk61qDDr_q36w/edit?usp=sharing" %}
+
 ### Quickstart Steps
 
 Do you have questions about how to use the platform? Don't worry; we've got you covered. Simply follow the quickstart instructions [here](../).
