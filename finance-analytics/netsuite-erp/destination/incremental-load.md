@@ -1,7 +1,15 @@
 # Incremental Load
 
-Lyftrondata supports incremental data loading from NetSuite by leveraging the `last_modified_date` column. This approach ensures that only the records that have been changed or added since the last sync are retrieved, optimizing data transfer and reducing load times.
+Lyftrondata supports incremental data loading for NetSuite and NetSuite2 data sources. To enable incremental loading, the target table must meet specific criteria:
 
+#### NetSuite2.com & NetSuite.com Data Source
 
+A table from the NetSuite data source will be updated incrementally if it contains:
 
-<table data-header-hidden><thead><tr><th width="305">Column</th><th>Description</th></tr></thead><tbody><tr><td>Last_Modified_Date</td><td>Date filtering is supported in fewer endpoints which have Last Date Modified.</td></tr></tbody></table>
+* A numeric primary key.
+* One of the following columns:
+  * `lastmodified`
+  * `lastmodifieddate`
+  * `linelastmodifieddate`
+
+This ensures that only records changed or added since the last sync are retrieved, optimizing data transfer and reducing load times.
