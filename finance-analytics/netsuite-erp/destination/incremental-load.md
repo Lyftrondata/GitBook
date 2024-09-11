@@ -13,3 +13,9 @@ A table from the NetSuite data source will be updated incrementally if it contai
   * `linelastmodifieddate`
 
 This ensures that only records changed or added since the last sync are retrieved, optimizing data transfer and reducing load times.
+
+\
+**Video Guide**
+---------------
+
+{% embed url="https://www.loom.com/share/c359a1e0079f4e5cb78bd7d59b485b1e" %}

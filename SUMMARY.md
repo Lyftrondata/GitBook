@@ -535,6 +535,7 @@
       * [REST Web Services Setup](finance-analytics/netsuite-erp/prerequisite/rest-web-services-setup.md)
     * [Connection Steps](finance-analytics/netsuite-erp/connection-steps.md)
     * [Destinations](finance-analytics/netsuite-erp/destination/README.md)
+      * [Full Load](finance-analytics/netsuite-erp/destination/full-load.md)
       * [Incremental Load](finance-analytics/netsuite-erp/destination/incremental-load.md)
     * [Data Model](finance-analytics/netsuite-erp/data-model/README.md)
       * [ERD](finance-analytics/netsuite-erp/data-model/erd.md)
