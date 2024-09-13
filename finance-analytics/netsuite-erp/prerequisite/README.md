@@ -7,11 +7,13 @@ description: >-
 
 # Prerequisite
 
-### Setup Instruction
+Setup Instruction
 
 Follow the steps below to create an API Credentials for the [Netsuite Erp](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/) driver setup with [Lyftrondata](https://www.lyftrondata.com)
 
-{% embed url="https://drive.google.com/file/d/1empaBFfBr5NWabrmsvGTsurTQ9ecZ-9n/view" %}
+
+
+{% embed url="https://www.loom.com/share/d039795b5ad24201adfaf1141e55a8c1?sid=54180f1b-b4b7-4530-bfa4-3a638028f285" %}
 
 ## Suite Talk Vs SuiteQL:
 
