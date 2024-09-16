@@ -6,17 +6,22 @@ description: This section explains how to connect Lyftrondata to Netsuite Erp.
 
 ### Establishing a connection
 
-[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Netsuite ERP ](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/). To establish your connection, use the connection strings described below.
+[Lyftrondata](https://www.lyftrondata.com) offers the following methods connecting to [Netsuite ERP](https://www.lyftrondata.com/integration/finance-analytics/netsuite-erp/). To establish your connection, use the connection strings described below.
 
-### OAuth Client Credentials
+### **Connectivity Methods**
 
-<table><thead><tr><th>Key</th><th width="261.3333333333333">Value</th><th>Field</th></tr></thead><tbody><tr><td>Account ID</td><td>Your NetSuite Account ID</td><td>Required</td></tr><tr><td>Access Key</td><td>Your NetSuite Access Key</td><td>Required</td></tr><tr><td>Access Secert</td><td>Your NetSuite Access Secret</td><td>Required</td></tr><tr><td>Token Key</td><td>Your NetSuite Tokey Key</td><td>Required</td></tr><tr><td>Token Secret</td><td>Your NetSuite Token Secret</td><td>Required</td></tr><tr><td>Role ID</td><td>Your Netsuite Role ID</td><td>Required</td></tr></tbody></table>
+1. **JDBC**
+2. **REST API**
+
+### JDBC Credentials
+
+<table><thead><tr><th>Key</th><th width="261.3333333333333">Value</th><th>Field</th></tr></thead><tbody><tr><td>Account ID</td><td>Your NetSuite Account ID</td><td>Required</td></tr><tr><td>Username</td><td>Your NetSuite Username</td><td>Required</td></tr><tr><td>Password</td><td>Your NetSuite Password</td><td>Required</td></tr><tr><td>Role ID</td><td>Your NetSuite Role ID</td><td>Required</td></tr><tr><td>Port</td><td>Your NetSuite Port</td><td>Required</td></tr><tr><td>ServerDataSource</td><td>Your NetSuite Server Data Source is NetSuite.com</td><td>Required</td></tr><tr><td>NegotiateSSLClose</td><td>False</td><td>Required</td></tr><tr><td>Encrypted</td><td>1</td><td>Required</td></tr></tbody></table>
 
 Follow the steps below to establish a connection
 
 ### **Connect With Lyftrondata:**
 
-{% embed url="https://www.loom.com/share/787be59cf2aa4d18803c9a3b16a4b7ee?sid=4e6052a3-62c3-4cea-bb39-f25abe1c9f48" %}
+{% embed url="https://www.loom.com/share/e42d22cecdaf46cf9f4bc05038a06e46?sid=0def11b8-26b8-49c7-8f0d-ce2d70d32be8" %}
 
 ### Quickstart Steps
 

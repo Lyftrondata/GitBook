@@ -533,6 +533,7 @@
     * [Prerequisite](finance-analytics/netsuite-erp/prerequisite/README.md)
       * [Permission Configurations](finance-analytics/netsuite-erp/prerequisite/permission-configurations.md)
       * [REST Web Services Setup](finance-analytics/netsuite-erp/prerequisite/rest-web-services-setup.md)
+      * [Role Limitations](finance-analytics/netsuite-erp/prerequisite/role-limitations.md)
     * [Connection Steps](finance-analytics/netsuite-erp/connection-steps.md)
     * [Destinations](finance-analytics/netsuite-erp/destination/README.md)
       * [Incremental Load](finance-analytics/netsuite-erp/destination/incremental-load.md)
